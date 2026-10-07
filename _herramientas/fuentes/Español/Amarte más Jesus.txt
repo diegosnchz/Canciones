@@ -1,0 +1,40 @@
+title: Amarte más Jesús
+composer: W. H. Doane
+lyricist: Mrs. E. Prentiss
+arranger: Arr.- Wayne Hooper
+key: Db
+time: 4/4
+tempo: 100
+source: PDF original (escaneo CamScanner, 1 pág., 2 pentagramas TT/BB, subtítulo "(More Love to Thee)", pie "Fernando Palomo"); melodía MORE LOVE TO THEE (Doane), letra Prentiss (hymnary.org/hymn/SDAH1985/458, hymnary.org/hymn/CC1964/252). Sin tempo en el PDF: 100 (referencias: "Andante con espress.", PraiseCharts 106). Estrofa 2 sólo impresa en c.1-8; c.9-12 T2/Bar./Bajo tararean "Hm". Calderón impreso sobre el pentagrama superior en c.16 (aplicado a las 4 voces).
+
+@1
+T1: ab3/2 bb3 ab3 | db4. eb4/8 f4/2 | f4/2 eb4 db4 | eb4/2. r
+T2: ab3/2 bb3 ab3 | ab3. ab3/8 db4/2 | db4/2 c4 bb3 | c4/2. r
+B1: f3/2 gb3 f3 | f3. gb3/8 ab3/2 | ab3/2 gn3 gb3 | ( ab3/2 gb3_ ) r
+B2: db3/2 db3 db3 | db3. db3/8 db3/2 | db3/2 eb3 eb3 | ab2/2. r
+L: A- mar- te | más, Je- sús! | qui- sie- ra | yo;
+L2: Des- de_el prin- | ci- pio_al fin | te_a- la- ba- | ré;
+
+@5
+T1: db4/2 db4 db4 | db4. eb4/8 f4/2 | eb4/2 db4 c4 | db4/2. r
+T2: ab3/2 bb3 bb3 | bb3. c4/8 db4/2 | bb3/2 ab3 ab3 | ab3/2. r
+B1: f3/2 gb3 f3 | f3. ab3/8 ab3/2 | ( ab3 gb3_ ) f3 gb3 | f3/2. r
+B2: db3/2 db3 db3 | bb2. ab2/8 db3/2 | gb2/2 ab2 ab2 | db3/2. r
+L: o- ye mi_hu- | mil- de voz | oh mi Se- | ñor.
+L2: e- res mi | Sal- va- dor | mi buen Je- | sús.
+
+@9
+T1: gb4/2 gb4 gb4 | gb4. f4/8 f4/2 | eb4/2 eb4 eb4 | eb4. db4/8 db4/2
+T2: db4/1~ | db4/1 | ( c4/1 | c4._ bb3/8_ bb3/2_ )
+B1: ( bb3/1 | ab3/1_ ) | ( ab3 eb3/8_ f3/8_ gb3/2_ | gb3._ f3/8_ f3/2_ )
+B2: db3/1~ | db3/1 | ( ab2/1 | an2._ bb2/8_ bb2/2_ )
+L.T1: Yo quie- ro_a- | mar- te más, | a- mar- te | más oh Dios,
+L.T2: Hm | | Hm |
+L.BB: Hm | | Hm |
+
+@13
+T1: bb3/2 bb3 bb3 | db4/2. r | eb4/2 db4 c4 | db4/2.^ r
+T2: bb3/2 bb3 bb3 | ab3/2. r | bb3/2 ab3 ab3 | ab3/2.^ r
+B1: ( db3 eb3_ ) en3 en3 | f3/2. r | gb3/2 eb3/8 f3/8_ gb3 | f3/2.^ r
+B2: gb2/2 gn2 gn2 | ( ab2/2 db3_ ) r | ( gb3 eb3_ ) ab2 ab2 | db3/2.^ r
+L: A- mar- te | más! | A- mar- te | más!

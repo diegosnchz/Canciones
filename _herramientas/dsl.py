@@ -174,6 +174,12 @@ def apply_lyrics(notes_list, toks, number):
 ACTIVE = list(VOICES)
 
 
+def _qtype(ql):
+    # music21 reciente devuelve (tipo, exacto)
+    t = duration.quarterLengthToClosestType(ql)
+    return t[0] if isinstance(t, tuple) else t
+
+
 def build(hdr, blocks, warn=print):
     global ACTIVE
     ACTIVE = list(VOICES) + (PIANO if any("PR" in b["voices"] or "PL" in b["voices"] for b in blocks) else [])
@@ -300,9 +306,9 @@ def build(hdr, blocks, warn=print):
                             n = note.Note(pns[0]) if len(pns) == 1 else chord.Chord(pns)
                         n.duration = duration.Duration(quarterLength=float(t.ql))
                         if tup_left:
-                            tp = duration.Tuplet(3, 2, duration.Duration(type=duration.quarterLengthToClosestType(Fraction(4, t.base))))
+                            tp = duration.Tuplet(3, 2, duration.Duration(type=_qtype(Fraction(4, t.base))))
                             tp.type = "start" if tup_left == 3 else ("stop" if tup_left == 1 else None)
-                            n.duration = duration.Duration(type=duration.quarterLengthToClosestType(Fraction(4, t.base)), dots=t.dots)
+                            n.duration = duration.Duration(type=_qtype(Fraction(4, t.base)), dots=t.dots)
                             n.duration.appendTuplet(tp)
                             tup_left -= 1
                         if "~" in t.mods:
