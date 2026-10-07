@@ -1,0 +1,147 @@
+title: Andaba yo sin paz
+composer:
+lyricist:
+arranger:
+key: Ab
+time: 4/4
+tempo: 82
+source: PDF original (4 págs., escaneo CamScanner); OMR Audiveris falló, lectura manual con guías de altura. 4 pentagramas (1 Tenor y 2 Tenor en Sol 8vb, Barítono y Bajo en Fa), La bemol mayor, negra=82 (impreso), anacrusa de una corchea. Forma escrita completa: estrofa 1 (c.1-8), coro (c.9-16), estrofa 2 (c.17-24), coro (c.25-32), coro (c.33-40), coro final con "a-la-ban-zas" repetido y coda (c.41-54). El signo |: del c.1 no tiene :| de cierre en el PDF: no se aplica repetición. Letra del Bajo con ecos entre paréntesis tal como está impresa ("Hum-di-do" sic). Búsqueda web ("Andaba yo sin paz", "siguiendo a Satanás", "mas un buen día el Salvador me halló"): no encontrado.
+
+# anacrusa (el PDF pone "1." delante de "An-")
+@0
+T1: r/8 c4/8
+T2: r/8 eb3/8
+B1: r/8 ab3/8
+B2: r/8 ab2/8
+L.TT: An-
+L.B1: An-
+L.B2: An-
+
+@1
+T1: c4/8 c4/8 c4/8 c4/8 eb4. en4/8 | f4/8 f4/8 f4/8 db4/8 c4. c4/8 | c4/8 c4/8 c4/8 eb4/8 dn4/8 dn4/8 dn4/8 dn4/8 | ( eb4 dn4_ db4._ ) db4/8
+T2: ab3/8 ab3/8 ab3/8 ab3/8 c4. c4/8 | bb3/8 ab3/8 ab3/8 f3/8 eb3. eb3/8 | ab3/8 ab3/8 ab3/8 bb3/8 c4/8 c4/8 bb3/8 ab3/8 | ( bb3/2 bb3._ ) eb3/8
+B1: eb3/8 eb3/8 eb3/8 eb3/8 ab3. ab3/8 | db4/8 db4/8 db4/8 ab3/8 ab3. ab3/8 | eb3/8 eb3/8 eb3/8 ab3/8 ab3/8 ab3/8 g3/8 f3/8 | ( g3 ab3_ g3._ ) g3/8
+B2: ab2/8 ab2/8 ab2/8 ab2/8 ab2/8 ab2/8 bb2/8 c3/8 | db3/8 db3/8 db3/8 db3/8 ab2. ab2/8 | ab2/8 ab2/8 ab2/8 c3/8 bb2/8 bb2/8 bb2/8 bb2/8 | ( eb3 f3_ eb3._ ) eb3/8
+L.TT: da- ba yo sin paz, si- | guien- do_a Sa- ta- nás mas | un buen dí- a_el Sal- va- dor me_ha- | lló Hum-
+L.B1: da- ba yo sin paz, si- | guien- do_a Sa- ta- nás mas | un buen dí- a_el Sal- va- dor me_ha- | lló Hum-
+L.B2: da- ba yo sin paz, (sin paz) si- | guien- do_a Sa- ta- nás mas | un buen dí- a_el Sal- va- dor me_ha- | lló Hum-
+
+# c.8 ocupa el final del sistema 2 y el inicio del sistema 3 de la pág. 1 (silencios)
+@5
+T1: c4/8 c4/8 c4/8 c4/8 eb4. en4/8 | f4/8 f4/8 f4/8 db4/8 c4. c4/8 | c4/8 c4/8 c4/8 db4/8 eb4/8 eb4/8 db4/8 db4/8 | ( c4 db4_ c4/8_ ) r r/8
+T2: ab3/8 ab3/8 ab3/8 ab3/8 c4. c4/8 | bb3/8 ab3/8 ab3/8 f3/8 eb3. eb3/8 | ab3/8 ab3/8 ab3/8 bb3/8 c4/8 c4/8 bb3/8 bb3/8 | ab3/2~ ab3/8 r r/8
+B1: eb3/8 eb3/8 eb3/8 eb3/8 ab3. ab3/8 | db4/8 db4/8 db4/8 ab3/8 ab3. ab3/8 | ab3/8 ab3/8 ab3/8 ab3/8 ab3/8 ab3/8 g3/8 g3/8 | ( eb3 f3_ eb3/8_ ) r r/8
+B2: ab2/8 ab2/8 ab2/8 ab2/8 ab2/8 ab2/8 bb2/8 c3/8 | db3/8 db3/8 db3/8 db3/8 ab2. ab2/8 | f3/8 f3/8 f3/8 fb3/8 eb3/8 eb3/8 eb3/8 eb3/8 | ab2/2~ ab2/8 ab2/8 c3/8 eb3/8
+L.TT: di- do_en la mal- dad y | lle- no de_an- sie- dad el | gran- de_a- mor de cris- to me_al- can- | zó.
+L.B1: di- do_en la mal- dad y | lle- no de_an- sie- dad el | gran- de_a- mor de cris- to me_al- can- | zó.
+L.B2: di- do_en la mal- dad (mal- dad) y | lle- no de_an- sie- dad el | gran- de_a- mor de cris- to me_al- can- | zó. (Qué go- zo_es)
+
+@9
+T1: c4/16 c4/16 c4/16 c4/16 c4/8 c4/8 db4/8 c4/8 r | c4/16 c4/16 c4/16 c4/16 c4/8 c4/8 db4/8 c4/8 r | eb4/8 eb4/8 dn4/8 dn4/8 db4/8 r/8 r | eb4/8 eb4/8 eb4/8 f4/8 gb4/8 r/8 r
+T2: ab3/16 ab3/16 ab3/16 ab3/16 ab3/8 ab3/8 f3/8 eb3/8 r | ab3/16 ab3/16 ab3/16 ab3/16 ab3/8 ab3/8 f3/8 eb3/8 r | bb3/8 bb3/8 bb3/8 bb3/8 bb3/8 r/8 r | c4/8 c4/8 c4/8 c4/8 c4/8 r/8 r
+B1: eb3/16 eb3/16 eb3/16 eb3/16 eb3/8 eb3/8 ab3/8 ab3/8 r | eb3/16 eb3/16 eb3/16 eb3/16 eb3/8 eb3/8 ab3/8 ab3/8 r | g3/8 g3/8 ab3/8 ab3/8 g3/8 r/8 r | ab3/8 ab3/8 ab3/8 ab3/8 ab3/8 r/8 r
+B2: ab2/16 ab2/16 ab2/16 ab2/16 ab2/8 ab2/8 ab2/8 ab2/8 c3/8 eb3/8 | ab2/16 ab2/16 ab2/16 ab2/16 ab2/8 ab2/8 ab2/8 ab2/8 c3/8 ab2/8 | eb3/8 eb3/8 f3/8 f3/8 eb3/8 eb3/8 f3/8 g3/8 | ab3/8 f3/8 eb3/8 c3/8 ab2/8 ab2/8 bb2/8 c3/8
+L.TT: ca- mi- nar con Je- su- cri- to | co- mu- nión con Él yo ten- go | o- ye mi cla- mor | fiel Con- so- la- dor.
+L.B1: ca- mi- nar con Je- su- cri- to | co- mu- nión con Él yo ten- go | o- ye mi cla- mor | fiel Con- so- la- dor.
+L.B2: ca- mi- nar con Je- su- cri- to (Dul- ce) | co- mu- nión con Él yo ten- go (Siem- pre) | o- ye mi cla- mor (Pues es mi) | fiel Con- so- la- dor. (Si- vie- nen)
+
+@13
+T1: f4/16 f4/16 f4/16 f4/16 en4/8 f4/8 f4/8 f4/8 r | eb4/16 eb4/16 eb4/16 eb4/16 dn4/8 eb4/8 f4/8 eb4/8 r | c4/16 c4/16 c4/16 c4/16 c4/8 db4/8 eb4/8 eb4/8 db4/8 db4/8 | c4/2. r/8 c4/8
+T2: db4/16 db4/16 db4/16 db4/16 db4/8 db4/8 db4/8 db4/8 r | c4/16 c4/16 c4/16 c4/16 bn3/8 c4/8 db4/8 c4/8 r | ab3/16 ab3/16 ab3/16 ab3/16 ab3/8 bb3/8 c4/8 c4/8 bb3/8 bb3/8 | ab3/2. r/8 eb3/8
+B1: ab3/16 ab3/16 ab3/16 ab3/16 g3/8 ab3/8 bb3/8 ab3/8 r | ab3/16 ab3/16 ab3/16 ab3/16 ab3/8 ab3/8 ab3/8 ab3/8 r | ab3/16 ab3/16 ab3/16 ab3/16 ab3/8 ab3/8 ab3/8 ab3/8 g3/8 g3/8 | eb3/2. r/8 ab3/8
+B2: db3/16 db3/16 db3/16 db3/16 db3/8 db3/8 db3/8 db3/8 c3/8 bb2/8 | ab2/16 ab2/16 ab2/16 ab2/16 ab2/8 ab2/8 ab2/8 ab2/8 c3/8 eb3/8 | f3/16 f3/16 f3/16 f3/16 f3/8 fb3/8 eb3/8 eb3/8 eb3/8 eb3/8 | ab2/2. r/8 ab2/8
+L.TT: pe- nas mil y a- flic- cio- nes | Sal- va- dor y con can- cio- nes | a- la- ban- zas por su_a- mor que me sal- | vó Del
+L.B1: pe- nas mil y a- flic- cio- nes | Sal- va- dor y con can- cio- nes | a- la- ban- zas por su_a- mor que me sal- | vó Del
+L.B2: pe- nas mil y a- flic- cio- nes (mi- ro_al) | Sal- va- dor y con can- cio- nes (le doy) | a- la- ban- zas por su_a- mor que me sal- | vó Del
+
+@17
+T1: c4/8 c4/8 c4/8 c4/8 eb4. en4/8 | f4/8 f4/8 f4/8 db4/8 c4. c4/8 | c4/8 c4/8 c4/8 eb4/8 dn4/8 dn4/8 dn4/8 dn4/8 | ( eb4 dn4_ db4._ ) db4/8
+T2: ab3/8 ab3/8 ab3/8 ab3/8 c4. c4/8 | bb3/8 ab3/8 ab3/8 f3/8 eb3. eb3/8 | ab3/8 ab3/8 ab3/8 bb3/8 c4/8 c4/8 bb3/8 ab3/8 | ( bb3/2 bb3._ ) eb3/8
+B1: eb3/8 eb3/8 eb3/8 eb3/8 ab3. ab3/8 | db4/8 db4/8 db4/8 ab3/8 ab3. ab3/8 | eb3/8 eb3/8 eb3/8 ab3/8 ab3/8 ab3/8 g3/8 f3/8 | ( g3 ab3_ g3._ ) g3/8
+B2: ab2/8 ab2/8 ab2/8 ab2/8 ab2/8 ab2/8 bb2/8 c3/8 | db3/8 db3/8 db3/8 db3/8 ab2. ab2/8 | ab2/8 ab2/8 ab2/8 c3/8 bb2/8 bb2/8 bb2/8 bb2/8 | ( eb3 f3_ eb3._ ) eb3/8
+L.TT: lo- do de mal- dad y | ne- gra_i- ni- qui- dad. Je- | sús me le- van- tó con tier- no_a- | mor. Me_en-
+L.B1: lo- do de mal- dad y | ne- gra_i- ni- qui- dad. Je- | sús me le- van- tó con tier- no_a- | mor. Me_en-
+L.B2: lo- do de mal- dad (mal- dad) y | ne- gra_i- ni- qui- dad. Je- | sús me le- van- tó con tier- no_a- | mor. Me_en-
+
+@21
+T1: c4/8 c4/8 c4/8 c4/8 eb4. en4/8 | f4/8 f4/8 f4/8 db4/8 c4. c4/8 | c4/8 c4/8 c4/8 db4/8 eb4/8 eb4/8 db4/8 db4/8 | ( c4 db4_ c4/8_ ) r r/8
+T2: ab3/8 ab3/8 ab3/8 ab3/8 c4. c4/8 | bb3/8 ab3/8 ab3/8 f3/8 eb3. eb3/8 | ab3/8 ab3/8 ab3/8 bb3/8 c4/8 c4/8 bb3/8 bb3/8 | ab3/2~ ab3/8 r r/8
+B1: eb3/8 eb3/8 eb3/8 eb3/8 ab3. ab3/8 | db4/8 db4/8 db4/8 ab3/8 ab3. ab3/8 | ab3/8 ab3/8 ab3/8 ab3/8 ab3/8 ab3/8 g3/8 g3/8 | ( eb3 f3_ eb3/8_ ) r r/8
+B2: ab2/8 ab2/8 ab2/8 ab2/8 ab2/8 ab2/8 bb2/8 c3/8 | db3/8 db3/8 db3/8 db3/8 ab2. ab2/8 | f3/8 f3/8 f3/8 fb3/8 eb3/8 eb3/8 eb3/8 eb3/8 | ab2/2~ ab2/8 ab2/8 c3/8 eb3/8
+L.TT: cuen- tro hoy fe- liz y | voy a_a- quel pa- ís do | pa- ra siem- pre can- ta- ré_al Se- | ñor.
+L.B1: cuen- tro hoy fe- liz y | voy a_a- quel pa- ís do | pa- ra siem- pre can- ta- ré_al Se- | ñor.
+L.B2: cuen- tro hoy fe- liz (fe- liz) y | voy a_a- quel pa- ís do | pa- ra siem- pre can- ta- ré_al Se- | ñor. (Qué go- zo_es)
+
+@25
+T1: c4/16 c4/16 c4/16 c4/16 c4/8 c4/8 db4/8 c4/8 r | c4/16 c4/16 c4/16 c4/16 c4/8 c4/8 db4/8 c4/8 r | eb4/8 eb4/8 dn4/8 dn4/8 db4/8 r/8 r | eb4/8 eb4/8 eb4/8 f4/8 gb4/8 r/8 r
+T2: ab3/16 ab3/16 ab3/16 ab3/16 ab3/8 ab3/8 f3/8 eb3/8 r | ab3/16 ab3/16 ab3/16 ab3/16 ab3/8 ab3/8 f3/8 eb3/8 r | bb3/8 bb3/8 bb3/8 bb3/8 bb3/8 r/8 r | c4/8 c4/8 c4/8 c4/8 c4/8 r/8 r
+B1: eb3/16 eb3/16 eb3/16 eb3/16 eb3/8 eb3/8 ab3/8 ab3/8 r | eb3/16 eb3/16 eb3/16 eb3/16 eb3/8 eb3/8 ab3/8 ab3/8 r | g3/8 g3/8 ab3/8 ab3/8 g3/8 r/8 r | ab3/8 ab3/8 ab3/8 ab3/8 ab3/8 r/8 r
+B2: ab2/16 ab2/16 ab2/16 ab2/16 ab2/8 ab2/8 ab2/8 ab2/8 c3/8 eb3/8 | ab2/16 ab2/16 ab2/16 ab2/16 ab2/8 ab2/8 ab2/8 ab2/8 c3/8 ab2/8 | eb3/8 eb3/8 f3/8 f3/8 eb3/8 eb3/8 f3/8 g3/8 | ab3/8 f3/8 eb3/8 c3/8 ab2/8 ab2/8 bb2/8 c3/8
+L.TT: ca- mi- nar con Je- su- cri- to | co- mu- nión con Él yo ten- go | o- ye mi cla- mor | fiel Con- so- la- dor.
+L.B1: ca- mi- nar con Je- su- cri- to | co- mu- nión con Él yo ten- go | o- ye mi cla- mor | fiel Con- so- la- dor.
+L.B2: ca- mi- nar con Je- su- cri- to (Dul- ce) | co- mu- nión con Él yo ten- go (Siem- pre) | o- ye mi cla- mor (Pues es mi) | fiel Con- so- la- dor. (Si- vie- nen)
+
+@29
+T1: f4/16 f4/16 f4/16 f4/16 en4/8 f4/8 f4/8 f4/8 r | eb4/16 eb4/16 eb4/16 eb4/16 dn4/8 eb4/8 f4/8 eb4/8 r | c4/16 c4/16 c4/16 c4/16 c4/8 db4/8 eb4/8 eb4/8 db4/8 db4/8 | c4/2 r/8 r r/8
+T2: db4/16 db4/16 db4/16 db4/16 db4/8 db4/8 db4/8 db4/8 r | c4/16 c4/16 c4/16 c4/16 bn3/8 c4/8 db4/8 c4/8 r | ab3/16 ab3/16 ab3/16 ab3/16 ab3/8 bb3/8 c4/8 c4/8 bb3/8 bb3/8 | ab3/2 r/8 r r/8
+B1: ab3/16 ab3/16 ab3/16 ab3/16 g3/8 ab3/8 bb3/8 ab3/8 r | ab3/16 ab3/16 ab3/16 ab3/16 ab3/8 ab3/8 ab3/8 ab3/8 r | ab3/16 ab3/16 ab3/16 ab3/16 ab3/8 ab3/8 ab3/8 ab3/8 g3/8 g3/8 | eb3/2 r/8 r r/8
+B2: db3/16 db3/16 db3/16 db3/16 db3/8 db3/8 db3/8 db3/8 c3/8 bb2/8 | ab2/16 ab2/16 ab2/16 ab2/16 ab2/8 ab2/8 ab2/8 ab2/8 c3/8 eb3/8 | f3/16 f3/16 f3/16 f3/16 f3/8 fb3/8 eb3/8 eb3/8 eb3/8 eb3/8 | ab2/2 r/8 ab2/8 c3/8 eb3/8
+L.TT: pe- nas mil y a- flic- cio- nes | Sal- va- dor y con can- cio- nes | a- la- ban- zas por su_a- mor que me sal- | vó
+L.B1: pe- nas mil y a- flic- cio- nes | Sal- va- dor y con can- cio- nes | a- la- ban- zas por su_a- mor que me sal- | vó
+L.B2: pe- nas mil y a- flic- cio- nes (mi- ro_al) | Sal- va- dor y con can- cio- nes (le doy) | a- la- ban- zas por su_a- mor que me sal- | vó (Qué go- zo_es)
+
+@33
+T1: c4/16 c4/16 c4/16 c4/16 c4/8 c4/8 db4/8 c4/8 r | c4/16 c4/16 c4/16 c4/16 c4/8 c4/8 db4/8 c4/8 r | eb4/8 eb4/8 dn4/8 dn4/8 db4/8 r/8 r | eb4/8 eb4/8 eb4/8 f4/8 gb4/8 r/8 r
+T2: ab3/16 ab3/16 ab3/16 ab3/16 ab3/8 ab3/8 f3/8 eb3/8 r | ab3/16 ab3/16 ab3/16 ab3/16 ab3/8 ab3/8 f3/8 eb3/8 r | bb3/8 bb3/8 bb3/8 bb3/8 bb3/8 r/8 r | c4/8 c4/8 c4/8 c4/8 c4/8 r/8 r
+B1: eb3/16 eb3/16 eb3/16 eb3/16 eb3/8 eb3/8 ab3/8 ab3/8 r | eb3/16 eb3/16 eb3/16 eb3/16 eb3/8 eb3/8 ab3/8 ab3/8 r | g3/8 g3/8 ab3/8 ab3/8 g3/8 r/8 r | ab3/8 ab3/8 ab3/8 ab3/8 ab3/8 r/8 r
+B2: ab2/16 ab2/16 ab2/16 ab2/16 ab2/8 ab2/8 ab2/8 ab2/8 c3/8 eb3/8 | ab2/16 ab2/16 ab2/16 ab2/16 ab2/8 ab2/8 ab2/8 ab2/8 c3/8 ab2/8 | eb3/8 eb3/8 f3/8 f3/8 eb3/8 eb3/8 f3/8 g3/8 | ab3/8 f3/8 eb3/8 c3/8 ab2/8 ab2/8 bb2/8 c3/8
+L.TT: ca- mi- nar con Je- su- cri- to | co- mu- nión con Él yo ten- go | o- ye mi cla- mor | fiel Con- so- la- dor.
+L.B1: ca- mi- nar con Je- su- cri- to | co- mu- nión con Él yo ten- go | o- ye mi cla- mor | fiel Con- so- la- dor.
+L.B2: ca- mi- nar con Je- su- cri- to (Dul- ce) | co- mu- nión con Él yo ten- go (Siem- pre) | o- ye mi cla- mor (Pues es mi) | fiel Con- so- la- dor. (Si- vie- nen)
+
+@37
+T1: f4/16 f4/16 f4/16 f4/16 en4/8 f4/8 f4/8 f4/8 r | eb4/16 eb4/16 eb4/16 eb4/16 dn4/8 eb4/8 f4/8 eb4/8 r | c4/16 c4/16 c4/16 c4/16 c4/8 db4/8 eb4/8 eb4/8 db4/8 db4/8 | c4/2 r/8 r r/8
+T2: db4/16 db4/16 db4/16 db4/16 db4/8 db4/8 db4/8 db4/8 r | c4/16 c4/16 c4/16 c4/16 bn3/8 c4/8 db4/8 c4/8 r | ab3/16 ab3/16 ab3/16 ab3/16 ab3/8 bb3/8 c4/8 c4/8 bb3/8 bb3/8 | ab3/2 r/8 r r/8
+B1: ab3/16 ab3/16 ab3/16 ab3/16 g3/8 ab3/8 bb3/8 ab3/8 r | ab3/16 ab3/16 ab3/16 ab3/16 ab3/8 ab3/8 ab3/8 ab3/8 r | ab3/16 ab3/16 ab3/16 ab3/16 ab3/8 ab3/8 ab3/8 ab3/8 g3/8 g3/8 | eb3/2 r/8 r r/8
+B2: db3/16 db3/16 db3/16 db3/16 db3/8 db3/8 db3/8 db3/8 c3/8 bb2/8 | ab2/16 ab2/16 ab2/16 ab2/16 ab2/8 ab2/8 ab2/8 ab2/8 c3/8 eb3/8 | f3/16 f3/16 f3/16 f3/16 f3/8 fb3/8 eb3/8 eb3/8 eb3/8 eb3/8 | ab2/2 r/8 ab2/8 c3/8 eb3/8
+L.TT: pe- nas mil y a- flic- cio- nes | Sal- va- dor y con can- cio- nes | a- la- ban- zas por su_a- mor que me sal- | vó
+L.B1: pe- nas mil y a- flic- cio- nes | Sal- va- dor y con can- cio- nes | a- la- ban- zas por su_a- mor que me sal- | vó
+L.B2: pe- nas mil y a- flic- cio- nes (mi- ro_al) | Sal- va- dor y con can- cio- nes (le doy) | a- la- ban- zas por su_a- mor que me sal- | vó (Qué go- zo_es)
+
+@41
+T1: c4/16 c4/16 c4/16 c4/16 c4/8 c4/8 db4/8 c4/8 r | c4/16 c4/16 c4/16 c4/16 c4/8 c4/8 db4/8 c4/8 r | eb4/8 eb4/8 dn4/8 dn4/8 db4/8 r/8 r | eb4/8 eb4/8 eb4/8 f4/8 gb4/8 r/8 r
+T2: ab3/16 ab3/16 ab3/16 ab3/16 ab3/8 ab3/8 f3/8 eb3/8 r | ab3/16 ab3/16 ab3/16 ab3/16 ab3/8 ab3/8 f3/8 eb3/8 r | bb3/8 bb3/8 bb3/8 bb3/8 bb3/8 r/8 r | c4/8 c4/8 c4/8 c4/8 c4/8 r/8 r
+B1: eb3/16 eb3/16 eb3/16 eb3/16 eb3/8 eb3/8 ab3/8 ab3/8 r | eb3/16 eb3/16 eb3/16 eb3/16 eb3/8 eb3/8 ab3/8 ab3/8 r | g3/8 g3/8 ab3/8 ab3/8 g3/8 r/8 r | ab3/8 ab3/8 ab3/8 ab3/8 ab3/8 r/8 r
+B2: ab2/16 ab2/16 ab2/16 ab2/16 ab2/8 ab2/8 ab2/8 ab2/8 c3/8 eb3/8 | ab2/16 ab2/16 ab2/16 ab2/16 ab2/8 ab2/8 ab2/8 ab2/8 c3/8 ab2/8 | eb3/8 eb3/8 f3/8 f3/8 eb3/8 eb3/8 f3/8 g3/8 | ab3/8 f3/8 eb3/8 c3/8 ab2/8 ab2/8 bb2/8 c3/8
+L.TT: ca- mi- nar con Je- su- cri- to | co- mu- nión con Él yo ten- go | o- ye mi cla- mor | fiel Con- so- la- dor.
+L.B1: ca- mi- nar con Je- su- cri- to | co- mu- nión con Él yo ten- go | o- ye mi cla- mor | fiel Con- so- la- dor.
+L.B2: ca- mi- nar con Je- su- cri- to (Dul- ce) | co- mu- nión con Él yo ten- go (Siem- pre) | o- ye mi cla- mor (Pues es mi) | fiel Con- so- la- dor. (Si- vie- nen)
+
+@45
+T1: f4/16 f4/16 f4/16 f4/16 en4/8 f4/8 f4/8 f4/8 r | eb4/16 eb4/16 eb4/16 eb4/16 dn4/8 eb4/8 f4/8 eb4/8 r | c4/16 c4/16 c4/16 c4/16 c4/8 db4/8 eb4/8 eb4/8 db4/8 db4/8 | c4/1
+T2: db4/16 db4/16 db4/16 db4/16 db4/8 db4/8 db4/8 db4/8 r | c4/16 c4/16 c4/16 c4/16 bn3/8 c4/8 db4/8 c4/8 r | ab3/16 ab3/16 ab3/16 ab3/16 ab3/8 bb3/8 c4/8 c4/8 bb3/8 bb3/8 | ab3/1
+B1: ab3/16 ab3/16 ab3/16 ab3/16 g3/8 ab3/8 bb3/8 ab3/8 r | ab3/16 ab3/16 ab3/16 ab3/16 ab3/8 ab3/8 ab3/8 ab3/8 r | ab3/16 ab3/16 ab3/16 ab3/16 ab3/8 ab3/8 ab3/8 ab3/8 g3/8 g3/8 | eb3/1
+B2: db3/16 db3/16 db3/16 db3/16 db3/8 db3/8 db3/8 db3/8 c3/8 bb2/8 | ab2/16 ab2/16 ab2/16 ab2/16 ab2/8 ab2/8 ab2/8 ab2/8 c3/8 eb3/8 | f3/16 f3/16 f3/16 f3/16 f3/8 fb3/8 eb3/8 eb3/8 eb3/8 eb3/8 | ab2/1
+L.TT: pe- nas mil y a- flic- cio- nes | Sal- va- dor y con can- cio- nes | a- la- ban- zas por su_a- mor que me sal- | vó.
+L.B1: pe- nas mil y a- flic- cio- nes | Sal- va- dor y con can- cio- nes | a- la- ban- zas por su_a- mor que me sal- | vó.
+L.B2: pe- nas mil y a- flic- cio- nes (mi- ro_al) | Sal- va- dor y con can- cio- nes (le doy) | a- la- ban- zas por su_a- mor que me sal- | vó.
+
+@49
+T1: c4/16 c4/16 c4/16 c4/16 c4/8 db4/8 eb4/8 eb4/8 db4/8 db4/8 | c4/1 | c4/16 c4/16 c4/16 c4/16 c4/8 db4/8 eb4. eb4/8
+T2: ab3/16 ab3/16 ab3/16 ab3/16 ab3/8 bb3/8 c4/8 c4/8 bb3/8 bb3/8 | ab3/1 | ab3/16 ab3/16 ab3/16 ab3/16 ab3/8 bb3/8 c4. c4/8
+B1: ab3/16 ab3/16 ab3/16 ab3/16 ab3/8 ab3/8 ab3/8 ab3/8 g3/8 g3/8 | eb3/1 | ab3/16 ab3/16 ab3/16 ab3/16 ab3/8 ab3/8 ab3. ab3/8
+B2: f3/16 f3/16 f3/16 f3/16 f3/8 fb3/8 eb3/8 eb3/8 eb3/8 eb3/8 | ab2/1 | f3/16 f3/16 f3/16 f3/16 f3/8 fb3/8 eb3. eb3/8
+L.TT: a- la- ban- zas por su_a- mor que me sal- | vó. | a- la- ban- zas por su_a- mor que
+L.B1: a- la- ban- zas por su_a- mor que me sal- | vó. | a- la- ban- zas por su_a- mor que
+L.B2: a- la- ban- zas por su_a- mor que me sal- | vó. | a- la- ban- zas por su_a- mor que
+
+# compás final de 3 tiempos (complementa la anacrusa)
+@52
+T1: db4 db4 c4 c4 | db4 db4/8 bb3/8_ c4/2~ | c4/2. |]
+T2: bb3 bb3 ab3/2~ | ab3/1~ | ab3/2. |]
+B1: g3 g3 eb3 eb3 | f3 f3/8 fb3/8_ eb3/2~ | eb3/2. |]
+B2: eb3 eb3 ab2/2~ | ab2/2 r/8 eb3/8 c3/8 bb2/8 | ab2/2. |]
+L.T1: me sal- vó (que | me sal- vó)
+L.T2: me sal- vó
+L.B1: me sal- vó (que | me sal- vó)
+L.B2: me sal- vó | (que me sal- | vó)
