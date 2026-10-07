@@ -8,6 +8,7 @@ Formato: `✅ Carpeta/Canción | tonalidad | compás | nº compases | advertenci
 ✅ Español/Cuan grande amor | La♭ M | 4/4 | 17 | anacrusa (c.0) + 16; himnario SATB: tenores = soprano/alto 8vb; tempo no impreso, ♩=82; calderón c.14
 ✅ Español/Amarte más Jesus | Re♭ M | 4/4 | 16 | escaneo de baja resolución y página curvada; tempo no impreso, ♩=100; calderón c.16; c.9-12 T2/Bar/Bajo 'Hm'
 ✅ Español/Cristo señor | Si♭ M | 4/4 | 25 | anacrusa + 24; tempo no impreso, ♩=80; c.21-24 pentagrama de graves redibujado a mano en el escaneo: Bar./Bajo NOTAS DEDUCIDAS por armonía (FINLANDIA)
+⛔ Español/Brilla en mi | — | — | — | BLOQUEADA: el PDF `Español/Brilla en mi.pdf` es byte a byte idéntico (MD5 ff88c819…) a `Rumano/O tata bun.pdf` y contiene solo la página 2 de "O, Tată bun" (letra rumana), no "Brilla en mi". Hace falta el PDF correcto. (Transcripción de esa página guardada para reutilizar en O tata bun.)
 
 ## Tanda 2 — Español 11-19 + Inglés
 
