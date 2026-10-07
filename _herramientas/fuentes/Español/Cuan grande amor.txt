@@ -1,0 +1,56 @@
+title: ¡Cuán Grande Amor!
+composer: Charles H. Gabriel, 1856-1932
+lyricist: Charles H. Gabriel, 1856-1932; tr., H. T. Reza
+arranger: 
+key: Ab
+time: 4/4
+tempo: 82
+source: PDF original (himnario nº 166, escaneo CamScanner, 1 pág., 2 pentagramas SATB: Sol arriba leída como Sol 8vb para T1/T2, Fa abajo B1/B2); melodía MY SAVIOR'S LOVE 8.7.8.7. con Coro; letra validada en https://www.hymnary.org/hymn/PyA2016/321b (trad. Honorato T. Reza); tempo no indicado en el PDF, ♩=82 según https://www.praisecharts.com/songs/details/75452/how-marvelous-i-stand-amazed-sheet-music/rhythm-track; 4 estrofas (L-L4) + coro con letra propia para voces graves; calderón c.14 (4ª parte); marcas a lápiz bajo c.15-16 ignoradas
+
+@0
+T1: eb3
+T2: c3
+B1: ab3
+B2: ab2
+L: Que
+L2: O-
+L3: Por
+L4: Cuan-
+
+@1
+T1: eb3 c3 eb3 ab3/8. bb3/16 | c4/2 ab3 ab3 | g3 g3/8. g3/16 ab3 bb3 | ab3/2. eb3
+T2: c3 c3 c3 c3/8. db3/16 | eb3/2 c3 eb3 | eb3 eb3/8. eb3/16 eb3 eb3 | eb3/2. c3
+B1: ab3 eb3 ab3 ab3/8. ab3/16 | ab3/2 ab3 ab3 | bb3 bb3/8. bb3/16 c4 db4 | c4/2. ab3
+B2: ab2 ab2 ab2 ab2/8. ab2/16 | ab2/2 ab2 c3 | eb3 eb3/8. eb3/16 eb3 eb3 | ab2/2. ab2
+L: Cris- to me_ha- ya sal- | va- do Tan | ma- lo co- mo yo | fui, Me
+L2: ró por mí en el | huer- to: “No | se_ha- ga mi vo- lun- | tad.” Y
+L3: mí se hi- zo pe- | ca- do, Mis | cul- pas su_a- mor lle- | vó. Mu-
+L4: do_al fi- nal con los | san- tos Su | glo- ria con- tem- pla- | ré, Con
+
+@5
+T1: f3 f3 ab3 g3/8. f3/16 | eb3/2 ab3 bb3 | c4 c4/8. c4/16 bb3 bb3 | ab3/1
+T2: db3 db3 f3 eb3/8. db3/16 | c3/2 eb3 f3 | eb3 eb3/8. eb3/16 db3 db3 | c3/1
+B1: ab3 ab3 ab3 ab3/8. ab3/16 | ab3/2 ab3 ab3 | ab3 ab3/8. ab3/16 g3 g3 | ab3/1
+B2: db3 db3 db3 db3/8. db3/16 | ab2/2 c3 db3 | eb3 eb3/8. eb3/16 eb3 eb3 | ab2/1
+L: de- ja ma- ra- vi- | lla- do, Pues | él se_en- tre- gó por | mí.
+L2: to- do_a- quel su- fri- | mien- to Cau- | sa- do fue por mi | mal.
+L3: rió_en la cruz ol- vi- | da- do, Mas | mi_al- ma él res- ca- | tó.
+L4: gra- ti- tud y con | can- tos Por | siem- pre le_a- la- ba- | ré.
+
+@9
+T1: c4/2 c4/8. bb3/16 ab3 | eb4/2 eb4/8. db4/16 c4 | bb3 bb3 bb3. c4/8 | db4 c4 bb3/2
+T2: eb3 eb3 eb3/8. db3/16 c3 | eb3 eb3 eb3/8. eb3/16 eb3 | eb3 eb3 eb3. eb3/8 | eb3 eb3 eb3/2
+B1: ab3 ab3 ab3/8. ab3/16 ab3 | c4 c4 c4/8. bb3/16 ab3 | g3 g3 g3. ab3/8 | bb3 ab3 g3/2
+B2: ab2 ab2 ab2/8. ab2/16 ab2 | ab3 ab3 ab3/8. ab3/16 ab3 | eb3 eb3 eb3. eb3/8 | eb3 eb3 eb3/2
+L.T1: ¡Cuán gran- de_a- mor! | ¡Oh gran- de_a- mor! | El de Cris- to | pa- ra mí.
+L.T2: ¡Oh cuán gran- de_a- mor! | ¡Oh cuán gran- de_a- mor! | El de Cris- to | pa- ra mí.
+L.BB: ¡Oh cuán gran- de_a- mor! | ¡Oh cuán gran- de_a- mor! | El de Cris- to | pa- ra mí.
+
+@13
+T1: c4/2 c4/8. bb3/16 ab3 | eb4/2 eb4/8. db4/16 c4^ | bb3 c4/8 db4/8_ c4. bb3/8 | ab3 g3 ab3 |]
+T2: eb3 eb3 eb3/8. db3/16 c3 | eb3 eb3 eb3/8. eb3/16 eb3^ | f3 f3 eb3. eb3/8 | eb3 db3 c3
+B1: ab3 ab3 ab3/8. ab3/16 ab3 | c4 c4 c4/8. bb3/16 ab3^ | ab3 ab3 ab3. db4/8 | c4 bb3 ab3
+B2: ab2 ab2 ab2/8. ab2/16 ab2 | ab3 ab3 ab3/8. ab3/16 ab3^ | db3 db3 eb3. eb3/8 | eb3 eb3 ab2
+L.T1: ¡Cuán gran- de_a- mor! | ¡Oh gran- de_a- mor! | Pues por él sal- | va- do fui.
+L.T2: ¡Oh cuán gran- de_a- mor! | ¡Oh cuán gran- de_a- mor! | Pues por él sal- | va- do fui.
+L.BB: ¡Oh cuán gran- de_a- mor! | ¡Oh cuán gran- de_a- mor! | Pues por él sal- | va- do fui.
