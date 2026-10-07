@@ -1,0 +1,84 @@
+title: A Cristo Coronad
+composer: George J. Elvey
+lyricist: Matthew Bridges
+arranger: Arr. Juan Salazar - Trans. A. Hernández
+key: G
+time: 4/4
+tempo: 100
+source: PDF original (Finale, 2 págs., 2 pentagramas TT/BB); melodía DIADEMATA (Elvey)
+
+@1
+T1: g3 g3/8 g3/8 b3 b3 | e4/2. e4 | d4 b3 c4 b3 | d4/2. a3
+T2: g3 g3/8 g3/8 b3 b3 | c4/2. c4 | b3 g3 a3 g3 | a3/2. a3
+B1: g3 g3/8 g3/8 g3 g3 | g3/2. g3 | g3 e3 e3/8 f#3/8_ g3 | f#3/2. d3
+B2: g3 g3/8 g3/8 e3 e3 | c3/2. c3 | b2 b2 a2 g2 | d3/2. d3
+L: A Cris- to co- ro- | nad di- | vi- no Sal- va- | dor, Sen-
+
+@5
+T1: b3 d4 e4 d4 | c#4 b3/8 a3/8_ d4 g4 | f#4 g4 e4 e4 | d4/2. d4
+T2: b3 b3 b3 b3 | a3 a3/8 a3/8_ a3 d4 | d4 d4 d4 c#4 | a3 a3 b3 c4
+B1: g3 f#3 g3 f#3/8 g3/8_ | g3 g3 f#3 b3 | a3 b3 a3 g3 | f#3 f#3 g3 f#3
+B2: g3 f#3 e3 g2 | a2 g2 f#2 e2 | f#2 g2 a2 a2 | d3 c3 b2 a2
+L.T1: ta- do_en al- ta | ma- jes- tad es | dig- no de lo- | or Al
+L.T2: ta- do_en al- ta | ma- jes- tad es | dig- no de lo- | or (lo- or), Al
+L.BB: ta- do_en al- ta | ma- jes- tad es | dig- no de lo- | or (lo- or), Al
+
+@9
+T1: d4 b3 a3 b3 | e4/2. e4 | e4 b3 b3 c#4 | f#4/2. f#4
+T2: b3 g3 g3 g3 | c4/2. d4 | c#4 a3 a3 a3 | d4/2. d4
+B1: g3 d3 e#3 e#3 | g3/2. g3 | g3 g3 g3 g3 | a3/2. a3
+B2: g2 g2 g2 g2 | c3/2. b2 | a2 a2 a2 a2 | d3/2. c3
+L: rey de glo- ria_y | paz lo- | o- res tri- bu- | tad, Y
+
+@13
+T1: g4. f#4/8 e4 d4 | [1 d4 d4 d4 d4 | c4 b3 c4 c4 | b3/2. r :|
+T2: d4 d4 c4 b3 | c4 a3 b3 b3 | a3 g3 a3 a3 | g3/2. r :|
+B1: g3 g3 g3 g3 | g3 f#3 g3 g3 | e3 d3 g3 f#3 | d3/2. r :|
+B2: b2 b2 c3 b2 | a2 d2 g2 b2 | c3 g2 d3 d3 | g2/2. r :|
+L: ben- de- cid al | in- mor- tal por | to- da_e- ter- ni- | dad.
+
+@17
+T1: [2 d4 d4 d4 b3/8 d4/8_ ] | c4 b3 a3 a3 | b3 d#4 e4 f#4 | key:E g#4/1~
+T2: c4 a3 b3 b3/8 d4/8_ | c4 b3 a3 a3 | b3 d#4_ e4_ d#4_ | ( f#4/2_ e4/2_ )
+B1: g3 f#3 g3 g3 | e3 g3 a3 a3 | b3/1~ | b3/1
+B2: a2 d2 g2 b2 | e3 g3 a3 a3 | b3 a3_ g#3_ f#3_ | e3 e3/8 e3/8 g#3 g#3
+L.T1: in- mor- tal por | to- da_e- ter- ni- | dad e- ter- ni- | dad
+L.T2: in- mor- tal por | to- da_e- ter- ni- | dad
+L.B1: in- mor- tal por | to- da_e- ter- ni- | dad
+L.B2: in- mor- tal por | to- da_e- ter- ni- | dad | A Cris- to co- ro-
+
+@21
+T1: g#4/2. r | ( g#4/2 f#4_ e4_ ) | d#4/2. r | g#4 g#4 g#4 g#4
+T2: e4/2._ r | b3/2 c#4/2 | b3/2. r | e4 d#4 e4 d#4/8 e4/8_
+B1: c#4/2. r | b3 e3 a3 g#3 | f#3/2. r | b3 b3 b3 b3
+B2: a3/2. c#4 | e3/2 a2 a#2 | a2/2. e2/16 f#2/8._ | g#2 b2 c#3 b2
+L.T1: Uh | luz, | a- la- ban- zas
+L.T2: ñor vi- | luz, | a- la- ban- zas
+L.B1: nad, | ñor de vi- da_y | luz, | a- la- ban- zas
+L.B2: nad, Se- | ñor vi- da_y | luz, Con | a- la- ban- zas
+
+@25
+T1: f#4 f#4 f#4 g#4/8 a#4/8_ | b4/8 a#4/8_ g#4 f#4 e4 | ( e4/2 !rit. d#4_ ) r | e4 e4 dn4 dn4
+T2: f#4 e4 d#4 e4 | d#4 c#4 b3 b3 | b3/2 r b3 | b3 g#3 f#3 e3
+B1: c#4/8 b3/8_ a#3 b3 b3 | f#3 e3 f#3 g#3 | a3/2. r | g#3 b3 a3 g#3
+B2: a#2 a#2/8 f#2/8_ b2 e3 | d#3 e3 c#3 c#3 | b2/2. r | e3 e3 e3 e3
+L.T1: pro- cla- mad los | triun- fos de la | cruz, | Él pues a- do-
+L.T2: pro- cla- mad los | triun- fos de la | cruz, A | Él pues a- do-
+L.BB: pro- cla- mad los | triun- fos de la | cruz, | Él pues a- do-
+
+@29
+T1: ( e4/2 f#4_ ) e4 | e4 e4 e4 e4 | f#4/2. f#4 | e4 e4 e4/8 d#4/8_ e4
+T2: c#4/2. c#4 | c#4 a#3 g#3 f#3 | d#4/2. b3 | b3 b3 c#4 b3
+B1: ( g#3 a3/2_ ) b3 | a#3 a#3 b3 a#3 | ( c#4/2 b3_ ) a3 | g#3/8 f#3/8_ g#3 a3 g#3
+B2: a2/2. g#2 | f#2 f#3 f#3 f#3 | a3/2. d#3 | e3. d#3/8 c#3 b2
+L: rad, Se- | ñor de Sal- va- | ción, Lo- | or e- ter- no
+
+@33
+T1: f#4 a4 g#4^ b4 | a4 g#4 f#4 f#4 | e4/1~ | e4/1 |]
+T2: c#4 f#4 ( f#4/8^ e#4/8^_ ) e#4 | f#4 e4 e4 d#4 | c#4/2 b3 a3 | b3/1 |]
+B1: a3 c#4 c#4^ c#4 | c#4 b3 a3 a3 | a3/2 g#3 f#3 | g#3/1 |]
+B2: a2 f#2 c#2^ c#3 | f#2 g#2 b2 b2 | e2/1~ | e2/1 |]
+L.T1: tri- bu- tad de | to- do co- ra- | zón
+L.T2: tri- bu- tad de | to- do co- ra- | zón (co- ra- | zón).
+L.B1: tri- bu- tad de | to- do co- ra- | zón (co- ra- | zón).
+L.B2: tri- bu- tad de | to- do co- ra- | zón

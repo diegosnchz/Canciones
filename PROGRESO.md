@@ -1,0 +1,16 @@
+# PROGRESO — Transcripción cuarteto TTBB
+
+Formato: `✅ Carpeta/Canción | tonalidad | compás | nº compases | advertencias`
+
+## Tanda 1 — Español 1-10
+✅ Español/A Cristo coronad | Sol M → Mi M (c.20) | 4/4 | 36 | ninguna (c.9 Bar. mi# tal como está impreso; tempo no indicado, ♩=100)
+
+## Tanda 2 — Español 11-19 + Inglés
+
+## Tanda 3 — Navidad + Rumano 1-9
+
+## Tanda 4 — Rumano 10-19
+
+## Tanda 5 — Rumano 20-28
+
+## QA por tanda
