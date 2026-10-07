@@ -45,6 +45,8 @@ def tokenize(line):
             out.append(Tok("ending", int(t[1])))
         elif t == "]":
             out.append(Tok("endclose"))
+        elif t in (r"\cresc", r"\dim", r"\!"):
+            out.append(Tok("wedge", t[1:]))
         elif t.startswith("\\"):
             out.append(Tok("dyn", t[1:]))
         elif t.startswith("!"):
@@ -214,6 +216,8 @@ def build(hdr, blocks, warn=print):
     endings = {vn: {} for vn in ACTIVE}   # vn -> {ending_no: [measures]}
     open_ending = {vn: None for vn in ACTIVE}
     slur_open = {vn: None for vn in ACTIVE}
+    wedge_open = {vn: None for vn in ACTIVE}   # (tipo, nota inicial)
+    pending_wedge = {vn: None for vn in ACTIVE}
     pending_tie = {vn: None for vn in ACTIVE}
     first = True
     total = 0
@@ -282,6 +286,15 @@ def build(hdr, blocks, warn=print):
                             endings[vn][t.val].append(m)
                     elif t.kind == "endclose":
                         open_ending[vn] = None
+                    elif t.kind == "wedge":
+                        if t.val == "!":
+                            if wedge_open[vn] is not None and block_notes[vn]:
+                                kind, n0 = wedge_open[vn]
+                                w = dynamics.Crescendo(n0, block_notes[vn][-1]) if kind == "cresc" else dynamics.Diminuendo(n0, block_notes[vn][-1])
+                                parts[vn].insert(0, w)
+                            wedge_open[vn] = None
+                        else:
+                            pending_wedge[vn] = t.val
                     elif t.kind == "dyn":
                         pending_dyn.append(t.val)
                     elif t.kind == "text":
@@ -339,6 +352,9 @@ def build(hdr, blocks, warn=print):
                         if pending_slur:
                             slur_open[vn] = n
                             pending_slur = False
+                        if pending_wedge[vn]:
+                            wedge_open[vn] = (pending_wedge[vn], n)
+                            pending_wedge[vn] = None
                         m.insert(float(off), n)
                         block_notes[vn].append(n)
                         off += t.ql if not n.duration.tuplets else Fraction(n.duration.quarterLength).limit_denominator(12)

@@ -1,0 +1,126 @@
+title: Me Ha Tocado
+composer: William J. Gaither
+lyricist:
+arranger: Trans. A. Hernández
+key: F
+time: 3/4
+tempo: 72
+source: PDF original (Finale, 4 págs., 2 pentagramas TT/BB, www.poderygloria.com, subtítulo "(He Touched Me)"); "He Touched Me" de Bill Gaither (1963) - hymnary.org/hymn/UMH/367; tempo ~67-71 bpm en grabaciones (chordu.com, Gaither Vocal Band); sin repeticiones ni D.S./Coda; modulación de Fa a Si bemol en c.50. c.40-43: tres notas en el pentagrama T (T1, T2 y Barítono tarareando "oh") mientras el Bajo canta solo la melodía en el pentagrama B. c.62-63: acorde final con 3 notas en el pentagrama B (Bajo divisi en octava Bb2+Bb3). Accidentales impresos tal cual: Cb4 (c.29), Fb4 (c.54, c.60).
+
+@1
+T1: e4. d4/8 c4/8 d4/8 | c4/2 bb3 | a3 c4/2~ | c4/2 r
+T2: c4. bb3/8 a3/8 bb3/8 | a3/2 g3 | f3 a3/2~ | a3/2 r
+B1: a3. g3/8 e3/8 g3/8 | e3/2 e3 | c3 f3/2~ | f3/2 r
+B2: c3. c3/8 c3/8 c3/8 | c3/2 c3 | f2 f2/2~ | f2/2 r
+L: Sa- cu- di- do | por la | vi- da |
+
+@5
+T1: e4. d4/8 c4/8 d4/8 | c4/2 bn3 | c4/2.~ | c4/2 r
+T2: c4. bb3/8 a3/8 bb3/8 | a3/2 g#3 | a3/2.~ | a3/2 r
+B1: a3. g3/8 e3/8 g3/8 | e3/2 e3 | f3/2.~ | f3/2 r
+B2: c3. c3/8 c3/8 c3/8 | c3/2 e3 | f3/2.~ | f3/2 r
+L: El pe- ca- do | me lle- | nó |
+
+@9
+T1: f4. f4/8 f4/8 f4/8 | d4/2 f4 | f4 c4/2~ | c4/2 d#4
+T2: d4. d4/8 d4/8 d4/8 | bb3/2 d4 | c4 a3/2~ | a3/2 c4
+B1: bb3. bb3/8 bb3/8 bb3/8 | f3/2 bb3 | a3 f3/2~ | f3/2 a3
+B2: bb2. bb2/8 bb2/8 bb2/8 | bb2/2 bb2 | f3 f3/2~ | f3/2 f#3
+L: Pe- ro cris- to | me_ha to- | ca- do | y
+
+@13
+T1: e4. d#4/8 e4/8 d#4/8 | d4 c4. bb3/8 | a3/2.~ | a3/2 r/8 c4/8
+T2: c4. bn3/8 c4/8 bn3/8 | bb3 a3. g3/8 | f3/2.~ | f3/2 r/8 c4/8
+B1: bb3. a3/8 bb3/8 a3/8 | f3 e3. e3/8 | c3/2.~ | c3/2 r
+B2: g3. f#3/8 g3/8 f#3/8 | f3 c3. c3/8 | f2/2.~ | f2/2 r
+L.TT: ya no soy el | mis- mo que_a- | yer | Mi
+L.BB: ya no soy el | mis- mo que_a- | yer |
+
+@17
+T1: c4/8 g3/8~ g3/2 | ( e4 f4_ g4/8_ ) g4/8 | f4/8 c4/8~ c4/2~ | c4/2 f4
+T2: c4/8 g3/8~ g3/2 | c4/2~ c4/8 c4/8 | c4/8 a3/8~ a3/2~ | a3/2 c4
+B1: r/2. | ( g3 a3_ bb3/8_ ) bb3/8 | a3/8 f3/8~ f3/2~ | f3/2 a3
+B2: r/2. | ( c3 d3_ e3/8_ ) e3/8 | f3/8 f3/8~ f3/2~ | f3/2 f3
+L.TT: cris- to | me_ha to- | ca- do | su
+L.BB: | me_ha to- | ca- do | su
+
+@21
+T1: f4/2~ f4/8 f4/8 | f4. c4/8 d4/8 c4/8 | b3/2.~ | b3/2 r/8 bb3/8
+T2: d4/2~ d4/8 d4/8 | c4. a3/8 bb3/8 a3/8 | g3/2.~ | g3/2 r/8 g3/8
+B1: bb3/2~ bb3/8 bb3/8 | a3. f3/8 gb3/8 gb3/8 | ( f3/2. | e3/2_ ) r/8 e3/8
+B2: bb2/2~ bb2/8 bb2/8 | f3. f3/8 d3/8 d3/8 | ( d3/2. | c3/2_ ) r/8 c3/8
+L: go- zo_i- | nun- da_el co- ra- | zón | Mi
+
+@25
+T1: c4/8 c4/8~ c4. c4/8 | e4/8 e4/8~ e4/2 | eb4/2 eb4 | f4/2~ f4/8 f4/8
+T2: a3/8 a3/8~ a3. a3/8 | bb3/8 bb3/8~ bb3/2 | c4/2 c4 | d4/2~ d4/8 d4/8
+B1: f3/8 f3/8~ f3. f3/8 | g3/8 g3/8~ g3/2 | a3/2 a3 | bb3/2~ bb3/8 bb3/8
+B2: f3/8 f3/8~ f3. f3/8 | c3/8 c3/8~ c3/2 | f3/2 f3 | bb2/2~ bb2/8 bb2/8
+L: vi- da es | o- tra | yo lo | sé Mi
+
+@29
+T1: f4/8 c4/8~ c4 e4/8 eb4/8_ | ( d4 c4._ ) bb3/8 | a3/2.~ | a3/2 r
+T2: c4/8 a3/8~ a3 c4/8 cb4/8_ | ( bb3 a3._ ) g3/8 | f3/2.~ | f3/2 r
+B1: a3/8 f3/8~ f3 a3/8 ab3/8_ | ( g3 e3._ ) e3/8 | c3/2.~ | c3/2 r
+B2: c3/8 c3/8~ c3 a2/8 ab2/8_ | ( g2 c3._ ) c3/8 | f2/2.~ | f2/2 r
+L: Cris- to to- | có mi | ser. |
+
+@33
+T1: r/2. | r/2. | r/2. | r/2.
+T2: r/2. | r/2. | r/2. | r/2.
+BB: c4. bb3/8 a3/8 bb3/8 | a3/2 g3 | f3 a3/2~ | a3/2 c4
+L.BB: Mi Je- sús me | ha to- | ca- do | Me
+
+@37
+T1: r/2. | r/2. | r/2. | ( c4 d4_ f4_~ )
+T2: r/2. | r/2. | r/2. | ( a3 bb3_ c4_ )
+B1: c4. bb3/8 a3/8 bb3/8 | a3/2 r/8 g#3/8 | a3/2. | ( f3 g3_ a3_ )
+B2: c4. bb3/8 a3/8 bb3/8 | a3/2 r/8 g#3/8 | a3/2.~ | ( a3 bb3_ c4_ )
+L.TT: | | | oh
+L.B1: ha lim- pia- do | por su_a- | mor | oh
+L.B2: ha lim- pia- do | por su_a- | mor |
+
+@41
+T1: f4/2.~ | f4/2.~ | f4/2 r/8 f4/8 | f4/8 d4/8_ c4 d#4
+T2: ( d4/2._~ | d4/2. | c4/2_ ) r/8 c4/8 | c4/8 bb3/8_ a3 a3
+B1: ( bb3/2._~ | bb3/2. | a3/2_ ) r/8 c4/8 | c4/8 bb3/8_ a3 c4
+B2: d4. d4/8 d4/8 c4/8 | bb3/2~ bb3/8 d4/8 | c4 a3. a3/8 | a3/8 g3/8_ f3 f#3
+L.TT: | | por | siem- pre E-
+L.B1: | | por | siem- pre E-
+L.B2: Y le hon- ra- | ré por | siem- pre por | siem- pre E-
+
+@45
+T1: e4. d#4/8 e4/8 d#4/8 | d4 c4 bb3 | bb3/8 a3/8_~ a3/2 | f4/8 f4/8 f4/8 c4.
+T2: bb3. a3/8 bb3/8 a3/8 | f3 e3 d3 | d3/8 c3/8_~ c3/2 | f4/8 f4/8 f4/8 c4.
+B1: c4. bn3/8 c4/8 bn3/8 | bb3 a3 g3 | g3/8 f3/8_~ f3/2 | r/2.
+B2: g3. f#3/8 g3/8 f#3/8 | f3 e3 d3 | d3/8 c3/8_~ c3/2 | r/2.
+L.TT: ter- na- men- te | le_a- la- ba- | ré | Oh mi Cris- to
+L.BB: ter- na- men- te | le_a- la- ba- | ré |
+
+@49
+T1: f4/2~ f4/8 f4/8 | key:Bb f4/8 d4/2 bb4/8 | bb4/8 g4/8 f4 bb4 | bb4/2~ bb4/8 bb4/8
+T2: ( c4 d4_ eb4/8_ ) eb4/8 | d4/8 bb3/2 f4/8 | f4/8 eb4/8 d4 f4 | g4/2~ g4/8 g4/8
+B1: ( a3 bb3_ c4/8_ ) c4/8 | bb3/8 f3/2 d4/8 | d4/8 c4/8 bb3 d4/8 eb4/8_ | eb4/2~ eb4/8 eb4/8
+B2: ( f3 g3_ a3/8_ ) a3/8 | bb3/8 bb2/2 bb3/8 | bb3/8 g3/8 f3 ab3 | eb3/2~ eb3/8 eb3/8
+L: me_ha to- | ca- do Oh | Cris- to Su | go- zo_i-
+
+@53
+T1: bb4. f4/8 g4/8 f4/8 | ( fb4/2. | eb4/2_ ) r/8 eb4/8 | f4/8 f4/2 f4/8
+T2: f4. d4/8 eb4/8 d4/8 | c4/2.~ | c4/2 r/8 c4/8 | d4/8 d4/2 d4/8
+B1: d4. bb3/8 bn3/8 bn3/8 | ( bb3/2. | a3/2_ ) r/8 a3/8 | bb3/8 bb3/2 bb3/8
+B2: bb2. f3/8 g3/8 g3/8 | ( g3/2. | f3/2_ ) r/8 f3/8 | bb2/8 bb2/2 bb2/8
+L: nun- da_el co- ra- | zón | Mi | vi- da es
+
+@57
+T1: a4 a4/2 | ( c5 bb4_ ) bb4 | bb4/2~ bb4/8 bb4/8 | bb4/8 f4. a4/8 ab4/8_
+T2: eb4 eb4/2 | f4/2 f4 | ( g4/2 f4/8_ ) g4/8 | f4/8 d4. f4/8 fb4/8_
+B1: c4 c4/2 | d4/2 c4/8 d4/8_ | ( f4 eb4._ ) eb4/8 | d4/8 bb3. d4/8 db4/8_
+B2: f3 f3/2 | bb2/2 d3 | eb3/2~ eb3/8 eb3/8 | f3/8 g3. d3/8 db3/8_
+L: o- tra | yo lo | sé Mi | cris- to to-
+
+@61
+T1: ( g4 f4_ ) a4 | bb4/2.~ | bb4/2.
+T2: ( eb4 d4_ ) f4 | ( g4/2. | f4/2._ )
+B1: ( c4 a3_ ) eb4 | ( eb4/2. | d4/2._ )
+B2: ( c3 f3_ ) f3 | bb2+bb3/2.~ | bb2+bb3/2.
+L: có mi | ser. |
