@@ -10,6 +10,7 @@ Formato: `✅ Carpeta/Canción | tonalidad | compás | nº compases | advertenci
 ✅ Español/Cristo señor | Si♭ M | 4/4 | 25 | anacrusa + 24; tempo no impreso, ♩=80; c.21-24 pentagrama de graves redibujado a mano en el escaneo: Bar./Bajo NOTAS DEDUCIDAS por armonía (FINLANDIA)
 ⛔ Español/Brilla en mi | — | — | — | BLOQUEADA: el PDF `Español/Brilla en mi.pdf` es byte a byte idéntico (MD5 ff88c819…) a `Rumano/O tata bun.pdf` y contiene solo la página 2 de "O, Tată bun" (letra rumana), no "Brilla en mi". Hace falta el PDF correcto. (Transcripción de esa página guardada para reutilizar en O tata bun.)
 ✅ Español/He touched me (español) | Fa M → Si♭ M (c.50) | 3/4 | 63 | tempo no impreso, ♩=72; c.40-43 acordes de 3 notas en pentagrama T (Bar. toma la nota inferior; melodía en el Bajo); c.62-63 Bajo divisi en octava; alteraciones raras (Do♭, Fa♭, Re♭) copiadas tal cual
+✅ Español/El cielo es Jesús | La♭ M → La M (c.102) | 4/4 | 123 | anacrusa + 122; PDF vectorial 4 pentagramas; tempo no indicado, ♩=100; erratas de la letra impresa conservadas (p.ej. 'na nos', 'vue voa'); tresillo c.88; calderón final
 
 ## Tanda 2 — Español 11-19 + Inglés
 
