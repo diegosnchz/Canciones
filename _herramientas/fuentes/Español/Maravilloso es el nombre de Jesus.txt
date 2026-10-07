@@ -1,0 +1,66 @@
+title: Maravilloso Es el Nombre de Jesús
+composer: Audrey Mieir, 1916-
+lyricist: Audrey Mieir, 1916-; tr. Marjorie J. de Caudill
+arranger: 
+key: F
+time: 3/4
+tempo: 100
+source: PDF original (himnario nº 84, escaneo CamScanner, 1 pág., 2 pentagramas SATB: Sol arriba leída como Sol 8vb para T1/T2, Fa abajo B1/B2); melodía MIEIR, irregular ("His Name Is Wonderful", Audrey Mieir 1959, tr. Marjorie J. de Caudill) validada en https://hymnary.org/hymn/HAE1978/46 y https://hymnary.org/hymn/CdB1996/172; tempo no indicado en el PDF ni encontrado en internet (♩=100 por defecto); repetición c.1-8 con casillas 1ª (c.7-8) y 2ª (c.9-10): 1ª vez L, 2ª vez L2 (texto de la 2ª casilla impreso en la 2ª línea); corchetes impresos ⌐ ¬ sobre c.19-26 y marcas sueltas en c.13/c.15 ignorados (no son notas)
+
+@1
+T1: a3 a3. a3/8 | g3/8 f3/8 f3/2 | bb3 bb3. a3/8 | a3/8 g3/8 g3/2
+T2: f3 f3. f3/8 | d3/8 c3/8 c3/2 | d3 d3. d3/8 | d3/8 d3/8 d3/2
+B1: c4 c4. c4/8 | bb3/8 a3/8 a3/2 | f#3 f#3. c4/8 | c4/8 bb3/8 bb3/2
+B2: f3 f3. f3/8 | f3/8 f3/8 f3/2 | d3 d3. d3/8 | g3/8 g3/8 g3/2
+L: Ma- ra- vi- | llo- so es | El nom- bre | de Je- sús,
+L2: Rey po- de- | ro- so_y fiel, | De to- do_es | due- ño él,
+
+@5
+T1: c4 c4. bb3/8 | bb3/8 a3/8 a3/2
+T2: e3 e3. e3/8 | f3/8 f3/8 f3/2
+B1: g3 c4. d4/8 | d4/8 c4/8 c4/2
+B2: c3 c3. c3/8 | f3/8 f3/8 f3/2
+L: Ma- ra- vi- | llo- so es
+L2: Ma- ra- vi- | llo- so es
+
+@7
+T1: [1 a3 g3 a3 | g3/2. :|
+T2: f3 f3 f3 | ( e3 d3_ c3_ ) :|
+B1: bn3 bn3 bn3 | bb3/2. :|
+B2: g3 g3 g3 | ( c3 d3_ e3_ ) :|
+L: Cris- to_el Se- | ñor;
+
+@9
+T1: [2 bb3 a3 g3 | f3/2. ] ||
+T2: e3 e3 e3 | c3/2. ||
+B1: d4 c4 bb3 | a3/2. ||
+B2: c3 c3 c3 | f3/2. ||
+L2: Cris- to_el Se- | ñor.
+
+@11
+T1: g3 g3 a3 | bb3 g3. c3/8 | a3 a3 bb3 | c4 a3/2 | bn3 bn3 bn3
+T2: e3 e3 f3 | e3 e3. c3/8 | f3 f3 e3 | f3 f3/2 | f3 f3 f3
+B1: bb3 bb3 a3 | g3 bb3. c4/8 | c4 c4 c4 | c4 c4/2 | g3 g3 g3
+B2: c3 c3 c3 | c3 c3. c3/8 | f3 f3 g3 | a3 f3/2 | g3 g3 g3
+L: Pas- tor di- | vi- no, la | Ro- ca e- | ter- na, | Dios po- de-
+
+@16
+T1: c4/2 d4 | c4/2.~ | c4/2.
+T2: f3/2 f3 | ( e3/2 f3_ | g3/2._ )
+B1: a3/2 bn3 | ( c4 g3_ a3_ | bb3/2._ )
+B2: g3/2 g3 | c3/2.~ | c3/2.
+L: ro- so | es;
+
+@19
+T1: a3 a3. a3/8 | g3 f3/2 | bb3 bb3. a3/8 | a3 g3/2
+T2: f3 f3. f3/8 | d3 c3/2 | d3 d3. d3/8 | d3 d3/2
+B1: c4 c4. c4/8 | bb3 a3/2 | f#3 f#3. c4/8 | c4 bb3/2
+B2: f3 f3. f3/8 | f3 f3/2 | d3 d3. d3/8 | g3 g3/2
+L: Ve- nid, a- | mad- le, | hoy a- do- | rad- le;
+
+@23
+T1: c4 c4. bb3/8 | bb3/8 a3/8 a3/2 | bb3 a3 g3 | f3/2.
+T2: e3 e3. e3/8 | f3/8 f3/8 f3/2 | e3 e3 e3 | c3/2.
+B1: g3 c4. d4/8 | d4/8 c4/8 c4/2 | d4 c4 bb3 | a3/2.
+B2: c3 c3. c3/8 | f3/8 f3/8 f3/2 | c3 c3 c3 | f3/2.
+L: Ma- ra- vi- | llo- so es | Cris- to_el Se- | ñor.

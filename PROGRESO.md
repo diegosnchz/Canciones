@@ -14,6 +14,7 @@ Formato: `✅ Carpeta/Canción | tonalidad | compás | nº compases | advertenci
 
 ## Tanda 2 — Español 11-19 + Inglés
 ✅ Español/Oh cuanto me ama | La♭ M | 3/4 | 20 | himnario SATB bilingüe (4 estrofas: es/en/es/en); tempo no impreso, ♩=100; acordes de 3 notas como divisi en T2 (c.14,16,18) y Bar. (c.19-20); borde derecho del escaneo recortado
+✅ Español/Maravilloso es el nombre de Jesus | Fa M | 3/4 | 26 | himnario SATB; repetición c.1-8 con casillas 1ª (c.7-8) y 2ª (c.9-10); tempo no impreso, ♩=100; c.3/21 Bar. fa# (alteración borrosa, leída como sostenido)
 
 ## Tanda 3 — Navidad + Rumano 1-9
 
