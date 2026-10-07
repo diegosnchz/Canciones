@@ -1,0 +1,38 @@
+title: Gloria a Tu Nombre por Doquier
+composer: Donna Adkins
+lyricist: Donna Adkins (es traducción)
+arranger:
+key: Bb
+time: 4/4
+tempo: 80
+source: PDF original (escaneo CamScanner, himnario nº 103, 1 pág., 2 pentagramas SATB: Sol + Fa; pentagrama superior leído como TT 8vb). Original inglés "Glorify Thy Name" (Donna Adkins, 1976; arr. 1981 Maranatha! Music) - https://www.hymnary.org/hymn/Sing2025/44 , https://www.sixmaddens.org/glorify-thy-name/ . Tempo no indicado en el PDF: 80 (grabaciones/recomendaciones 78-106). Los corchetes de los compases 1-4 y 13-16 marcan la introducción sugerida del himnario (no se transcriben). 3 estrofas sólo en c.1-4; c.5-16 es estribillo común.
+
+@1
+T1: d3/2 d3 f3 | eb3/2 eb3 d3 | c3. c3/8 bb2 c3 | d3/2 d3/2
+T2: bb2/2 bb2 d3 | bb2/2 bb2 bb2 | c3. c3/8 bb2 c3 | c3/2 bb2/2
+B1: f3/2 f3 bb3 | g3/2 g3 f3 | a3. a3/8 g3 a3 | f3/2 f3/2
+B2: bb2/2 bb2 bb2 | bb2/2 bb2 bb2 | f3. f3/8 f3 f3 | bb2/2 bb2/2
+L: Pa- dre, te | a- mo, te_a- | la- bo y te_a- | do- ro;
+L2: Cris- to, te | a- mo, te_a- | la- bo y te_a- | do- ro;
+L3: Es- pí- ri- | tu, te a- | la- bo y te_a- | do- ro;
+
+@5
+T1: f3. f3/8 f3 f3 | g3. g3/8 f3 eb3 | f3/1~ | f3/1
+T2: d3. d3/8 d3 d3 | eb3. eb3/8 d3 c3 | c3/1~ | c3/1
+B1: bb3. bb3/8 bb3 bb3 | bb3. bb3/8 bb3 bb3 | ( bb3/1 | a3/1_ )
+B2: bb2. bb2/8 bb2 bb2 | eb3. eb3/8 f3 g3 | f3/1~ | f3/1
+L: Glo- ria a tu | nom- bre por do- | quier. |
+
+@9
+T1: f3. f3/8 f3 f3 | g3/1 | a3. a3/8 g3 a3 | bb3/1
+T2: d3. d3/8 d3 f3 | g3/1 | f#3. f#3/8 en3 f#3 | g3/1
+B1: bb3. bb3/8 bb3 bb3 | bb3/1 | d4. d4/8 d4 d4 | d4/1
+B2: bb2. bb2/8 bb2 d3 | eb3/1 | d3. d3/8 d3 d3 | ( g3/2 f3/2_ )
+L: Glo- ria_a ti, Se- | ñor, | Glo- ria_a ti, Se- | ñor;
+
+@13
+T1: bb3. bb3/8 a3 bb3 | c4. c4/8 bb3 a3 | bb3/1~ | bb3/1
+T2: g3. g3/8 a3 bb3 | a3. a3/8 g3 f3 | f3/1~ | f3/1
+B1: eb4. eb4/8 eb4 eb4 | eb4. eb4/8 eb4 eb4 | ( eb4/1 | d4/1_ )
+B2: eb3. eb3/8 f3 g3 | f3. f3/8 f3 f3 | bb2/1~ | bb2/1
+L: Glo- ria a tu | nom- bre por do- | quier. |

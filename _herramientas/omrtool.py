@@ -23,7 +23,7 @@ def run(pdf, work, lang="spa+eng"):
     r = subprocess.run(cmd, capture_output=True, text=True, encoding="utf-8", errors="replace")
     log = work / "audiveris.log"
     log.write_text(r.stdout + r.stderr, encoding="utf-8")
-    ok = (work / "in.mxl").exists()
+    ok = (work / "in.mxl").exists() or any(work.glob("in.mvt*.mxl"))
     print("OMR", "OK" if ok else "FALLO", work)
     return ok
 
@@ -92,8 +92,19 @@ def tok(ql, pname):
 def draft(work):
     from music21 import converter
     work = Path(work)
-    s = converter.parse(work / "in.mxl")
+    files = [work / "in.mxl"] if (work / "in.mxl").exists() else sorted(work.glob("in.mvt*.mxl"))
+    s = converter.parse(files[0])
     parts = list(s.parts)
+    # varios "movimientos": concatenar compases renumerando
+    for extra in files[1:]:
+        s2 = converter.parse(extra)
+        for pi, p2 in enumerate(s2.parts):
+            if pi >= len(parts): break
+            last = parts[pi].getElementsByClass("Measure").last()
+            base = (last.number if last is not None else 0)
+            for m in p2.getElementsByClass("Measure"):
+                m.number = base + m.number
+                parts[pi].append(m)
     lines = []
     lines.append("# borrador OMR - verificar cada nota contra crops/")
     nparts = len(parts)

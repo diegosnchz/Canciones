@@ -21,8 +21,9 @@ from music21 import (stream, note, chord, pitch, key, meter, clef, instrument, t
                      bar, spanner, dynamics, expressions, duration, tie, metadata, layout)
 
 VOICES = ["T1", "T2", "B1", "B2"]
-NAMES = {"T1": "Tenor 1", "T2": "Tenor 2", "B1": "Baritono", "B2": "Bajo"}
-NOTE_RE = re.compile(r"^(?P<p>[a-g](?:##|#|bb|b|n)?\d|r)(?:/(?P<d>\d+))?(?P<dots>\.*)(?P<mods>[~^'_>]*)$")
+PIANO = ["PR", "PL"]
+NAMES = {"T1": "Tenor 1", "T2": "Tenor 2", "B1": "Baritono", "B2": "Bajo", "PR": "Piano", "PL": "Piano"}
+NOTE_RE = re.compile(r"^(?P<p>[a-g](?:##|#|bb|b|n)?\d(?:\+[a-g](?:##|#|bb|b|n)?\d)*|r)(?:/(?P<d>\d+))?(?P<dots>\.*)(?P<mods>[~^'_>]*)$")
 BARS = {"|", "|:", ":|", ":|:", "||", "|]"}
 
 
@@ -112,17 +113,25 @@ def parse_file(path):
 def expand_voices(block):
     v = block["voices"]
     out = {}
-    for name in VOICES:
+    for name in ACTIVE:
         src = v.get(name)
         if src is None:
             src = v.get("TT" if name.startswith("T") else "BB")
+        if src is None and name in PIANO:
+            src = "=T1"  # provisional: se sustituye por silencios abajo
+            out[name] = None
+            continue
         if src is None:
             raise ValueError(f"falta voz {name} en bloque @{block['start']}")
         out[name] = src
     for _ in range(3):
-        for name in VOICES:
-            if out[name].startswith("="):
+        for name in ACTIVE:
+            if out[name] and out[name].startswith("="):
                 out[name] = out[out[name][1:].strip()]
+    for name in ACTIVE:
+        if out[name] is None:  # piano ausente en este bloque: un silencio de compás entero por compás
+            nmeas = out["T1"].count("|") + 1
+            out[name] = " | ".join(["r/1"] * nmeas)
     return out
 
 
@@ -162,7 +171,12 @@ def apply_lyrics(notes_list, toks, number):
     return i, len(toks)
 
 
+ACTIVE = list(VOICES)
+
+
 def build(hdr, blocks, warn=print):
+    global ACTIVE
+    ACTIVE = list(VOICES) + (PIANO if any("PR" in b["voices"] or "PL" in b["voices"] for b in blocks) else [])
     sc = stream.Score()
     sc.metadata = metadata.Metadata()
     sc.metadata.title = hdr.get("title", "")
@@ -176,10 +190,10 @@ def build(hdr, blocks, warn=print):
         sc.metadata.addContributor(metadata.Contributor(role="arranger", name=hdr["arranger"]))
 
     parts = {}
-    for i, vn in enumerate(VOICES):
+    for i, vn in enumerate(ACTIVE):
         p = stream.Part(id=f"P{i+1}")
         p.partName = NAMES[vn]
-        p.partAbbreviation = {"T1": "T1", "T2": "T2", "B1": "Bar.", "B2": "B."}[vn]
+        p.partAbbreviation = {"T1": "T1", "T2": "T2", "B1": "Bar.", "B2": "B.", "PR": "Pno.", "PL": ""}[vn]
         inst = instrument.Piano()
         inst.partName = NAMES[vn]
         inst.instrumentName = "Piano"
@@ -191,24 +205,24 @@ def build(hdr, blocks, warn=print):
     cur_time = hdr.get("time", "4/4")
     tempo_bpm = int(hdr.get("tempo", 100))
     mnum = None
-    endings = {vn: {} for vn in VOICES}   # vn -> {ending_no: [measures]}
-    open_ending = {vn: None for vn in VOICES}
-    slur_open = {vn: None for vn in VOICES}
-    pending_tie = {vn: None for vn in VOICES}
+    endings = {vn: {} for vn in ACTIVE}   # vn -> {ending_no: [measures]}
+    open_ending = {vn: None for vn in ACTIVE}
+    slur_open = {vn: None for vn in ACTIVE}
+    pending_tie = {vn: None for vn in ACTIVE}
     first = True
     total = 0
 
     for block in blocks:
         voices = expand_voices(block)
-        parsed = {vn: split_measures(tokenize(voices[vn])) for vn in VOICES}
+        parsed = {vn: split_measures(tokenize(voices[vn])) for vn in ACTIVE}
         nm = len(parsed["T1"])
-        for vn in VOICES:
+        for vn in ACTIVE:
             if len(parsed[vn]) != nm:
                 raise ValueError(f"bloque @{block['start']}: {vn} tiene {len(parsed[vn])} compases, T1 tiene {nm}")
         if mnum is not None and block["start"] != mnum:
             warn(f"AVISO: bloque @{block['start']} esperado @{mnum}")
         mnum = block["start"]
-        block_notes = {vn: [] for vn in VOICES}
+        block_notes = {vn: [] for vn in ACTIVE}
 
         for mi in range(nm):
             # directivas de T1 para todas las voces
@@ -222,7 +236,7 @@ def build(hdr, blocks, warn=print):
             if new_key: cur_key = new_key
             if new_time: cur_time = new_time
             ts = meter.TimeSignature(cur_time)
-            for vn in VOICES:
+            for vn in ACTIVE:
                 md = parsed[vn][mi]
                 # barras y casillas: las de T1 mandan si la voz no las lleva
                 if md["left"] is None or md["left"] == "|": md["left"] = t1["left"]
@@ -236,7 +250,7 @@ def build(hdr, blocks, warn=print):
                     if first or new_time:
                         m.insert(0, meter.TimeSignature(cur_time))
                     if first:
-                        m.insert(0, clef.Treble8vbClef() if vn.startswith("T") else clef.BassClef())
+                        m.insert(0, clef.Treble8vbClef() if vn.startswith("T") else (clef.TrebleClef() if vn == "PR" else clef.BassClef()))
                     if (first or new_tempo) and vn == "T1":
                         m.insert(0, tempo.MetronomeMark(number=new_tempo or tempo_bpm))
                 # barras
@@ -282,9 +296,8 @@ def build(hdr, blocks, warn=print):
                         if t.val == "r":
                             n = note.Rest()
                         else:
-                            pn = t.val
-                            pn = pn[0].upper() + pn[1:].replace("b", "-").replace("n", "")
-                            n = note.Note(pn)
+                            pns = [x[0].upper() + x[1:].replace("b", "-").replace("n", "") for x in t.val.split("+")]
+                            n = note.Note(pns[0]) if len(pns) == 1 else chord.Chord(pns)
                         n.duration = duration.Duration(quarterLength=float(t.ql))
                         if tup_left:
                             tp = duration.Tuplet(3, 2, duration.Duration(type=duration.quarterLengthToClosestType(Fraction(4, t.base))))
@@ -354,7 +367,7 @@ def build(hdr, blocks, warn=print):
                     warn(f"AVISO letra @{block['start']} {vn}: {used}/{n} sílabas usadas")
 
     # casillas: agrupar compases consecutivos
-    for vn in VOICES:
+    for vn in ACTIVE:
         for num, ms in endings[vn].items():
             ms = [x for x in ms if x is not None]
             if ms:
@@ -365,10 +378,12 @@ def build(hdr, blocks, warn=print):
         if last is not None and last.rightBarline is None:
             last.rightBarline = bar.Barline("final")
 
-    for vn in VOICES:
+    for vn in ACTIVE:
         sc.insert(0, parts[vn])
     sg = layout.StaffGroup([parts[v] for v in VOICES], name="", symbol="bracket")
     sc.insert(0, sg)
+    if "PR" in ACTIVE:
+        sc.insert(0, layout.StaffGroup([parts["PR"], parts["PL"]], name="Piano", symbol="brace", barTogether=True))
     return sc, total
 
 
