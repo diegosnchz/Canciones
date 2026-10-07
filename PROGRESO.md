@@ -13,6 +13,7 @@ Formato: `✅ Carpeta/Canción | tonalidad | compás | nº compases | advertenci
 ✅ Español/El cielo es Jesús | La♭ M → La M (c.102) | 4/4 | 123 | anacrusa + 122; PDF vectorial 4 pentagramas; tempo no indicado, ♩=100; erratas de la letra impresa conservadas (p.ej. 'na nos', 'vue voa'); tresillo c.88; calderón final
 
 ## Tanda 2 — Español 11-19 + Inglés
+✅ Español/Oh cuanto me ama | La♭ M | 3/4 | 20 | himnario SATB bilingüe (4 estrofas: es/en/es/en); tempo no impreso, ♩=100; acordes de 3 notas como divisi en T2 (c.14,16,18) y Bar. (c.19-20); borde derecho del escaneo recortado
 
 ## Tanda 3 — Navidad + Rumano 1-9
 

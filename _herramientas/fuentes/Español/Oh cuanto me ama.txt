@@ -1,0 +1,46 @@
+title: ¡Oh, Cuánto Me Ama!
+composer: Kurt Kaiser, 1934-
+lyricist: Kurt Kaiser, 1934-; tr., Salomón Mussiett y Ed Steele
+arranger: 
+key: Ab
+time: 3/4
+tempo: 100
+source: PDF original (himnario nº 60, escaneo CamScanner, 1 pág., 2 pentagramas SATB: Sol arriba leída como Sol 8vb para T1/T2, Fa abajo B1/B2; borde derecho recortado en el escaneo, sin pérdida de compases); título inglés "O How He Loves You and Me"; melodía PATRICIA (Kurt Kaiser, 1975), Irregular; autoría y tonalidad Ab/3/4 validadas en https://hymnary.org/hymn/TWC/479 y https://praisecharts.com/songs/details/20080/oh-how-he-loves-you-and-me; tempo no indicado en el PDF ni encontrado en internet: 100 por defecto; letra bilingüe impresa: L = estrofa 1 española, L2 = estrofa 1 inglesa, L3 = estrofa 2 española, L4 = estrofa 2 inglesa; acordes de 3 notas impresos en el pentagrama superior (c.14, 16, 18) y en el inferior (c.19-20) asignados como divisi a T2 y B1; marcas de introducción (corchetes c.13 y c.20) ignoradas
+
+@1
+T1: c3 c3 db3 | eb3 f3 g3 | ab3/2.~ | ab3/2. | f3 f3 g3 | ab3 ab3 bb3
+T2: ab2 ab2 ab2 | bb2 bb2 bb2 | c3/2.~ | c3/2. | db3 db3 eb3 | db3 db3 db3
+B1: eb3 eb3 f3 | eb3 eb3 eb3 | ( f3/2. | gb3/2._ ) | ab3 ab3 ab3 | f3 f3 g3
+B2: ab2 ab2 ab2 | g2 g2 g2 | ( f2/2. | ab2/2._ ) | db3 db3 c3 | bb2 bb2 eb3
+L: ¡Oh, cuán- to | me_a- ma a | mí! | | ¡Oh, cuán- to | te_a- ma a
+L2: O how He | loves you and | me. | | O how He | loves you and
+L3: Mu- rió_en la | cruz el Se- | ñor; | | Su gran a- | mor de- mos-
+L4: Je- sus to | Cal- v’ry did | go, | | His love for | man- kind to
+
+@7
+T1: c4/2.~ | c4/2. | c4 db4 c4 | bb3/2 c4/8 bb3/8 | ab3 bb3 c4 | ab3/2. | eb3 ab3 g3
+T2: ( eb3/2. | db3/2._ ) | eb3 f3 eb3 | eb3/2 eb3 | db3 db3 db3 | db3/2. | c3 c3 c3
+B1: ( ab3/2 g3_ | f3/2._ ) | ab3 ab3 ab3 | c4/2 ab3 | ab3 ab3 ab3 | bb3/2. | ab3 ab3 ab3
+B2: ab2/2.~ | ab2/2. | ab2 ab2 ab3 | gb3/2 gb3 | f3 f3 f3 | fb3/2. | eb3 eb3 eb3
+L.T1: ti! | | Su vi- da | dio por _ | ti y por | mí. | Oh, cuán- to
+L.T2: ti! | | Su vi- da | dio por | ti y por | mí. | Oh, cuán- to
+L.BB: ti! | | Su vi- da | dio por | ti y por | mí. | Oh, cuán- to
+L2.T1: me; | | He gave His | life, what _ | more could He | give? | O how He
+L2.T2: me; | | He gave His | life, what | more could He | give? | O how He
+L2.BB: me; | | He gave His | life, what | more could He | give? | O how He
+L3.T1: tró, | | Nos li- ber- | tó, es- pe- | ran- za nos | dio. | Oh, cuán- to
+L3.T2: tró, | | Nos li- ber- | tó, es-pe- | ran- za nos | dio. | Oh, cuán- to
+L3.BB: tró, | | Nos li- ber- | tó, es-pe- | ran- za nos | dio. | Oh, cuán- to
+L4.T1: show; | | What He did | there brought _ | hope from de- | spair: | O how He
+L4.T2: show; | | What He did | there brought | hope from de- | spair: | O how He
+L4.BB: show; | | What He did | there brought | hope from de- | spair: | O how He
+
+@14
+T1: f3 bb3/2 | eb3 ab3 g3 | f3 bb3/2 | eb3 ab3 g3 | f3 bb3 g3 | ab3/2.~ | ab3/2.
+T2: db3 db3+f3/2 | c3 c3 c3 | db3 db3+f3/2 | c3 c3 eb3 | db3 db3+f3 db3 | c3/2.~ | c3/2.
+B1: ab3 ab3/2 | ab3 ab3 ab3 | ab3 ab3/2 | ab3 ab3 ab3 | ab3 ab3 bb3 | eb3+ab3/2.~ | eb3+ab3/2.
+B2: eb3 eb3/2 | eb3 eb3 eb3 | eb3 eb3/2 | eb3 eb3 c3 | db3 bb2 eb3 | ab2/2.~ | ab2/2.
+L: me_a- ma, | Oh, cuán- to | te_a- ma, | ¡Cuán- to nos | a- ma_el Se- | ñor! |
+L2: loves you; | O how He | loves me; | O how He | loves you and | me! |
+L3: me_a- ma, | Oh, cuán- to | te_a- ma, | ¡Cuán- to nos | a- ma_el Se- | ñor! |
+L4: loves you; | O how He | loves me; | O how He | loves you and | me! |
