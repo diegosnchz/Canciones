@@ -1,0 +1,5972 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE score-partwise  PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise version="4.0">
+  <work>
+    <work-title>Cristo Señor</work-title>
+  </work>
+  <movement-title>Cristo Señor</movement-title>
+  <identification>
+    <creator type="composer">Jean Sibelius</creator>
+    <creator type="lyricist">Tr. David Finstrom</creator>
+    <encoding>
+      <encoding-date>2026-10-07</encoding-date>
+      <software>music21 v.10.5.0</software>
+      <supports element="beam" type="yes" />
+      <supports element="stem" type="yes" />
+      <supports element="accidental" type="yes" />
+    </encoding>
+  </identification>
+  <defaults>
+    <scaling>
+      <millimeters>7</millimeters>
+      <tenths>40</tenths>
+    </scaling>
+  </defaults>
+  <part-list>
+    <part-group number="1" type="start">
+      <group-symbol>bracket</group-symbol>
+      <group-barline>yes</group-barline>
+    </part-group>
+    <score-part id="Pc1e0898a481375f872fc6736025e0d23">
+      <part-name>Tenor 1</part-name>
+      <part-abbreviation>T1</part-abbreviation>
+      <score-instrument id="I69a85327c1e989f0b0767a90b4bbdce9">
+        <instrument-name>Piano</instrument-name>
+        <instrument-abbreviation>Pno</instrument-abbreviation>
+      </score-instrument>
+      <midi-instrument id="I69a85327c1e989f0b0767a90b4bbdce9">
+        <midi-channel>1</midi-channel>
+        <midi-program>1</midi-program>
+      </midi-instrument>
+    </score-part>
+    <score-part id="P0697330482bc9cd48e2ccfaa8167669f">
+      <part-name>Tenor 2</part-name>
+      <part-abbreviation>T2</part-abbreviation>
+      <score-instrument id="Ib8879c097a7be3193eb4fb8ee943c04c">
+        <instrument-name>Piano</instrument-name>
+        <instrument-abbreviation>Pno</instrument-abbreviation>
+      </score-instrument>
+      <midi-instrument id="Ib8879c097a7be3193eb4fb8ee943c04c">
+        <midi-channel>2</midi-channel>
+        <midi-program>1</midi-program>
+      </midi-instrument>
+    </score-part>
+    <score-part id="P4861e38c3c5c08856b4735271038d5ce">
+      <part-name>Baritono</part-name>
+      <part-abbreviation>Bar.</part-abbreviation>
+      <score-instrument id="I0668506eef54034079f2056e0182a9f9">
+        <instrument-name>Piano</instrument-name>
+        <instrument-abbreviation>Pno</instrument-abbreviation>
+      </score-instrument>
+      <midi-instrument id="I0668506eef54034079f2056e0182a9f9">
+        <midi-channel>3</midi-channel>
+        <midi-program>1</midi-program>
+      </midi-instrument>
+    </score-part>
+    <score-part id="P0fbeaf802630bb3ee461e56128b9ffc9">
+      <part-name>Bajo</part-name>
+      <part-abbreviation>B.</part-abbreviation>
+      <score-instrument id="Ife5a598a1bb8091fe9df006b3bc150b0">
+        <instrument-name>Piano</instrument-name>
+        <instrument-abbreviation>Pno</instrument-abbreviation>
+      </score-instrument>
+      <midi-instrument id="Ife5a598a1bb8091fe9df006b3bc150b0">
+        <midi-channel>4</midi-channel>
+        <midi-program>1</midi-program>
+      </midi-instrument>
+    </score-part>
+    <part-group number="1" type="stop" />
+  </part-list>
+  <!--=========================== Part 1 ===========================-->
+  <part id="Pc1e0898a481375f872fc6736025e0d23">
+    <!--========================= Measure 0 ==========================-->
+    <measure implicit="no" number="0">
+      <attributes>
+        <divisions>10080</divisions>
+        <key>
+          <fifths>-2</fifths>
+          <mode>major</mode>
+        </key>
+        <time>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+          <clef-octave-change>-1</clef-octave-change>
+        </clef>
+      </attributes>
+      <direction>
+        <direction-type>
+          <metronome parentheses="no">
+            <beat-unit>quarter</beat-unit>
+            <per-minute>80</per-minute>
+          </metronome>
+        </direction-type>
+        <sound tempo="80" />
+      </direction>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>begin</syllabic>
+          <text>Cris</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>Cris</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>Cris</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>end</syllabic>
+          <text>to</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>to</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>to</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>begin</syllabic>
+          <text>Se</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>yo</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>Se</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 1 ==========================-->
+    <measure implicit="no" number="1">
+      <note>
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>30240</duration>
+        <type>half</type>
+        <dot />
+        <lyric name="1" number="1">
+          <syllabic>end</syllabic>
+          <text>ñor,</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>quie</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>ñor,</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>mi</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>ro</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>mi‿a</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 2 ==========================-->
+    <measure implicit="no" number="2">
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>Dios</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>que</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>middle</syllabic>
+          <text>po</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>y</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>me</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>yo‿en</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>15120</duration>
+        <type>quarter</type>
+        <dot />
+        <lyric name="1" number="1">
+          <syllabic>begin</syllabic>
+          <text>Sal</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>lim</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>el</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>middle</syllabic>
+          <text>va</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>pies</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>pa</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 3 ==========================-->
+    <measure implicit="no" number="3">
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <notations>
+          <slur number="1" type="start" />
+        </notations>
+        <lyric name="1" number="1">
+          <syllabic>end</syllabic>
+          <text>dor</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>tú</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>middle</syllabic>
+          <text>sa</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>30240</duration>
+        <tie type="start" />
+        <type>half</type>
+        <dot />
+        <notations>
+          <tied type="start" />
+          <slur number="1" type="stop" />
+        </notations>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>do</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 4 ==========================-->
+    <measure implicit="no" number="4">
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <tie type="stop" />
+        <type>quarter</type>
+        <notations>
+          <tied type="stop" />
+        </notations>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>Mi</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>Y</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>Mi</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>gran</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>qui</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>es</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>begin</syllabic>
+          <text>an</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>tes</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>middle</syllabic>
+          <text>pe</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 5 ==========================-->
+    <measure implicit="no" number="5">
+      <note>
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>30240</duration>
+        <type>half</type>
+        <dot />
+        <lyric name="1" number="1">
+          <syllabic>middle</syllabic>
+          <text>he</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>to</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>middle</syllabic>
+          <text>ran</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>end</syllabic>
+          <text>lo</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>do</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>za‿en</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 6 ==========================-->
+    <measure implicit="no" number="6">
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>es</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>mi</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>a</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>begin</syllabic>
+          <text>ser</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>pe</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>ños</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>15120</duration>
+        <type>quarter</type>
+        <dot />
+        <lyric name="1" number="1">
+          <syllabic>middle</syllabic>
+          <text>vir</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>middle</syllabic>
+          <text>ca</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>que</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>end</syllabic>
+          <text>te‿a</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>do‿y</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>ven</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 7 ==========================-->
+    <measure implicit="no" number="7">
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>40320</duration>
+        <tie type="start" />
+        <type>whole</type>
+        <notations>
+          <tied type="start" />
+        </notations>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>Ti;</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>mal;</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>drán;</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 8 ==========================-->
+    <measure implicit="no" number="8">
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <tie type="stop" />
+        <type>quarter</type>
+        <notations>
+          <tied type="stop" />
+        </notations>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>Oh,</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>Tu</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>De</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>begin</syllabic>
+          <text>Sal</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>sier</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>middle</syllabic>
+          <text>fen</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>middle</syllabic>
+          <text>va</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>vo</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>sa</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 9 ==========================-->
+    <measure implicit="no" number="9">
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>30240</duration>
+        <type>half</type>
+        <dot />
+        <lyric name="1" number="1">
+          <syllabic>end</syllabic>
+          <text>dor,</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>siem</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>mi</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>yo</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>middle</syllabic>
+          <text>pre‿an</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>a</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 10 =========================-->
+    <measure implicit="no" number="10">
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>begin</syllabic>
+          <text>quie</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>middle</syllabic>
+          <text>he</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>se</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>end</syllabic>
+          <text>ro</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>lo</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>en</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>15120</duration>
+        <type>quarter</type>
+        <dot />
+        <lyric name="1" number="1">
+          <syllabic>begin</syllabic>
+          <text>siem</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>ser,</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>es</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>middle</syllabic>
+          <text>pre‿a</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>Se</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>ta</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 11 =========================-->
+    <measure implicit="no" number="11">
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <notations>
+          <slur number="2" type="start" />
+        </notations>
+        <lyric name="1" number="1">
+          <syllabic>middle</syllabic>
+          <text>mar</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>ñor</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>vi</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>30240</duration>
+        <tie type="start" />
+        <type>half</type>
+        <dot />
+        <notations>
+          <tied type="start" />
+          <slur number="2" type="stop" />
+        </notations>
+        <lyric name="1" number="1">
+          <syllabic>end</syllabic>
+          <text>te</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>da</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 12 =========================-->
+    <measure implicit="no" number="12">
+      <note>
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <tie type="stop" />
+        <type>quarter</type>
+        <notations>
+          <tied type="stop" />
+        </notations>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>Y</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>Y</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>Se</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>en</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>en</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>tú</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>tus</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>tus</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>mi</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 13 =========================-->
+    <measure implicit="no" number="13">
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>30240</duration>
+        <type>half</type>
+        <dot />
+        <lyric name="1" number="1">
+          <syllabic>begin</syllabic>
+          <text>pa</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>ma</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>paz</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>end</syllabic>
+          <text>sos</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>nos</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>por</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 14 =========================-->
+    <measure implicit="no" number="14">
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>begin</syllabic>
+          <text>quie</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>quie</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>la</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>end</syllabic>
+          <text>ro</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>ro</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>e</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>15120</duration>
+        <type>quarter</type>
+        <dot />
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>yo</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>siem</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>middle</syllabic>
+          <text>ter</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>begin</syllabic>
+          <text>se</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>middle</syllabic>
+          <text>pre‿es</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>middle</syllabic>
+          <text>ni</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 15 =========================-->
+    <measure implicit="no" number="15">
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>40320</duration>
+        <type>whole</type>
+        <lyric name="1" number="1">
+          <syllabic>end</syllabic>
+          <text>guir.</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>tar.</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>dad.</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 16 =========================-->
+    <measure implicit="no" number="16">
+      <note>
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>begin</syllabic>
+          <text>Rin</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>Rin</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>Rin</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>end</syllabic>
+          <text>do</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>do</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>do</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>mi</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>mi</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>mi</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 17 =========================-->
+    <measure implicit="no" number="17">
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>30240</duration>
+        <type>half</type>
+        <dot />
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>ser</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>ser</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>ser</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>a</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>a</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>a</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 18 =========================-->
+    <measure implicit="no" number="18">
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>Ti,</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>Ti,</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>Ti,</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>mi</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>mi</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>mi</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>15120</duration>
+        <type>quarter</type>
+        <dot />
+        <lyric name="1" number="1">
+          <syllabic>begin</syllabic>
+          <text>Re</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>Re</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>Re</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>middle</syllabic>
+          <text>den</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>middle</syllabic>
+          <text>den</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>middle</syllabic>
+          <text>den</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 19 =========================-->
+    <measure implicit="no" number="19">
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <notations>
+          <slur number="3" type="start" />
+        </notations>
+        <lyric name="1" number="1">
+          <syllabic>end</syllabic>
+          <text>tor</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>tor</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>tor</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>30240</duration>
+        <tie type="start" />
+        <type>half</type>
+        <dot />
+        <notations>
+          <tied type="start" />
+          <slur number="3" type="stop" />
+        </notations>
+      </note>
+    </measure>
+    <!--========================= Measure 20 =========================-->
+    <measure implicit="no" number="20">
+      <note>
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <tie type="stop" />
+        <type>quarter</type>
+        <notations>
+          <tied type="stop" />
+        </notations>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>¡Oh,</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>A</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>Con</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>begin</syllabic>
+          <text>co</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>middle</syllabic>
+          <text>cep</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>middle</syllabic>
+          <text>fi</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>middle</syllabic>
+          <text>mu</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>ta</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>o‿en</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 21 =========================-->
+    <measure implicit="no" number="21">
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>30240</duration>
+        <type>half</type>
+        <dot />
+        <lyric name="1" number="1">
+          <syllabic>begin</syllabic>
+          <text>ni</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>hoy</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>Ti,</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>middle</syllabic>
+          <text>ca</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>mi</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>¡oh,</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 22 =========================-->
+    <measure implicit="no" number="22">
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>end</syllabic>
+          <text>me</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>vi</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>Cris</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>tu</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>da</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>to</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>15120</duration>
+        <type>quarter</type>
+        <dot />
+        <lyric name="1" number="1">
+          <syllabic>begin</syllabic>
+          <text>gran</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>y</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>mi</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>middle</syllabic>
+          <text>de‿a</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>mi‿a</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>Se</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 23 =========================-->
+    <measure implicit="no" number="23">
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>40320</duration>
+        <tie type="start" />
+        <type>whole</type>
+        <notations>
+          <tied type="start" />
+        </notations>
+        <lyric name="1" number="1">
+          <syllabic>end</syllabic>
+          <text>mor!</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>mor.</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>ñor.</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 24 =========================-->
+    <measure implicit="no" number="24">
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <tie type="stop" />
+        <type>quarter</type>
+        <notations>
+          <tied type="stop" />
+        </notations>
+      </note>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+    </measure>
+  </part>
+  <!--=========================== Part 2 ===========================-->
+  <part id="P0697330482bc9cd48e2ccfaa8167669f">
+    <!--========================= Measure 0 ==========================-->
+    <measure implicit="no" number="0">
+      <attributes>
+        <divisions>10080</divisions>
+        <key>
+          <fifths>-2</fifths>
+          <mode>major</mode>
+        </key>
+        <time>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+          <clef-octave-change>-1</clef-octave-change>
+        </clef>
+      </attributes>
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>begin</syllabic>
+          <text>Cris</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>Cris</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>Cris</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>end</syllabic>
+          <text>to</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>to</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>to</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>begin</syllabic>
+          <text>Se</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>yo</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>Se</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 1 ==========================-->
+    <measure implicit="no" number="1">
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>30240</duration>
+        <type>half</type>
+        <dot />
+        <lyric name="1" number="1">
+          <syllabic>end</syllabic>
+          <text>ñor,</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>quie</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>ñor,</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>mi</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>ro</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>mi‿a</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 2 ==========================-->
+    <measure implicit="no" number="2">
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>Dios</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>que</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>middle</syllabic>
+          <text>po</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>y</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>me</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>yo‿en</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>15120</duration>
+        <type>quarter</type>
+        <dot />
+        <lyric name="1" number="1">
+          <syllabic>begin</syllabic>
+          <text>Sal</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>lim</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>el</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>middle</syllabic>
+          <text>va</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>pies</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>pa</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 3 ==========================-->
+    <measure implicit="no" number="3">
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <notations>
+          <slur number="4" type="start" />
+        </notations>
+        <lyric name="1" number="1">
+          <syllabic>end</syllabic>
+          <text>dor</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>tú</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>middle</syllabic>
+          <text>sa</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>30240</duration>
+        <tie type="start" />
+        <type>half</type>
+        <dot />
+        <notations>
+          <tied type="start" />
+          <slur number="4" type="stop" />
+        </notations>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>do</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 4 ==========================-->
+    <measure implicit="no" number="4">
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <tie type="stop" />
+        <type>quarter</type>
+        <notations>
+          <tied type="stop" />
+        </notations>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>Mi</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>Y</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>Mi</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>gran</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>qui</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>es</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>begin</syllabic>
+          <text>an</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>tes</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>middle</syllabic>
+          <text>pe</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 5 ==========================-->
+    <measure implicit="no" number="5">
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>30240</duration>
+        <type>half</type>
+        <dot />
+        <lyric name="1" number="1">
+          <syllabic>middle</syllabic>
+          <text>he</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>to</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>middle</syllabic>
+          <text>ran</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>end</syllabic>
+          <text>lo</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>do</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>za‿en</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 6 ==========================-->
+    <measure implicit="no" number="6">
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>es</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>mi</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>a</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>begin</syllabic>
+          <text>ser</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>pe</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>ños</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>15120</duration>
+        <type>quarter</type>
+        <dot />
+        <lyric name="1" number="1">
+          <syllabic>middle</syllabic>
+          <text>vir</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>middle</syllabic>
+          <text>ca</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>que</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>end</syllabic>
+          <text>te‿a</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>do‿y</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>ven</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 7 ==========================-->
+    <measure implicit="no" number="7">
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>40320</duration>
+        <tie type="start" />
+        <type>whole</type>
+        <notations>
+          <tied type="start" />
+        </notations>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>Ti;</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>mal;</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>drán;</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 8 ==========================-->
+    <measure implicit="no" number="8">
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <tie type="stop" />
+        <type>quarter</type>
+        <notations>
+          <tied type="stop" />
+        </notations>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>Oh,</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>Tu</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>De</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>begin</syllabic>
+          <text>Sal</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>sier</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>middle</syllabic>
+          <text>fen</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>middle</syllabic>
+          <text>va</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>vo</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>sa</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 9 ==========================-->
+    <measure implicit="no" number="9">
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>30240</duration>
+        <type>half</type>
+        <dot />
+        <lyric name="1" number="1">
+          <syllabic>end</syllabic>
+          <text>dor,</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>siem</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>mi</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>yo</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>middle</syllabic>
+          <text>pre‿an</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>a</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 10 =========================-->
+    <measure implicit="no" number="10">
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>begin</syllabic>
+          <text>quie</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>middle</syllabic>
+          <text>he</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>se</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>end</syllabic>
+          <text>ro</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>lo</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>en</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>15120</duration>
+        <type>quarter</type>
+        <dot />
+        <lyric name="1" number="1">
+          <syllabic>begin</syllabic>
+          <text>siem</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>ser,</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>es</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>middle</syllabic>
+          <text>pre‿a</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>Se</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>ta</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 11 =========================-->
+    <measure implicit="no" number="11">
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <notations>
+          <slur number="5" type="start" />
+        </notations>
+        <lyric name="1" number="1">
+          <syllabic>middle</syllabic>
+          <text>mar</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>ñor</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>vi</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>30240</duration>
+        <tie type="start" />
+        <type>half</type>
+        <dot />
+        <notations>
+          <tied type="start" />
+          <slur number="5" type="stop" />
+        </notations>
+        <lyric name="1" number="1">
+          <syllabic>end</syllabic>
+          <text>te</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>da</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 12 =========================-->
+    <measure implicit="no" number="12">
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <tie type="stop" />
+        <type>quarter</type>
+        <notations>
+          <tied type="stop" />
+        </notations>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>Y</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>Y</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>Se</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>0</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <accidental>natural</accidental>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>en</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>en</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>tú</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>tus</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>tus</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>mi</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 13 =========================-->
+    <measure implicit="no" number="13">
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>30240</duration>
+        <type>half</type>
+        <dot />
+        <accidental>flat</accidental>
+        <lyric name="1" number="1">
+          <syllabic>begin</syllabic>
+          <text>pa</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>ma</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>paz</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>end</syllabic>
+          <text>sos</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>nos</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>por</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 14 =========================-->
+    <measure implicit="no" number="14">
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>begin</syllabic>
+          <text>quie</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>quie</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>la</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>end</syllabic>
+          <text>ro</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>ro</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>e</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>15120</duration>
+        <type>quarter</type>
+        <dot />
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>yo</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>siem</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>middle</syllabic>
+          <text>ter</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>begin</syllabic>
+          <text>se</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>middle</syllabic>
+          <text>pre‿es</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>middle</syllabic>
+          <text>ni</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 15 =========================-->
+    <measure implicit="no" number="15">
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>40320</duration>
+        <type>whole</type>
+        <lyric name="1" number="1">
+          <syllabic>end</syllabic>
+          <text>guir.</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>tar.</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>dad.</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 16 =========================-->
+    <measure implicit="no" number="16">
+      <note>
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>begin</syllabic>
+          <text>Rin</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>Rin</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>Rin</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>end</syllabic>
+          <text>do</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>do</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>do</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>mi</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>mi</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>mi</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 17 =========================-->
+    <measure implicit="no" number="17">
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>30240</duration>
+        <type>half</type>
+        <dot />
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>ser</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>ser</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>ser</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>a</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>a</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>a</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 18 =========================-->
+    <measure implicit="no" number="18">
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>Ti,</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>Ti,</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>Ti,</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>mi</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>mi</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>mi</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>15120</duration>
+        <type>quarter</type>
+        <dot />
+        <lyric name="1" number="1">
+          <syllabic>begin</syllabic>
+          <text>Re</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>Re</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>Re</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>middle</syllabic>
+          <text>den</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>middle</syllabic>
+          <text>den</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>middle</syllabic>
+          <text>den</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 19 =========================-->
+    <measure implicit="no" number="19">
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <notations>
+          <slur number="6" type="start" />
+        </notations>
+        <lyric name="1" number="1">
+          <syllabic>end</syllabic>
+          <text>tor</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>tor</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>tor</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>30240</duration>
+        <tie type="start" />
+        <type>half</type>
+        <dot />
+        <notations>
+          <tied type="start" />
+          <slur number="6" type="stop" />
+        </notations>
+      </note>
+    </measure>
+    <!--========================= Measure 20 =========================-->
+    <measure implicit="no" number="20">
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <tie type="stop" />
+        <type>quarter</type>
+        <notations>
+          <tied type="stop" />
+        </notations>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>¡Oh,</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>A</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>Con</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>0</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <accidental>natural</accidental>
+        <lyric name="1" number="1">
+          <syllabic>begin</syllabic>
+          <text>co</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>middle</syllabic>
+          <text>cep</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>middle</syllabic>
+          <text>fi</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>middle</syllabic>
+          <text>mu</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>ta</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>o‿en</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 21 =========================-->
+    <measure implicit="no" number="21">
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>30240</duration>
+        <type>half</type>
+        <dot />
+        <accidental>flat</accidental>
+        <lyric name="1" number="1">
+          <syllabic>begin</syllabic>
+          <text>ni</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>hoy</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>Ti,</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>middle</syllabic>
+          <text>ca</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>mi</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>¡oh,</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 22 =========================-->
+    <measure implicit="no" number="22">
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>end</syllabic>
+          <text>me</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>vi</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>Cris</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>tu</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>da</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>to</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>15120</duration>
+        <type>quarter</type>
+        <dot />
+        <lyric name="1" number="1">
+          <syllabic>begin</syllabic>
+          <text>gran</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>y</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>mi</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>middle</syllabic>
+          <text>de‿a</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>mi‿a</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>Se</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 23 =========================-->
+    <measure implicit="no" number="23">
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>40320</duration>
+        <tie type="start" />
+        <type>whole</type>
+        <notations>
+          <tied type="start" />
+        </notations>
+        <lyric name="1" number="1">
+          <syllabic>end</syllabic>
+          <text>mor!</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>mor.</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>ñor.</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 24 =========================-->
+    <measure implicit="no" number="24">
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <tie type="stop" />
+        <type>quarter</type>
+        <notations>
+          <tied type="stop" />
+        </notations>
+      </note>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+    </measure>
+  </part>
+  <!--=========================== Part 3 ===========================-->
+  <part id="P4861e38c3c5c08856b4735271038d5ce">
+    <!--========================= Measure 0 ==========================-->
+    <measure implicit="no" number="0">
+      <attributes>
+        <divisions>10080</divisions>
+        <key>
+          <fifths>-2</fifths>
+          <mode>major</mode>
+        </key>
+        <time>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <clef>
+          <sign>F</sign>
+          <line>4</line>
+        </clef>
+      </attributes>
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>begin</syllabic>
+          <text>Cris</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>Cris</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>Cris</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>end</syllabic>
+          <text>to</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>to</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>to</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>begin</syllabic>
+          <text>Se</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>yo</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>Se</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 1 ==========================-->
+    <measure implicit="no" number="1">
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>30240</duration>
+        <type>half</type>
+        <dot />
+        <lyric name="1" number="1">
+          <syllabic>end</syllabic>
+          <text>ñor,</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>quie</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>ñor,</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>mi</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>ro</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>mi‿a</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 2 ==========================-->
+    <measure implicit="no" number="2">
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>Dios</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>que</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>middle</syllabic>
+          <text>po</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>y</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>me</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>yo‿en</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>15120</duration>
+        <type>quarter</type>
+        <dot />
+        <lyric name="1" number="1">
+          <syllabic>begin</syllabic>
+          <text>Sal</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>lim</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>el</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>middle</syllabic>
+          <text>va</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>pies</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>pa</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 3 ==========================-->
+    <measure implicit="no" number="3">
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <notations>
+          <slur number="1" type="start" />
+        </notations>
+        <lyric name="1" number="1">
+          <syllabic>end</syllabic>
+          <text>dor</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>tú</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>middle</syllabic>
+          <text>sa</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>30240</duration>
+        <tie type="start" />
+        <type>half</type>
+        <dot />
+        <notations>
+          <tied type="start" />
+          <slur number="1" type="stop" />
+        </notations>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>do</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 4 ==========================-->
+    <measure implicit="no" number="4">
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <tie type="stop" />
+        <type>quarter</type>
+        <notations>
+          <tied type="stop" />
+        </notations>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>Mi</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>Y</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>Mi</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>gran</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>qui</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>es</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>begin</syllabic>
+          <text>an</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>tes</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>middle</syllabic>
+          <text>pe</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 5 ==========================-->
+    <measure implicit="no" number="5">
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>30240</duration>
+        <type>half</type>
+        <dot />
+        <lyric name="1" number="1">
+          <syllabic>middle</syllabic>
+          <text>he</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>to</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>middle</syllabic>
+          <text>ran</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>end</syllabic>
+          <text>lo</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>do</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>za‿en</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 6 ==========================-->
+    <measure implicit="no" number="6">
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>es</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>mi</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>a</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>begin</syllabic>
+          <text>ser</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>pe</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>ños</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>15120</duration>
+        <type>quarter</type>
+        <dot />
+        <lyric name="1" number="1">
+          <syllabic>middle</syllabic>
+          <text>vir</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>middle</syllabic>
+          <text>ca</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>que</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>end</syllabic>
+          <text>te‿a</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>do‿y</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>ven</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 7 ==========================-->
+    <measure implicit="no" number="7">
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>40320</duration>
+        <tie type="start" />
+        <type>whole</type>
+        <notations>
+          <tied type="start" />
+        </notations>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>Ti;</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>mal;</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>drán;</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 8 ==========================-->
+    <measure implicit="no" number="8">
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <tie type="stop" />
+        <type>quarter</type>
+        <notations>
+          <tied type="stop" />
+        </notations>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>Oh,</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>Tu</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>De</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>begin</syllabic>
+          <text>Sal</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>sier</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>middle</syllabic>
+          <text>fen</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>middle</syllabic>
+          <text>va</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>vo</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>sa</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 9 ==========================-->
+    <measure implicit="no" number="9">
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>30240</duration>
+        <type>half</type>
+        <dot />
+        <lyric name="1" number="1">
+          <syllabic>end</syllabic>
+          <text>dor,</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>siem</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>mi</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>yo</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>middle</syllabic>
+          <text>pre‿an</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>a</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 10 =========================-->
+    <measure implicit="no" number="10">
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>begin</syllabic>
+          <text>quie</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>middle</syllabic>
+          <text>he</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>se</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>end</syllabic>
+          <text>ro</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>lo</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>en</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>15120</duration>
+        <type>quarter</type>
+        <dot />
+        <lyric name="1" number="1">
+          <syllabic>begin</syllabic>
+          <text>siem</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>ser,</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>es</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>middle</syllabic>
+          <text>pre‿a</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>Se</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>ta</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 11 =========================-->
+    <measure implicit="no" number="11">
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <notations>
+          <slur number="2" type="start" />
+        </notations>
+        <lyric name="1" number="1">
+          <syllabic>middle</syllabic>
+          <text>mar</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>ñor</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>vi</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>30240</duration>
+        <tie type="start" />
+        <type>half</type>
+        <dot />
+        <notations>
+          <tied type="start" />
+          <slur number="2" type="stop" />
+        </notations>
+        <lyric name="1" number="1">
+          <syllabic>end</syllabic>
+          <text>te</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>da</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 12 =========================-->
+    <measure implicit="no" number="12">
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <tie type="stop" />
+        <type>quarter</type>
+        <notations>
+          <tied type="stop" />
+        </notations>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>Y</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>Y</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>Se</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>en</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>en</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>tú</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>tus</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>tus</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>mi</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 13 =========================-->
+    <measure implicit="no" number="13">
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>30240</duration>
+        <type>half</type>
+        <dot />
+        <lyric name="1" number="1">
+          <syllabic>begin</syllabic>
+          <text>pa</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>ma</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>paz</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>end</syllabic>
+          <text>sos</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>nos</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>por</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 14 =========================-->
+    <measure implicit="no" number="14">
+      <note>
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>begin</syllabic>
+          <text>quie</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>quie</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>la</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>end</syllabic>
+          <text>ro</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>ro</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>e</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>15120</duration>
+        <type>quarter</type>
+        <dot />
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>yo</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>siem</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>middle</syllabic>
+          <text>ter</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <lyric name="1" number="1">
+          <syllabic>begin</syllabic>
+          <text>se</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>middle</syllabic>
+          <text>pre‿es</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>middle</syllabic>
+          <text>ni</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 15 =========================-->
+    <measure implicit="no" number="15">
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>40320</duration>
+        <type>whole</type>
+        <accidental>sharp</accidental>
+        <lyric name="1" number="1">
+          <syllabic>end</syllabic>
+          <text>guir.</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>tar.</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>dad.</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 16 =========================-->
+    <measure implicit="no" number="16">
+      <note>
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>begin</syllabic>
+          <text>Rin</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>Rin</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>Rin</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>end</syllabic>
+          <text>do</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>do</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>do</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>mi</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>mi</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>mi</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 17 =========================-->
+    <measure implicit="no" number="17">
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>30240</duration>
+        <type>half</type>
+        <dot />
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>ser</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>ser</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>ser</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>a</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>a</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>a</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 18 =========================-->
+    <measure implicit="no" number="18">
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>Ti,</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>Ti,</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>Ti,</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>mi</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>mi</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>mi</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>15120</duration>
+        <type>quarter</type>
+        <dot />
+        <lyric name="1" number="1">
+          <syllabic>begin</syllabic>
+          <text>Re</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>Re</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>Re</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>middle</syllabic>
+          <text>den</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>middle</syllabic>
+          <text>den</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>middle</syllabic>
+          <text>den</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 19 =========================-->
+    <measure implicit="no" number="19">
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <notations>
+          <slur number="3" type="start" />
+        </notations>
+        <lyric name="1" number="1">
+          <syllabic>end</syllabic>
+          <text>tor</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>tor</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>tor</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>30240</duration>
+        <tie type="start" />
+        <type>half</type>
+        <dot />
+        <notations>
+          <tied type="start" />
+          <slur number="3" type="stop" />
+        </notations>
+      </note>
+    </measure>
+    <!--========================= Measure 20 =========================-->
+    <measure implicit="no" number="20">
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <tie type="stop" />
+        <type>quarter</type>
+        <notations>
+          <tied type="stop" />
+        </notations>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>¡Oh,</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>A</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>Con</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>begin</syllabic>
+          <text>co</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>middle</syllabic>
+          <text>cep</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>middle</syllabic>
+          <text>fi</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>middle</syllabic>
+          <text>mu</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>ta</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>o‿en</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 21 =========================-->
+    <measure implicit="no" number="21">
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>30240</duration>
+        <type>half</type>
+        <dot />
+        <lyric name="1" number="1">
+          <syllabic>begin</syllabic>
+          <text>ni</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>hoy</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>Ti,</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>middle</syllabic>
+          <text>ca</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>mi</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>¡oh,</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 22 =========================-->
+    <measure implicit="no" number="22">
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>end</syllabic>
+          <text>me</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>vi</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>Cris</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>tu</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>da</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>to</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>15120</duration>
+        <type>quarter</type>
+        <dot />
+        <lyric name="1" number="1">
+          <syllabic>begin</syllabic>
+          <text>gran</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>y</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>mi</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>middle</syllabic>
+          <text>de‿a</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>mi‿a</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>Se</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 23 =========================-->
+    <measure implicit="no" number="23">
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>40320</duration>
+        <tie type="start" />
+        <type>whole</type>
+        <notations>
+          <tied type="start" />
+        </notations>
+        <lyric name="1" number="1">
+          <syllabic>end</syllabic>
+          <text>mor!</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>mor.</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>ñor.</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 24 =========================-->
+    <measure implicit="no" number="24">
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <tie type="stop" />
+        <type>quarter</type>
+        <notations>
+          <tied type="stop" />
+        </notations>
+      </note>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+    </measure>
+  </part>
+  <!--=========================== Part 4 ===========================-->
+  <part id="P0fbeaf802630bb3ee461e56128b9ffc9">
+    <!--========================= Measure 0 ==========================-->
+    <measure implicit="no" number="0">
+      <attributes>
+        <divisions>10080</divisions>
+        <key>
+          <fifths>-2</fifths>
+          <mode>major</mode>
+        </key>
+        <time>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <clef>
+          <sign>F</sign>
+          <line>4</line>
+        </clef>
+      </attributes>
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>begin</syllabic>
+          <text>Cris</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>Cris</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>Cris</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>end</syllabic>
+          <text>to</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>to</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>to</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>begin</syllabic>
+          <text>Se</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>yo</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>Se</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 1 ==========================-->
+    <measure implicit="no" number="1">
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>30240</duration>
+        <type>half</type>
+        <dot />
+        <lyric name="1" number="1">
+          <syllabic>end</syllabic>
+          <text>ñor,</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>quie</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>ñor,</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>mi</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>ro</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>mi‿a</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 2 ==========================-->
+    <measure implicit="no" number="2">
+      <note>
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>Dios</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>que</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>middle</syllabic>
+          <text>po</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>y</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>me</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>yo‿en</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>15120</duration>
+        <type>quarter</type>
+        <dot />
+        <lyric name="1" number="1">
+          <syllabic>begin</syllabic>
+          <text>Sal</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>lim</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>el</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>middle</syllabic>
+          <text>va</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>pies</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>pa</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 3 ==========================-->
+    <measure implicit="no" number="3">
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <notations>
+          <slur number="4" type="start" />
+        </notations>
+        <lyric name="1" number="1">
+          <syllabic>end</syllabic>
+          <text>dor</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>tú</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>middle</syllabic>
+          <text>sa</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>30240</duration>
+        <tie type="start" />
+        <type>half</type>
+        <dot />
+        <notations>
+          <tied type="start" />
+          <slur number="4" type="stop" />
+        </notations>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>do</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 4 ==========================-->
+    <measure implicit="no" number="4">
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>10080</duration>
+        <tie type="stop" />
+        <type>quarter</type>
+        <notations>
+          <tied type="stop" />
+        </notations>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>Mi</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>Y</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>Mi</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>gran</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>qui</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>es</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>begin</syllabic>
+          <text>an</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>tes</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>middle</syllabic>
+          <text>pe</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 5 ==========================-->
+    <measure implicit="no" number="5">
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>30240</duration>
+        <type>half</type>
+        <dot />
+        <lyric name="1" number="1">
+          <syllabic>middle</syllabic>
+          <text>he</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>to</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>middle</syllabic>
+          <text>ran</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>end</syllabic>
+          <text>lo</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>do</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>za‿en</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 6 ==========================-->
+    <measure implicit="no" number="6">
+      <note>
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>es</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>mi</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>a</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>begin</syllabic>
+          <text>ser</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>pe</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>ños</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>15120</duration>
+        <type>quarter</type>
+        <dot />
+        <lyric name="1" number="1">
+          <syllabic>middle</syllabic>
+          <text>vir</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>middle</syllabic>
+          <text>ca</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>que</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>end</syllabic>
+          <text>te‿a</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>do‿y</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>ven</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 7 ==========================-->
+    <measure implicit="no" number="7">
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>40320</duration>
+        <tie type="start" />
+        <type>whole</type>
+        <notations>
+          <tied type="start" />
+        </notations>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>Ti;</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>mal;</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>drán;</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 8 ==========================-->
+    <measure implicit="no" number="8">
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>10080</duration>
+        <tie type="stop" />
+        <type>quarter</type>
+        <notations>
+          <tied type="stop" />
+        </notations>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>Oh,</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>Tu</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>De</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>begin</syllabic>
+          <text>Sal</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>sier</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>middle</syllabic>
+          <text>fen</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>middle</syllabic>
+          <text>va</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>vo</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>sa</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 9 ==========================-->
+    <measure implicit="no" number="9">
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>30240</duration>
+        <type>half</type>
+        <dot />
+        <lyric name="1" number="1">
+          <syllabic>end</syllabic>
+          <text>dor,</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>siem</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>mi</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>yo</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>middle</syllabic>
+          <text>pre‿an</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>a</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 10 =========================-->
+    <measure implicit="no" number="10">
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>begin</syllabic>
+          <text>quie</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>middle</syllabic>
+          <text>he</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>se</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>end</syllabic>
+          <text>ro</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>lo</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>en</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>15120</duration>
+        <type>quarter</type>
+        <dot />
+        <lyric name="1" number="1">
+          <syllabic>begin</syllabic>
+          <text>siem</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>ser,</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>es</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>middle</syllabic>
+          <text>pre‿a</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>Se</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>ta</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 11 =========================-->
+    <measure implicit="no" number="11">
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <notations>
+          <slur number="5" type="start" />
+        </notations>
+        <lyric name="1" number="1">
+          <syllabic>middle</syllabic>
+          <text>mar</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>ñor</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>vi</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>30240</duration>
+        <tie type="start" />
+        <type>half</type>
+        <dot />
+        <notations>
+          <tied type="start" />
+          <slur number="5" type="stop" />
+        </notations>
+        <lyric name="1" number="1">
+          <syllabic>end</syllabic>
+          <text>te</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>da</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 12 =========================-->
+    <measure implicit="no" number="12">
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <tie type="stop" />
+        <type>quarter</type>
+        <notations>
+          <tied type="stop" />
+        </notations>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>Y</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>Y</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>Se</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>en</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>en</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>tú</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>tus</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>tus</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>mi</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 13 =========================-->
+    <measure implicit="no" number="13">
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>30240</duration>
+        <type>half</type>
+        <dot />
+        <lyric name="1" number="1">
+          <syllabic>begin</syllabic>
+          <text>pa</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>ma</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>paz</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>end</syllabic>
+          <text>sos</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>nos</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>por</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 14 =========================-->
+    <measure implicit="no" number="14">
+      <note>
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>begin</syllabic>
+          <text>quie</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>quie</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>la</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>end</syllabic>
+          <text>ro</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>ro</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>e</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>15120</duration>
+        <type>quarter</type>
+        <dot />
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>yo</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>siem</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>middle</syllabic>
+          <text>ter</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>begin</syllabic>
+          <text>se</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>middle</syllabic>
+          <text>pre‿es</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>middle</syllabic>
+          <text>ni</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 15 =========================-->
+    <measure implicit="no" number="15">
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>30240</duration>
+        <type>half</type>
+        <dot />
+        <notations>
+          <slur number="6" type="start" />
+        </notations>
+        <lyric name="1" number="1">
+          <syllabic>end</syllabic>
+          <text>guir.</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>tar.</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>dad.</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <notations>
+          <slur number="6" type="stop" />
+        </notations>
+      </note>
+    </measure>
+    <!--========================= Measure 16 =========================-->
+    <measure implicit="no" number="16">
+      <note>
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>begin</syllabic>
+          <text>Rin</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>Rin</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>Rin</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>end</syllabic>
+          <text>do</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>do</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>do</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>mi</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>mi</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>mi</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 17 =========================-->
+    <measure implicit="no" number="17">
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>30240</duration>
+        <type>half</type>
+        <dot />
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>ser</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>ser</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>ser</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>a</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>a</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>a</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 18 =========================-->
+    <measure implicit="no" number="18">
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>Ti,</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>Ti,</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>Ti,</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>mi</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>mi</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>mi</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>15120</duration>
+        <type>quarter</type>
+        <dot />
+        <lyric name="1" number="1">
+          <syllabic>begin</syllabic>
+          <text>Re</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>Re</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>Re</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>middle</syllabic>
+          <text>den</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>middle</syllabic>
+          <text>den</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>middle</syllabic>
+          <text>den</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 19 =========================-->
+    <measure implicit="no" number="19">
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <notations>
+          <slur number="1" type="start" />
+        </notations>
+        <lyric name="1" number="1">
+          <syllabic>end</syllabic>
+          <text>tor</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>tor</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>tor</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>30240</duration>
+        <tie type="start" />
+        <type>half</type>
+        <dot />
+        <notations>
+          <tied type="start" />
+          <slur number="1" type="stop" />
+        </notations>
+      </note>
+    </measure>
+    <!--========================= Measure 20 =========================-->
+    <measure implicit="no" number="20">
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <tie type="stop" />
+        <type>quarter</type>
+        <notations>
+          <tied type="stop" />
+        </notations>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>¡Oh,</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>A</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>Con</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>begin</syllabic>
+          <text>co</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>middle</syllabic>
+          <text>cep</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>middle</syllabic>
+          <text>fi</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>middle</syllabic>
+          <text>mu</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>ta</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>o‿en</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 21 =========================-->
+    <measure implicit="no" number="21">
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>30240</duration>
+        <type>half</type>
+        <dot />
+        <lyric name="1" number="1">
+          <syllabic>begin</syllabic>
+          <text>ni</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>hoy</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>Ti,</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>middle</syllabic>
+          <text>ca</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>mi</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>¡oh,</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 22 =========================-->
+    <measure implicit="no" number="22">
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>end</syllabic>
+          <text>me</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>vi</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>Cris</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>tu</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>da</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>to</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>15120</duration>
+        <type>quarter</type>
+        <dot />
+        <lyric name="1" number="1">
+          <syllabic>begin</syllabic>
+          <text>gran</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>y</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>single</syllabic>
+          <text>mi</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <lyric name="1" number="1">
+          <syllabic>middle</syllabic>
+          <text>de‿a</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>mi‿a</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>begin</syllabic>
+          <text>Se</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 23 =========================-->
+    <measure implicit="no" number="23">
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>40320</duration>
+        <tie type="start" />
+        <type>whole</type>
+        <notations>
+          <tied type="start" />
+        </notations>
+        <lyric name="1" number="1">
+          <syllabic>end</syllabic>
+          <text>mor!</text>
+        </lyric>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>mor.</text>
+        </lyric>
+        <lyric name="3" number="3">
+          <syllabic>end</syllabic>
+          <text>ñor.</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 24 =========================-->
+    <measure implicit="no" number="24">
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>10080</duration>
+        <tie type="stop" />
+        <type>quarter</type>
+        <notations>
+          <tied type="stop" />
+        </notations>
+      </note>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+    </measure>
+  </part>
+</score-partwise>

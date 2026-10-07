@@ -1,0 +1,54 @@
+title: Cristo Señor
+composer: Jean Sibelius
+lyricist: Tr. David Finstrom
+arranger:
+key: Bb
+time: 4/4
+tempo: 80
+source: PDF original (1 pág. escaneada, 2 pentagramas TT/BB, sin indicación de tempo); melodía FINLANDIA (Sibelius, 1899), incipit hymnary.org/tune/finlandia_sibelius (32343 23122) coincide; letra contrastada con letras.com.br/himnario-adventista-del-septimo-dia/cristo-senor (3 estrofas); tempo 80 estimado (himno lento, sin fuente fiable). Último compás de 1 tiempo, complemento de la anacrusa de 3 tiempos, como en el original. Pentagrama de graves c.21-24 redibujado a mano en el escaneo: leído del trazo manuscrito + contexto armónico (NOTAS DEDUCIDAS). Los arcos entre notas iguales en c.3 (B1), c.11 y c.19 (B2) se tratan como ligaduras de expresión (la 3ª estrofa / 1ª estrofa canta 2 sílabas ahí).
+
+@0
+T1: d4 c4 d4 | eb4/2. d4 | c4 d4 bb3. c4/8 | ( c4 d4/2.~ ) | d4 d4 c4 d4 | eb4/2. d4
+T2: bb3 a3 bb3 | a3/2. bb3 | a3 bb3 g3. a3/8 | ( a3 bb3/2.~ ) | bb3 bb3 a3 bb3 | a3/2. bb3
+B1: f3 f3 f3 | f3/2. f3 | f3 f3 eb3. f3/8 | ( f3 f3/2.~ ) | f3 f3 f3 f3 | f3/2. f3
+B2: bb2 eb3 d3 | c3/2. bb2 | eb3 d3 eb3. c3/8 | ( c3 bb2/2.~ ) | bb2 bb2 eb3 d3 | c3/2. bb2
+L: Cris- to Se- | ñor, mi | Dios y Sal- va- | dor _ | Mi gran an- | he- lo
+L2: Cris- to yo | quie- ro | que me lim- pies | tú _ | Y qui- tes | to- do
+L3: Cris- to Se- | ñor, mi_a- | po- yo_en el pa- | sa- do | Mi es- pe- | ran- za_en
+
+@6
+T1: c4 d4 bb3. c4/8 | d4/1~ | d4 f4 f4 f4 | g4/2. d4 | d4 f4 f4. c4/8 | ( c4 eb4/2.~ )
+T2: a3 bb3 g3. a3/8 | bb3/1~ | bb3 d4 d4 d4 | d4/2. bb3 | bb3 bb3 bb3. a3/8 | ( a3 c4/2.~ )
+B1: f3 f3 eb3. f3/8 | f3/1~ | f3 bb3 bb3 bb3 | bb3/2. g3 | g3 f3 f3. f3/8 | ( f3 g3/2.~ )
+B2: eb3 d3 eb3. c3/8 | bb2/1~ | bb2 bb3 bb3 a3 | g3/2. g3 | g3 d3 d3. c3/8 | ( c3 c3/2.~ )
+L: es ser- vir- te_a | Ti; | Oh, Sal- va- | dor, yo | quie- ro siem- pre_a- | mar- te
+L2: mi pe- ca- do_y | mal; | Tu sier- vo | siem- pre_an- | he- lo ser, Se- | ñor _
+L3: a- ños que ven- | drán; | De- fen- sa | mi- a | se en es- ta | vi- da
+
+@12
+T1: eb4 eb4 d4 c4 | d4/2. bb3 | bb3 c4 c4. d4/8 | d4/1 | r f4 f4 f4 | g4/2. d4
+T2: c4 c4 bn3 c4 | bb3/2. bb3 | g3 g3 a3. a3/8 | a3/1 | r d4 d4 d4 | d4/2. bb3
+B1: g3 g3 g3 g3 | f3/2. f3 | eb3 g3 g3. f#3/8 | f#3/1 | r bb3 bb3 bb3 | bb3/2. g3
+B2: c3 c3 d3 eb3 | f3/2. d3 | eb3 eb3 eb3. d3/8 | ( d3/2. c3_ ) | r bb2 bb3 a3 | g3/2. g3
+L: Y en tus | pa- sos | quie- ro yo se- | guir. | Rin- do mi | ser a
+L2: Y en tus | ma- nos | quie- ro siem- pre_es- | tar. | Rin- do mi | ser a
+L3: Se tú mi | paz por | la e- ter- ni- | dad. | Rin- do mi | ser a
+
+@18
+T1: d4 f4 f4. c4/8 | ( c4 eb4/2.~_ ) | eb4 eb4 d4 c4
+T2: bb3 bb3 bb3. a3/8 | ( a3 c4/2.~_ ) | c4 c4 bn3 c4
+B1: g3 f3 f3. f3/8 | ( f3 g3/2.~_ ) | g3 g3 g3 g3
+B2: g3 d3 d3. c3/8 | ( c3 c3/2.~_ ) | c3 c3 c3 eb3
+L: Ti, mi Re- den- | tor | ¡Oh, co- mu-
+L2: Ti, mi Re- den- | tor | A- cep- ta
+L3: Ti, mi Re- den- | tor | Con- fi- o_en
+
+@21
+# NOTA DEDUCIDA: c.21-24 B1 y B2 (pentagrama de graves cortado en el escaneo y redibujado a mano; alturas leídas del trazo manuscrito y comprobadas armónicamente: Bb/F - F7sus4 - F7 - Bb; ritmo tomado de los tenores, homorrítmico como en c.13-14)
+T1: d4/2. bb3 | bb3 c4 c4. bb3/8 | bb3/1~ | bb3
+T2: bb3/2. f3 | f3 bb3 a3. f3/8 | f3/1~ | f3
+B1: f3/2. d3 | d3 eb3 eb3. d3/8 | d3/1~ | d3
+B2: f3/2. f2 | f2 f2 f2. bb2/8 | bb2/1~ | bb2
+L: ni- ca- | me tu gran- de_a- | mor!
+L2: hoy mi | vi- da y mi_a- | mor.
+L3: Ti, ¡oh, | Cris- to mi Se- | ñor.

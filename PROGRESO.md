@@ -7,6 +7,7 @@ Formato: `✅ Carpeta/Canción | tonalidad | compás | nº compases | advertenci
 ✅ Español/Gloria a tu nombre por doquier | Si♭ M | 4/4 | 16 | himnario SATB: tenores = soprano/alto 8vb; tempo no impreso, ♩=80
 ✅ Español/Cuan grande amor | La♭ M | 4/4 | 17 | anacrusa (c.0) + 16; himnario SATB: tenores = soprano/alto 8vb; tempo no impreso, ♩=82; calderón c.14
 ✅ Español/Amarte más Jesus | Re♭ M | 4/4 | 16 | escaneo de baja resolución y página curvada; tempo no impreso, ♩=100; calderón c.16; c.9-12 T2/Bar/Bajo 'Hm'
+✅ Español/Cristo señor | Si♭ M | 4/4 | 25 | anacrusa + 24; tempo no impreso, ♩=80; c.21-24 pentagrama de graves redibujado a mano en el escaneo: Bar./Bajo NOTAS DEDUCIDAS por armonía (FINLANDIA)
 
 ## Tanda 2 — Español 11-19 + Inglés
 
