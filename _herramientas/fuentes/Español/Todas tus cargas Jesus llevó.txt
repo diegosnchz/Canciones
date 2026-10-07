@@ -1,0 +1,40 @@
+title: Todas tus cargas Jesús llevó
+composer: Helen Howarth Lemmel
+lyricist: 
+arranger: 
+key: E
+time: 6/8
+tempo: 96
+source: PDF original (escaneo CamScanner, 1 pág., www.partituriazs.com, 4 sistemas de 2 pentagramas SATB: Sol arriba leída como Sol 8vb para T1/T2, Fa abajo B1/B2); crédito impreso recortado "…n Howarth Lemmel"; 3 estrofas (L-L3) en c.1-8 (estribillo c.5-8 impreso igual en las 3) + Coro c.9-16; doble barra al final del c.8; búsqueda web: letra en español no encontrada; el himno inglés homónimo (John M. Moore, 1952, https://hymnary.org/hymn/FHOP/203) tiene otra melodía/métrica; tempo no indicado en el PDF: negra=96 (negra con puntillo=64) por estilo de himno en 6/8; mancha sobre la 3ª línea del c.10 (pentagrama superior) ignorada
+
+@1
+T1: g#3 e3/8 b2 g#3/8 | g#3/8 a3/8 g#3/8 f#3. | f#3 b2/8 f#3/8 g#3/8 f#3/8 | e3.~ e3.
+T2: e3 b2/8 b2 e3/8 | e3/8 e3/8 e3/8 d#3. | d#3 b2/8 d#3/8 d#3/8 d#3/8 | b2.~ b2.
+B1: b3 g#3/8 g#3 b3/8 | b3/8 c#4/8 b3/8 a3. | a3 a3/8 a3/8 b3/8 a3/8 | g#3.~ g#3.
+B2: e3 e3/8 e3 e3/8 | e3/8 e3/8 e3/8 b2. | b2 b2/8 b2/8 b2/8 b2/8 | ( e3. b2._ )
+L: Hoy es- tás muy | tris- te a- quí | Y muy so- lo tam- | bién
+L2: Lle- va tus prue- | bas a Je- sús | To- da tri- bu- la- | ción
+L3: Tris- te al- ma'al | Sal- va- dor ve | Tus pro- ble- mas a- | quí
+
+@5
+T1: a3/8 a3/8 a3/8 c#4/8. b3/16 a3/8 | g#3 e3/8 b2. | f#3/8 g#3/8 a3/8 g#3 f#3/8 | e3.~ e3. ||
+T2: c#3/8 c#3/8 c#3/8 e3/8. d#3/16 c#3/8 | b2 b2/8 b2. | d#3/8 d#3/8 d#3/8 d#3 d#3/8 | b2.~ b2.
+B1: e3/8 e3/8 e3/8 a3/8. e3/16 e3/8 | e3 g#3/8 g#3. | a3/8 b3/8 c#4/8 b3 a3/8 | g#3.~ g#3.
+B2: a2/8 a2/8 a2/8 a2/8. a2/16 a2/8 | e3 e3/8 e3. | b2/8 b2/8 b2/8 b2 b2/8 | e3.~ e3.
+L: To- das tus car- gas Je- | sús lle- vó | Pues Él mu- rió por | ti.
+L2: To- das tus car- gas Je- | sús lle- vó | Pues Él mu- rió por | ti.
+L3: To- das tus car- gas Je- | sús lle- vó | Pues Él mu- rió por | ti.
+
+@9
+T1: a3/8 a3/8 a3/8 c#4/8. b3/16 a3/8 | g#3 e3/8 b2. | f#3 b3/8 b3. | g#3 b3/8 b3.
+T2: c#3/8 c#3/8 c#3/8 e3/8. d#3/16 c#3/8 | b2 b2/8 b2. | d#3 d#3/8 ( d#3/8 e3/8_ f#3/8_ ) | e3 e3/8 ( e3/8 d#3/8_ c#3/8_ )
+B1: e3/8 e3/8 e3/8 a3/8. a3/16 e3/8 | e3 g#3/8 g#3. | a3 a3/8 a3. | b3 g#3/8 g#3.
+B2: a2/8 a2/8 a2/8 a2/8. a2/16 a2/8 | e3 e3/8 e3. | b2 b2/8 ( b2/8 c#3/8_ d#3/8_ ) | e3 e3/8 e3.
+L: To- das tus car- gas Je- | sús lle- vó | En la cruz, | en la cruz,
+
+@13
+T1: a3/8 a3/8 a3/8 c#4/8. b3/16 a3/8 | g#3 e3/8 b2. | f#3/8 g#3/8 a3/8 g#3 f#3/8 | e3.~ e3. |]
+T2: c#3/8 c#3/8 c#3/8 e3/8. d#3/16 c#3/8 | b2 b2/8 b2. | d#3/8 d#3/8 d#3/8 d#3 d#3/8 | b2.~ b2.
+B1: e3/8 e3/8 e3/8 a3/8. e3/16 e3/8 | e3 g#3/8 g#3. | a3/8 b3/8 c#4/8 b3 a3/8 | g#3.~ g#3.
+B2: a2/8 a2/8 a2/8 a2/8. a2/16 a2/8 | e3 e3/8 e3. | b2/8 b2/8 b2/8 b2 b2/8 | e3.~ e3.
+L: To- das tus car- gas Je- | sús lle- vó | Pues Él mu- rió por | ti.
