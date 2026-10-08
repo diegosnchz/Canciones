@@ -1,0 +1,178 @@
+title: Jamás temeréis
+composer:
+lyricist:
+arranger: Arr. Wayne Hooper - Transcrip. Fernando Palomo
+key: F
+time: 12/8
+tempo: 100
+source: PDF original (6 págs., 17 sistemas de 3 compases, 4 pentagramas TTBB, sin dinámicas ni repeticiones; sin indicación de tempo, se usa 100 por defecto). Pie "The King's Heralds". Búsqueda web: sin resultados específicos de la canción (sólo confirma a Wayne Hooper como arreglista de los King's Heralds, Voice of Prophecy: https://en.wikipedia.org/wiki/Wayne_Hooper). Cambio de armadura F -> Gb (6 bemoles) en c.41 tras doble barra. Dobles barras tras c.16, c.32 y c.40; barra final en c.51. Extracción de notas desde glifos vectoriales del PDF, verificada contra recortes.
+
+@1   # p1 s1
+T1: f4.~ f4/8 g4/8 f4/8 e4.~ e4/8 e4/8 e4/8 | ( f4. e4_ ) e4/8 eb4/8 eb4~ eb4. | r d4/8 d4 d4/8 db4.~ db4/8 db4/8 db4/8
+T2: c4.~ c4/8 c4/8 c4/8 bb3.~ bb3/8 a3/8 bb3/8 | c4.~ c4 bb3/8 a3/8 g3~ g3. | r f3/8 f3 f3/8 f3.~ f3/8 g3/8 f3/8
+B1: a3.~ a3/8 bb3/8 a3/8 g3.~ g3/8 f3/8 g3/8 | a3.~ a3 g3/8 f3/8 c4~ c4. | r bb3/8 bb3 bb3/8 bb3.~ bb3/8 bb3/8 bb3/8
+B2: f2. f2 a2/8 c3. c2 c2/8 | ( f2. c3_ ) c3/8 f2. a2. | bb2. bb2 bb2/8 bb2. bb2 bb2/8
+L.T1: Si vez queun dí- a te | fal- tan fuer- zas, | y to- do es muy os-
+L.T2: Si vez queun dí- a te | fal- tan fuer- zas, | y to- do es muy os-
+L.B1: Si vez queun dí- a te | fal- tan fuer- zas, | y to- do es muy os-
+L.B2: Si vez que_un dí- a te | fal- tan fuer- zas, | y to- do es muy os-
+
+@4   # p1 s2
+T1: c4 c4/8 bb3 bb3/8 a3.~ a3. | r. d4/8 d4/8 d4/8 db4.~ db4/8 db4/8 db4/8 | ( c4. db4_ ) db4/8 dn4 f4/8~ f4 c4/8
+T2: a3 a3/8 g3 g3/8 f3.~ f3. | r. f3/8 f3/8 f3/8 f3.~ f3/8 g3/8 f3/8 | a3.~ a3 g3/8 f3 a3/8~ a3.
+B1: f3 f3/8 e3 e3/8 c3.~ c3. | r. bb3/8 bb3/8 bb3/8 bb3. bb3 bb3/8 | ( f3. e3_ ) e3/8 d3 d3/8~ d3.
+B2: c3/8 a2/8 c3/8 c3_ c3/8 f2.~ f2. | bb2.~ bb2/8 bb2/8 bb2/8 bb2. bb2 bb2/8 | ( c3 bb2/8_ a2_ ) a2/8 d3 d3/8 d3/8 c3/8 a2/8
+L.T1: cu- ro pa- ra ti, | y_es muy di- fi- cil ha- | llar res- pues- ta, pi-
+L.T2: cu- ro pa- ra ti, | y_es muy di- fi- cil ha- | llar res- pues- ta,
+L.B1: cu- ro pa- ra ti, | y_es muy di- fi- cil ha- | llar res- pues- ta,
+L.B2: cu- ro pa- ra ti, | y_es muy di- fi- cil ha- | llar res- pues- ta, pi- de_a Je-
+
+@7   # p1 s3
+T1: bn3.~ bn3 bn3/8 bn3. bn3. | ( c4. d4._ f4._ g4 ) c4/8 | a4/8 r g4 f4/8 e4.~ e4/8 e4/8 e4/8
+T2: r a3/8 a3 a3/8 g3. f3. | g3.~ ( g3. c4.~_ ) c4 c4/8 | c4/8 r c4 c4/8 bb3.~ bb3/8 a3/8 bb3/8
+B1: r d3/8 f3 f3/8 e3. d3. | e3.~ ( e3. d3._ e3 ) e3/8 | f3/8 r f3 f3/8 g3.~ g3/8 f3/8 g3/8
+B2: g2.~ g2.~ g2.~ g2 g2/8 | ( c3. bb2._ a2._ g2 ) g2/8 | f2/8 r a2 bb2/8 c3. c2 c2/8
+L.T1: de_a Je- sús por | ti, y a- | si di- a_a di- a con
+L.T2: pi- de_a Je- sús por | ti, y_a- | si di- a_a di- a con
+L.B1: pi- de_a Je- sús por | ti, y a- | si di- a_a di- a con
+L.B2: sús por | ti, y a- | si di- a_a di- a con
+
+@10   # p2 s1
+T1: ( f4. e4_ ) e4/8 eb4 eb4/8~ eb4. | r d4/8 d4. db4 db4/8 db4 db4/8 | c4 c4/8 bb3/8 c4/8_ bb3/8 a3.~ a3.
+T2: c4.~ c4 bb3/8 a3/8 f3/8 g3/8~_ g3. | r f3/8 f3. f3 f3/8 g3 f3/8 | a3 a3/8 g3/8 a3/8_ g3/8 f3. f3 f3/8
+B1: a3.~ a3 g3/8 f3 c4/8~ c4. | r bb3/8 bb3. bb3 bb3/8 bb3 bb3/8 | f3 f3/8 e3 e3/8 c3.~ c3.
+B2: ( f2. c3_ ) c3/8 f2. a2 f2/8 | bb2.~ bb2. bb2 bb2/8 bb2 bb2/8 | c3/8 a2/8_ bb2/8 c3 c3/8 f2.~ f2.
+L.T1: Cris- to cer- ca | el sol so- bre las ti- | nie- blas bri- lla- rá,
+L.T2: Cris- to cer- ca | el sol so- bre las ti- | nie- blas bri- lla- rá, y_a- si
+L.B1: Cris- to cer- ca | el sol so- bre las ti- | nie- blas bri- lla- rá,
+L.B2: Cris- to cer- ca el | sol so- bre las ti- | nie- blas bri- lla- rá,
+
+@13   # p2 s2
+T1: r. d4. c4 c4/8 bb3. | c4. db4. ( dn4. c4._ ) | bn3/8 r r bn3/8 bb3.~ bb3/8 bb3/8 bb3/8
+T2: f4.~ f4.~ f4.~ f4/8 g4/8_ f4/8_ | a3.~ a3 g3/8 f3.~ f3. | a3/8 r r a3/8 g3.~ g3/8 f3/8 g3/8
+B1: r. ( f3/8 g3_ ) f3 f3/8 d3. | f3. e3. a2 c3/8 d3. | f3/8 r r d3/8 e3.~ e3/8 d3/8 e3/8
+B2: r. bb2. a2 a2/8 g2. | c3. a2. d2.~ d2. | g2/8 r r g2/8 c3. c2 c2/8
+L.T1: no, ya no más, | ya no más, | ya ja- más te- me-
+L.T2: no, | ya no más, | ya ja- más te- me-
+L.B1: no, ya no más, | ya no ya no más, | ya ja- más te- me-
+L.B2: no, ya no más, | ya no más, | ya ja- más te- me-
+
+@16   # p2 s3
+T1: a3/2.~ a3/2. || r. f4 f4/8 f4. g4. | a4. f4.~ f4.~ f4.
+T2: f3/2.~ f3/2. || r. c4 c4/8 d4. d4. | c4. c4.~ c4.~ c4.
+B1: c3/2.~ c3/2. || r. f3 f3/8 g3. f3. | f3. f3.~ f3.~ f3.
+B2: f2/2.~ f2/2. || a2.~ a2 a2/8 ( bb2. bn2_ ) bn2/8 | c3/8 a2~ a2.~ a2.~ a2 f2/8
+L.T1: réis. | Oh, que Dios tan | gran- de,
+L.T2: réis. | Oh, que Dios tan | gran- de,
+L.B1: réis. | Oh, que Dios tan | gran- de,
+L.B2: réis. | Oh, que Dios tan | gran- de, le
+
+@19   # p3 s1
+T1: r d4/8 d4/8 d4/8 d4/8 db4.~ db4/8 db4 | c4 c4/8 bb3/8 c4/8_ bb3/8 a3.~ a3. | r d4/8 d4/8 e4/8 d4/8 db4.~ db4/8 db4/8 db4/8
+T2: r bb3/8 bb3/8 bb3/8 bb3/8 bb3.~ bb3/8 bb3 | f3 d3/8 e3 e3/8 c3. c4/8 a3/8_ g3/8 | f3.~ f3/8 f3/8 f3/8 f3.~ f3/8 g3/8 f3/8
+B1: r f3/8 f3/8 f3/8 f3/8 f3.~ f3/8 g3/8 f3/8_ | a3 a3/8 g3/8 a3/8_ g3/8 f3.~ f3. | r bb3/8 bb3/8 bb3/8 bb3/8 bb3.~ bb3/8 bb3/8 bb3/8
+B2: bb2.~ bb2/8 bb2/8 bb2/8 bb2. bb2. | c3/8 a2/8_ bb2/8 c3 c3/8 f2.~ f2. | r bb2/8 bb2/8 bb2/8 bb2/8 bb2. bb2 bb2/8
+L.T1: le dio a mi ser a- | mor y gran va- lor, | es- tas por ha- cer en tu
+L.T2: le dio a mi ser a- | mor y gran va- lor, ya es- | tas por ha- cer en tu
+L.B1: le dio a mi ser a- | mor y gran va- lor, | es- tas por ha- cer en tu
+L.B2: dio a mi ser a- | mor y gran va- lor, | es- tas por ha- cer en tu
+
+@22   # p3 s2
+T1: c4. db4. dn4 f4/8~ f4 c4/8 | bn3.~ bn3/8 r/8 d4/8 bn3. bn3. | ( c4. d4._ f4._ g4._ )
+T2: a3. g3 f3/8 a3 d3/8~ ( d3. | f3.~_ ) f3/8 r/8 a3/8 g3. f3. | g3.~ ( g3. c4.~_ ) c4.
+B1: a3. a3. f3 f3/8 a3 f3/8 | d3.~ d3/8 r/8 d3/8 e3. d3. | e3.~ ( e3. d3._ e3._ )
+B2: ( c3 a2/8 ) a2. d2 d2/8 a2 a2/8 | ( g#2. a2/8_ ) r/8 d2/8 gn2. g2. | ( c3. bb2._ a2._ g2._ )
+L.T1: vi- da_un cam- bio si_es- | tás pen- san- do_en | El.
+L.T2: vi- da un cam- bio | pen- san- do_en | El.
+L.B1: vi- da_un cam- bio oh si_es- | tas pen- san- do_en | El.
+L.B2: vi- da un cam- bio oh si_es- | tas pen- san- do_en | El.
+
+@25   # p3 s3
+T1: r a4/8 g4 f4/8 e4.~ e4 e4/8 | ( f4. e4_ ) e4/8 eb4 eb4/8~ eb4. | r d4/8 d4/8 e4/8 d4/8 db4. db4/8 db4/8 db4/8
+T2: r c4/8 c4 c4/8 bb3.~ bb3 a3/8 | c4.~ c4 bb3/8 a3/8 f3/8_ g3/8~ g3. | r f3/8 f3/8 f3/8 f3/8 f3. f3/8 g3/8 f3/8
+B1: r f3/8 e3 d3/8 g3.~ g3 g3/8 | a3.~ a3 g3/8 f3 c4/8~ c4. | r bb3/8 bb3/8 bb3/8 bb3/8 bb3. bb3/8 bb3/8 bb3/8
+B2: r f2/8 a2 a2/8 c3 c3/8 c2 c2/8_ | ( f2. c3_ ) c3/8 f2 f2/8 a2 f2/8 | bb2.~ bb2/8 bb2/8 bb2/8 bb2. bb2/8 bb2/8 bb2/8
+L.T1: Tu al- ma envuel- ve | sin pre- sio- nes, | porque es na- tu- ral ir de la
+L.T2: Tu al- ma envuel- ve | sin pre- sio- nes, | porque es na- tu- ral ir de la
+L.B1: Tu al- ma envuel- ve | sin pre- sio- nes, | porque es na- tu- ral ir de la
+L.B2: Tu al- ma envuel- ve envuelve | sin pre- sio- nes, por- que | es na- tu- ral ir de la
+
+@28   # p4 s1
+T1: c4 c4/8 bb3 bb3/8 a3.~ a3. | r. d4. c4 c4/8 bb3. | c4. db4. dn4 e4/8 c4.
+T2: a3 a3/8 g3/8 a3/8_ g3/8 f3. f3 f3/8 | f4.~ f4.~ f4.~ f4/8 g4/8_ f4/8_ | a3.~ a3 g3/8 f3.~ f3.
+B1: f3 f3/8 e3 e3/8 d3.~ d3. | r. g3. f3 f3/8 d3. | f3. e3. a2 c3/8 d3.
+B2: c3 c3/8 c#3 c#3/8 d3.~ d3. | r. bb2. a2 a2/8 g2. | c3. a2. d2.~ d2.
+L.T1: ma- no del Se- ñor. | No ya no más, | ya no, ya no más,
+L.T2: ma- no del Se- ñor. Y_a- si | no | ya no más,
+L.B1: ma- no del Se- ñor. | No ya no más, | ya no, ya no más,
+L.B2: ma- no del Se- ñor. | No ya no más, | ya no, más,
+
+@31   # p4 s2
+T1: bn3/8 r r bn3/8 bb3.~ bb3/8 bb3/8 bb3/8 | ( a3. bb3._ a3/2._ ) || f4.~ f4/8 g4/8 f4/8 eb4.~ eb4 eb4/8
+T2: a3/8 r r a3/8 g3.~ g3/8 f3/8 g3/8 | f3/2.~ f3/2. || c4.~ c4/8 c4/8 c4/8 ( c4 bb3._ ) a3/8
+B1: f3/8 r r f3/8 e3.~ e3/8 e3/8 e3/8 | ( c3. d3._ c3/2._ ) || a3.~ a3/8 a3/8 a3/8 g3.~ g3 g3/8
+B2: g2/8 r r g2/8 c2.~ c2/8 c2/8 c2/8 | f2/2.~ f2/2. || ( c3. a2/8_ ) a2/8 a2/8 c3. c2.
+L.T1: ya ja- más te- me- | réis. | Si bus- cas paz y
+L.T2: ya ja- más te- me- | réis. | Si bus- cas paz y
+L.B1: ya ja- más te- me- | réis. | Si bus- cas paz y
+L.B2: ya ja- más te- me- | réis. | Si bus- cas paz y
+
+@34   # p4 s3
+T1: ( f4. eb4 ) eb4/8_ eb4. eb4. | r d4/8 d4/8 e4/8_ d4/8 db4. db4. | c4. bb3/8 c4/8_ bb3/8 a3.~ a3.
+T2: c4.~ c4 bb3/8 a3 g3/8~ g3. | r f3/8 f3 f3/8 f3.~ f3/8 g3/8 f3/8_ | a3. g3/8 a3/8_ g3/8 f3.~ f3.
+B1: ( eb3 f3/8_ g3 ) g3/8 f3/8 c4~_ c4. | r bb3/8 bb3 bb3/8 bb3.~ bb3/8 bb3 | f3. e3 e3/8 c3.~ c3.
+B2: ( f2. c3 ) c3/8 f2._ a2 f2/8 | bb1. bb2 bb2/8 bb2. bb2. | c3/8 a2 c3 c3/8 f2.~ f2 f2/8
+L.T1: vez que cues- ta, | da aCris- to mo- do | de_en- trar en ti,
+L.T2: vez que cues- ta, | da aCris- to mo- do | de_en- trar en ti,
+L.B1: vez que cues- ta, | da aCris- to mo- do | de_en- trar en ti,
+L.B2: vez que cues- ta, de- | ja_a Cris- to mo- do | de en- trar en ti, ve-
+
+@37   # p5 s1
+T1: r d4/8 f4 d4/8 d4. d4 d4/8 | c#4. e4. d4 d4/8~ d4. | r e4/8 f4 f4/8 e4. d4.
+T2: r f3/8 f3 f3/8 f3.~ f3/8 g3/8 f3/8 | a3.~ a3 g3/8 f3 a3/8~ a3. | r g3/8 a3 a3/8 g3. f3.
+B1: r bb3/8 a3 a3/8 bb3.~ bb3/8 bb3/8 bb3/8 | e3. a3. a3 f3/8~ f3. | r bn3/8 c4 f3/8 bn3. bn3.
+B2: bb2.~ bb2 r/8 bb2. e2 e2/8 | a2. c#2. d2. d3 a2/8 | ( g2. a2_ ) d2/8 g2. g2.
+L.T1: ve- raz que fá- cil se- | rá tu cam- bio, | di- ras: oh, gra- cias
+L.T2: ve- raz que fá- cil se- | rá tu cam- bio, | di- ras: oh, gra- cias
+L.B1: ve- raz que fá- cil se- | rá tu cam- bio, | di- ras: oh, gra- cias
+L.B2: raz fá- cil se- | rá tu cam- bio, di- | ras: oh, gra- cias
+
+@40   # p5 s2
+T1: c4. e4 e4/8 f4. r. || key:Gb gb4. gb4 gb4/8 ( gb4 f4/8_ eb4/8_ ) r/8 gb4/8 | gb4. f4 db4/8 db4. db4.
+T2: g3. c4/8 a3/8 c4/8_ db4. ( eb4 db4/8_ ) || db4. db4 db4/8 cb4.~ cb4/8 r/8 db4/8 | db4. db4 cb4/8 bb3/8 gb3/8_ ab3/8~ ab3.
+B1: e3. a3 a3/8 bb3. r. || bb3. gb3 gb3/8 ab3.~ ab3/8 r/8 bb3/8 | bb3. db3 gb3/8 gb3 fb3/8~ fb3.
+B2: c3. a2/8 f2/8 d2/8_ db2. r. || gb2. bb2 cb3/8 db3. db2. | gb2. db3 db3/8 gb2. bb2 gb2/8
+L.T1: Dios. Gra- cias Dios. | Ved y o- id, Je- | sús me_ha to- ca- do
+L.T2: Dios. Gra- cias Dios. Oh | Ved y o- id, Je- | sús me_ha to- ca- do
+L.B1: Dios. Gra- cias Dios. | Ved y o- id, Je- | sús me_ha to- ca- do
+L.B2: Dios. Gra- cias Dios. | Ved y o- id, Je- | sús me_ha to- ca- do, di-
+
+@43   # p5 s3
+T1: r eb4/8 eb4 eb4/8 dn4 dn4/8 gb4 bb3/8 | db4 gb4/8 f4 f4/8 eb4.~ eb4. | r. eb4. db4 db4/8 cb4.
+T2: r gb3/8 gb3 gb3/8 gb3 eb3/8 gb3/8 ab3/8_ gb3/8 | bb3 db4/8 cb4/8 db4/8_ cb4/8 bb3. gb3 gb3/8 | ab4/8 eb4/8_ gb4/8~_ gb4.~ gb4.~ gb4/8 ab4/8_ gb4/8_
+B1: r cb4/8 cb4 cb4/8 cb4 cb4/8 cb4 gb3/8 | gb3 bb3/8 ab3/8 bb3/8_ ab3/8 gb3.~ gb3. | r. ab3. gb3 gb3/8 eb3.
+B2: cb3.~ cb3 cb3/8 cb3 cb3/8 ab2/8 gb2/8 gb2/8_ | db3 db3/8 dn3 dn3/8 eb3.~ eb3. | r. cb3. bb2 bb2/8 ab2.
+L.T1: di- réis_y a to- dos ha- bla- | réis del buen Je- sús. | No, ya no más,
+L.T2: di- réis y_a to- dos ha- bla- | réis del buen Je- sús. Y_a- si | no,
+L.B1: di- réis_y a to- dos ha- bla- | réis del buen Je- sús. | No, ya no más,
+L.B2: réis y_a to- dos ha- bla- | réis del buen Je- sús. | No, ya no más,
+
+@46   # p6 s1
+T1: db4. dn4. eb4 f4/8 db4. | cb4/8 r r cb4/8 cb4/8 r r. | cb4/8 r r cb4/8 cb4/8 r r.
+T2: bb3.~ bb3 ab3/8 gb3.~ gb3. | bb3/8 r r bb3/8 ab3/8 r r. | bb3/8 r r bb3/8 ab3/8 r bb3/8 db4/8_ eb4/8_
+B1: gb3. f3. bb2 db3/8 eb3. | gb3/8 r r eb3/8 f3/8 r r. | gb3/8 r r eb3/8 f3/8 r r.
+B2: db3. bb2. eb2. eb3/8 db3/8 bb2/8 | ab2/8 r r ab2/8 db3/8 r eb3/8 db3/8 bb2/8 | ab2/8 r r ab2/8 db2/8 r r.
+L.T1: ya no, ya no más, | ya ja- más, | ya ja- más,
+L.T2: ya no más, | ya ja- más, | ya ja- más. oh
+L.B1: ya no, ya no más, | ya ja- más, | ya ja- más,
+L.B2: ya no, ya ya nún- ca, | ya ja- más, ya nún- ca | ya ja- más,
+
+@49   # p6 s2
+T1: gb4.~ gb4 gb4/8 ab4.~ ab4/8 bb4/8 ab4/8 | gb4/2.~ gb4/2.~ | gb4/2.~ gb4/2.
+T2: ( gb4. cb4_ ) cb4/8 cb4.~ cb4/8 db4/8 cb4/8 | cb4/2. bb3. ab3. | bb3/2.~ bb3/2.
+B1: bb3.~ bb3 gb3/8 f3.~ f3/8 f3/8 f3/8 | eb3/2. db3._ cb3._ | db3/2.~_ db3/2.
+B2: ab2.~_ ab2 ab2/8_ db2.~_ db2/8 db2/8_ db2/8_ | gb2/2.~_ gb2/2.~ | gb2/2.~ gb2/2.
+L.T1: ya ja- más te- me- | réis. | 
+L.T2: ya ja- más te- me- | réis. Te- me- | réis.
+L.B1: ya ja- más te- me- | réis. | 
+L.B2:  |  | 

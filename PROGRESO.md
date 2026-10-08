@@ -18,6 +18,7 @@ Formato: `✅ Carpeta/Canción | tonalidad | compás | nº compases | advertenci
 ✅ Español/Maravilloso es el nombre de Jesus | Fa M | 3/4 | 26 | himnario SATB; repetición c.1-8 con casillas 1ª (c.7-8) y 2ª (c.9-10); tempo no impreso, ♩=100; c.3/21 Bar. fa# (alteración borrosa, leída como sostenido)
 ✅ Español/Todas tus cargas Jesus llevó | Mi M | 6/8 | 16 | himnario SATB, 3 estrofas; tempo no impreso, ♩=96; c.9 Bar. la3 (difiere de c.5/13, así impreso)
 ✅ Español/Si tu amas a cristo | La♭ M | 4/4 | 79 | 66 compases impresos; forma D.S. al Coda expandida (79 con anacrusa); tempo no impreso, ♩=100; compases partidos por doble barra (c.17/18, 47/48) como en el original
+✅ Español/Jamás temeréis | Fa M → Sol♭ M (c.41) | 12/8 | 51 | PDF vectorial 4 pentagramas; tempo no impreso, ♩=100; ligaduras de expresión encadenadas fusionadas; letra impresa 'queun' respetada
 
 ## Tanda 3 — Navidad + Rumano 1-9
 
