@@ -21,6 +21,7 @@ Formato: `✅ Carpeta/Canción | tonalidad | compás | nº compases | advertenci
 ✅ Español/Jamás temeréis | Fa M → Sol♭ M (c.41) | 12/8 | 51 | PDF vectorial 4 pentagramas; tempo no impreso, ♩=100; ligaduras de expresión encadenadas fusionadas; letra impresa 'queun' respetada
 
 ## Tanda 3 — Navidad + Rumano 1-9
+⛔ Navidad/Here Comes the Light TTBB | Fa M | 4/4 | — | BLOQUEADA: arreglo comercial con copyright vigente (J. Graham / arr. J. Yane, Shawnee Press © 2007/2013) y el PDF es una copia "Preview Only" con marca de agua, no adquirida. No se reproduce nota a nota. Si se dispone de la partitura comprada y licencia de uso, se puede retomar.
 
 ## Tanda 4 — Rumano 10-19
 
