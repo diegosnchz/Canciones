@@ -33,6 +33,7 @@ Formato: `✅ Carpeta/Canción | tonalidad | compás | nº compases | advertenci
 
 ## Tanda 4 — Rumano 10-19
 ✅ Rumano/O tata bun | Si♭ M → Mi♭ M (c.9) | 4/4 | 27 | SOLO PÁGINA 2 (el PDF del repo no contiene la pág. 1: empieza a mitad de frase); compás y tempo no impresos (4/4 deducido, ♩=100); reguladores cresc./dim. c.1-8; letra con 'á' tal como está impresa
+✅ Rumano/Mergeti in toata lumea | La♭ M | 4/4 | 17 | himnario (Fillmore), 3 estrofas + Refren con letra distinta tenores/graves; tempo no impreso, ♩=100; letrista impreso 'J. H. L.Valentin Popovici' literal
 
 ## Tanda 5 — Rumano 20-28
 

@@ -1,0 +1,48 @@
+title: Mergeti în toatá lumea
+composer: J.H.Fillmore
+lyricist: J. H. L.Valentin Popovici
+arranger:
+key: Ab
+time: 4/4
+tempo: 100
+source: PDF original (escaneo CamScanner, 1 pág., 4 sistemas, 2 pentagramas: Sol sin 8 = TT / Fa = BB, "cor bárbátesc"; armadura 4 bemoles, C). Letra en rumano tal como está impresa (la ligadura "fi" se transcribe fi). Los números de estrofa 1. 2. 3. impresos se representan con las líneas L, L2, L3. Refrén ("Refren:", c.9-17): la línea de letra bajo los tenores (L: Mer-geti, mer-geti, pre-tu-tin-deni...) va en estrofa 1 y la línea sobre los graves (L3.B1/B2: Mer-geti în toa-tá lu-mea...) en estrofa 3, como en el original. Búsqueda web (WebSearch): himno "Go ye into all the world", J. H. Fillmore (1895, texto inglés de Jessie Brown Pounds; hymnary.org / expositorysongs.com); versión rumana y tempo de grabación no encontrados, tempo 100 por defecto. Sin repeticiones, casillas ni dinámicas en el PDF. Re bemol sin alteración = Db según armadura (c.2, c.6, c.11, c.12, c.15, c.16); Re becuadro sólo donde está impreso (c.7, c.12).
+
+@1
+T1: ab3 ab3 ab3 ab3 | g3 f3 eb3 f3/8 g3/8 | ab3 ab3 bb3 bb3 | c4/2. r | bb3 bb3 bb3 bb3
+T2: ab3 ab3 ab3 ab3 | g3 f3 eb3 f3/8 g3/8 | ab3 ab3 g3 g3 | ab3/2. r | bb3 bb3 bb3 bb3
+B1: ab3 ab3 ab3 ab3 | g3 f3 eb3 db3/8 db3/8 | c3 c3 eb3 eb3 | eb3/2. r | bb3 bb3 bb3 bb3
+B2: ab3 ab3 ab3 ab3 | g3 f3 eb3 db3/8 db3/8 | c3 c3 bb2 bb2 | ab2/2. r | bb3 bb3 bb3 bb3
+L: "Mer- geti în toa- | tá lu- mea", E po- | run- ca ce ne-a | dat, | E- van- ghe- li-
+L2: Spu- neti ce- lor | în- tris- tati I- sus | poa- te mân- gâ- | ia, | Ce- lor greu îm-
+L3: Ce- lor din în- | tu- ne- cimi Da- ti- | le lu- mi- na | voi | Si sal- va- rea
+
+@6
+T1: ab3 g3 f3 eb3/8 g3/8 | bb3/2 ab3/2 | g3/2 r r || !Refren: c4 c4 r r
+T2: ab3 g3 f3 eb3/8 g3/8 | g3/2 f3/2 | eb3/2 r r | ab3 ab3 r r
+B1: ab3 g3 f3 eb3/8 eb3/8 | eb3/2 dn3/2 | eb3/2 r r | eb3 eb3 r r
+B2: ab3 g3 f3 eb3/8 c3/8 | bb2/2 bb2/2 | eb3 ( eb3/8 f3/8_ ) eb3/8 db3/8 c3/8 bb2/8 | ab2 ab2 ( ab2/8 bb2/8_ ) c3/8 ab2/8
+L.TT: a ves- titi ce- lor | din pá- | cat. | Mer- geti,
+L.BB: a ves- titi ce- lor | din pá- | cat.
+L2: po- vá- rati El po- | va- ra | ia.
+L3.T1: o ves- titi ce- lor | în ne- | voi.
+L3.T2: o ves- titi ce- lor | în ne- | voi.
+L3.B1: o ves- titi ce- lor | în ne- | voi. | Mer- geti
+L3.B2: o ves- titi ce- lor | în ne- | voi. Mer- geti în toa- tá | lu- mea, în toa- tá
+
+@10
+T1: eb4 eb4 r r | eb4 eb4 eb4 eb4/8 eb4/8 | eb4 dn4 eb4 ( eb4/8 db4/8_ )
+T2: bb3 bb3 r r | c4 c4 eb4 eb4/8 eb4/8 | eb4 bb3 bb3 g3
+B1: g3 g3 r r | ab3 ab3_ db4 c4/8 c4/8_ | bb3 ab3 g3 eb3
+B2: eb3 eb3 ( eb3/8 f3/8_ ) g3/8 eb3/8 | ab3/2 bb3 ab3/8 c4/8_ | g3 f3 ( eb3/8 db3/8_ ) ( c3/8 bb2/8_ )
+L.TT: mer- geti, | pre- tu- tin- deni cu | ves- tea bu- ná,
+L3.B1: lu- mea, | lu- mea cu | ves- tea bu- ná,
+L3.B2: lu- mea, în toa- tá | lu- mea cu | ves- tea bu- ná,
+
+@13
+T1: c4 c4 r r | eb4 eb4 r r | eb4 eb4 f4 f4 | eb4/2 db4/2 | c4/2. r
+T2: ab3 ab3 r r | bb3 bb3 r r | c4 c4 db4 db4 | ( c4 bb3_ ) bb3/2 | ab3/2. r
+B1: eb3 eb3 r r | g3 g3 r r | ab3 ab3_ ab3 ab3 | ( ab3 g3 ) g3/2 | eb3/2. r
+B2: ab2 ab2 ( ab2/8 bb2/8_ ) c3/8 ab2/8 | eb3 eb3 ( eb3/8 f3/8_ ) g3/8 eb3/8 | ab3/2 ab2 ab2 | eb3 eb3 eb3 eb3 | ab2/2. r
+L.TT: Mer- geti, | mer- geti, | Ia- tá, Eu voi | fi cu | voi.
+L3.B1: Mer- geti | lu- mea, | lu- mea Si | eu voi fi | voi.
+L3.B2: Mer- geti în toa- tá | lu- mea, în toa- tá | lu- mea Si | eu voi fi cu | voi.
