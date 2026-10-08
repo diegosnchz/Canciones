@@ -1,0 +1,262 @@
+title: Te cuida
+composer: Dorsey
+lyricist:
+arranger: Arr. Wayne Hooper - Transcrip. Fernando Palomo
+key: Ab
+time: 4/4
+tempo: 100
+source: PDF original (PDFCreator, 7 págs., 4 pentagramas TTBB; "(If We Ever Needed the Lord Before)"). Lectura vectorial del PDF + recortes. Original de Thomas A. Dorsey; arreglo de Wayne Hooper (King's Heralds) - https://musicprintcollections.library.utoronto.ca/items/show/26010 , https://store.vop.com/products/kings-heralds-vol-2 ; tempo no indicado en el PDF ni encontrado -> 100. Forma expandida: c.1-63 (D.S. al Coda en c.63, Segno en c.33), repetición c.33-45 ("2da vez al CODA" tras c.45), Coda c.64-66. Numeración DSL = compás del PDF - 1 (anacrusa @0). Compases 17 (3 tiempos) + 18 (1 tiempo) y 48 + 49 partidos por doble barra como en el original; último compás de 2 tiempos.
+
+# ---- PDF c.1-3 (anacrusa "Si tú" sólo Tenor 2)
+@0
+T1: r/2 || c4/8 c4/8~ c4/8 bn3/8 c4/8 c4/8~ c4/8 bn3/8 | c4 bn3/8 c4/8~ c4. c4/8
+T2: eb3. f3/8 | ab3/8 ab3/8~ ab3/8 f3/8 ab3/8 ab3/8~ ab3/8 f3/8 | ab3 f3/8 ab3/8~ ab3. ab3/8
+B1: r/2 | eb3/8 eb3/8~ eb3/8 eb3/8 eb3/8 eb3/8~ eb3/8 eb3/8 | eb3 eb3/8 eb3/8~ eb3. eb3/8
+B2: r/2 | ab2/8 ab2/8~ ab2/8 ab2/8 ab2/8 ab2/8~ ab2/8 f2/8 | ab2 ab2/8 ab2/8~ ab2/8 ab2/8 c3/8 db3/8
+L.T1: a- mas a Cris- to te | sal- va- rá, _
+L.T2: Si tú | a- mas a Cris- to te | sal- va- rá, _
+L.B1: a- mas a Cris- to te | sal- va- rá, _
+L.B2: a- mas a Cris- to te | sal- va- rá, al cie- lo
+
+# ---- PDF c.4-7
+@3
+T1: eb4 eb4 eb4/8 db4/8~ db4/8 c4/8~ | c4 r eb4. eb4/8_ | db4 db4 db4/8 db4/8~ db4/8 db4/8~ | db4/2. r
+T2: c4 c4 c4/8 bb3/8~ bb3/8 ab3/8~ | ab3 r c4. c4/8_ | bb3 bb3 bb3/8 bb3/8~ bb3/8 bb3/8~ | bb3/2. r
+B1: ab3 ab3 ab3/8 g3/8~ g3/8 eb3/8~ | eb3 r ab3. ab3/8_ | g3 g3 g3/8 g3/8~ g3/8 g3/8~ | g3/2. r
+B2: eb3 eb3 eb3/8 eb2/8~ eb2/8 ab2/8~ | ab2 r c3. c3/8_ | eb3 eb3 eb3/8 eb3/8~ eb3/8 eb3/8~ | eb3 eb3/8 f3/8~ f3/8 eb3/8 f3/8 eb3/8
+L.TT: él te lle- va- rá. | Sí, | él te lle- va- rá,
+L.B1: él te lle- va- rá. | Sí, | él te lle- va- rá,
+L.B2: él te lle- va- rá. | Sí, | él te lle- va- rá, | al cie- lo, oh, sí,
+
+# ---- PDF c.8-10
+@7
+T1: eb4 eb4 eb4/8 db4/8~ db4/8 c4/8~ | c4/2. c4/8 bb3/8 | c4/8 c4/8~ c4/8 bn3/8 c4/8 c4/8~ c4/8 bn3/8
+T2: c4 c4 c4/8 bb3/8~ bb3/8 ab3/8~ | ab3/2. eb3/8 f3/8 | ab3/8 ab3/8~ ab3/8 f3/8 ab3/8 ab3/8~ ab3/8 f3/8
+B1: ab3 ab3 ab3/8 g3/8~ g3/8 eb3/8~ | eb3/2. eb3/8 eb3/8 | eb3/8 eb3/8~ eb3/8 eb3/8 eb3/8 eb3/8~ eb3/8 eb3/8
+B2: ab3 f3 eb3/8 eb3/8~ eb3/8 ab2/8~ | ab2/8 ab3/8~ ab3/8 f3/8~ f3/8 eb3/8 c3/8 bb2/8 | ab2/8 ab2/8~ ab2/8 f2/8 ab2/8 ab2/8~ ab2/8 f2/8
+L.TT: él te lle- va- rá. | si tú | a- mas a Cris- to te
+L.B1: él te lle- va- rá. | si tú | a- mas a Cris- to te
+L.B2: él te lle- va- rá. | ¡Her- ma- no! si tú | a- mas a Cris- to te
+
+# ---- PDF c.11-13
+@10
+T1: c4 bn3/8 c4/8~ c4. c4/8 | eb4 eb4 eb4/8 db4/8~ db4/8 c4/8~ | c4 r c4/2
+T2: ab3 f3/8 ab3/8~ ab3. ab3/8 | c4 c4 c4/8 bb3/8~ bb3/8 ab3/8~ | ab3 r ab3/2
+B1: eb3 eb3/8 eb3/8~ eb3. eb3/8 | ab3 ab3 g3/8 g3/8~ g3/8 eb3/8~ | eb3 r ab3/2
+B2: ab2 f2/8 ab2/8~ ab2/8 ab2/8 c3/8 db3/8 | eb3 eb3 eb3/8 eb2/8~ eb2/8 ab2/8~ | ab2 r f3/2
+L.TT: sal- va- rá, _ | él te lle- va- rá. | Y
+L.B1: sal- va- rá, _ | él te lle- va- rá. | Y
+L.B2: sal- va- rá, al cie- lo | él te lle- va- rá. | Y
+
+# ---- PDF c.14-17
+@13
+T1: eb4 ab4 ab4 f4 | eb4 c4 db4 db4 | ( c4/2 db4/2_ | c4/2._ ) ||
+T2: c4 eb4 eb4 db4 | c4 ab3 bb3 bb3 | ab3/1~ | ab3/2.
+B1: ab3 ab3 ab3 ab3 | ab3 f3 g3 g3 | ( eb3/2 f3/2_ | eb3/2._ )
+B2: eb3 c3 c3 db3 | eb3 f3 eb3 eb3 | ( ab2/2 db3/2_ | ab2/2._ )
+L: con los án- ge- | les po- drás es- | tar.
+
+# ---- PDF c.18-20 (c.18 = 1 tiempo)
+@17
+T1: eb4 | ab4/1~ | ab4/2~ ab4/8 f4/8 eb4/8 f4/8
+T2: r | c4/8 c4/8 c4/8 c4/8 c4/8 c4/8 r | c4/8 c4/8 c4/8 c4/8 c4/8 c4/8 r
+B1: r | eb3/8 eb3/8 eb3/8 eb3/8 eb3/8 eb3/8 r | eb3/8 eb3/8 eb3/8 eb3/8 eb3/8 eb3/8 r
+B2: r | ab2/8 ab2/8 ab2/8 ab2/8 ab2/8 ab2/8 r | ab2/8 ab2/8 ab2/8 ab2/8 ab2/8 ab2/8 r
+L.T1: Te | cui- | da_en la ma-
+L.T2: Cui- da_en la ma- ña- na, | cui- da_en la ma- ña- na,
+L.BB: Cui- da_en la ma- ña- na, | cui- da_en la ma- ña- na,
+
+# ---- PDF c.21-23
+@20
+T1: c4/8 ab3/8~ ab3/2.~ | ab3/2 r eb4 | ab4/1~
+T2: c4/8 c4/8 c4/8 c4/8 c4/8 c4/8 r | c4/8 c4/8 c4/8 c4/8 c4/8 c4/8 r | c4/8 c4/8 c4/8 c4/8 c4 r
+B1: eb3/8 eb3/8 eb3/8 eb3/8 eb3/8 eb3/8 r | eb3/8 eb3/8 eb3/8 eb3/8 eb3/8 eb3/8 r | eb3/8 eb3/8 eb3/8 eb3/8 eb3 r
+B2: ab2/8 ab2/8 ab2/8 ab2/8 ab2/8 ab2/8 r | ab2/8 ab2/8 ab2/8 ab2/8 ab2/8 ab2/8 r | ab2/8 ab2/8 ab2/8 ab2/8 ab2 r
+L.T1: ña- na, | te | cui-
+L.T2: Cui- da_en la ma- ña- na, | cui- da_en la ma- ña- na, | cui- da en la tar_de,
+L.BB: Cui- da_en la ma- ña- na, | cui- da_en la ma- ña- na, | cui- da en la tar_de,
+
+# ---- PDF c.24-26
+@23
+T1: ab4/2~ ab4/8 f4/8 eb4/8 f4/8 | c4/8 bb3/8~ bb3/2.~ | bb3/2 r eb4/8 eb4/8_
+T2: c4/8 c4/8 c4/8 c4/8 c4 r | eb4/8 eb4/8 db4/8 db4/8 db4 r | db4/8 db4/8 db4/8 db4/8 db4 r
+B1: eb3/8 eb3/8 eb3/8 eb3/8 eb3 r | g3/8 g3/8 g3/8 g3/8 g3 r | g3/8 g3/8 g3/8 g3/8 g3/8 ab3/8 g3/8 f3/8
+B2: ab2/8 ab2/8 ab2/8 ab2/8 ab2 r | eb3/8 eb3/8 eb3/8 eb3/8 eb3 r | eb3/8 eb3/8 eb3/8 eb3/8 eb3/8 db3/8 c3/8 bb2/8
+L.T1: da en la | tar- de, | te
+L.T2: cui- da en la tar_de, | cui- da en la tar_de, | cui- da en la tar_de,
+L.BB: cui- da en la tar_de, | cui- da en la tar_de, | cui- da en la tar- de, oh, te
+
+# ---- PDF c.27-29
+@26
+T1: ab4/1~ | ab4/2~ ab4/8 f4/8 eb4/8 f4/8 | db4/8 ab3/8~ ab3/2.~
+T2: c4/8 c4/8 c4/8 c4/8 c4/8 c4/8 r | c4/8 c4/8 c4/8 c4/8 c4/8 c4/8 r | db4/8 db4/8 db4/8 db4/8 db4/8 db4/8 r
+B1: eb3/8 eb3/8 eb3/8 eb3/8 f3/8 eb3/8 r | eb3/8 eb3/8 eb3/8 eb3/8 f3/8 eb3/8 r | f3/8 f3/8 f3/8 f3/8 f3/8 f3/8 r
+B2: ab2/8 ab2/8 ab2/8 ab2/8 ab2/8 ab2/8 r | ab2/8 ab2/8 ab2/8 ab2/8 ab2/8 ab2/8 r | db3/8 db3/8 db3/8 db3/8 db3/8 db3/8 r
+L.T1: cui- | da en la | no- che
+L.T2: cui- da en la no- che, | cui- da en la no- che, | cui- da en la no- che,
+L.BB: cui- da en la no- che, | cui- da en la no- che, | cui- da en la no- che,
+
+# ---- PDF c.30-32
+@29
+T1: ab3/2. f4/8 f4/8 | eb4 eb4 db4 db4 | c4/2. r ||
+T2: db4/8 db4/8 db4/8 db4/8 db4/8 db4/8 db4/8 db4/8 | c4 c4 bb3 bb3 | ab3/2~ ab3/8 eb3/8~ eb3/8 f3/8
+B1: f3/8 f3/8 f3/8 f3/8 f3/8 f3/8 ab3/8 ab3/8 | ab3 ab3 g3 g3 | f3/8 eb3/8~_ eb3/2 r
+B2: db3/8 db3/8 db3/8 db3/8 db3/8 db3/8 db3/8 db3/8 | eb3 eb3 eb3 eb3 | ab2/2. r
+L.T1: y_a tu | la- do siem- pre_es- | tá.
+L.T2: cui- da en la no- che y_a tu | la- do siem- pre_es- | tá. Si tú
+L.BB: cui- da en la no- che y_a tu | la- do siem- pre_es- | tá.
+
+# ---- PDF c.33-35 (Segno)
+@32
+T1: !Segno c4/8 c4/8~ c4/8 bn3/8 c4/8 c4/8~ c4/8 bn3/8 | c4 bn3/8 c4/8~ c4. c4/8 | eb4 eb4 eb4/8 db4/8~ db4/8 c4/8~
+T2: ab3/8 ab3/8~ ab3/8 f3/8 ab3/8 ab3/8~ ab3/8 f3/8 | ab3 f3/8 ab3/8~ ab3. ab3/8 | c4 c4 c4/8 bb3/8~ bb3/8 ab3/8~
+B1: eb3/8 eb3/8~ eb3/8 eb3/8 eb3/8 eb3/8~ eb3/8 eb3/8 | eb3 eb3/8 eb3/8~ eb3. eb3/8 | ab3 ab3 ab3/8 g3/8~ g3/8 eb3/8~
+B2: ab2/8 ab2/8~ ab2/8 f2/8 ab2/8 ab2/8~ ab2/8 f2/8 | ab2 f2/8 ab2/8~ ab2/8 ab2/8 c3/8 db3/8 | eb3 eb3 eb3/8 eb2/8~ eb2/8 ab2/8~
+L.TT: a- mas a Cris- to te | sal- va- rá, _ | él te lle- va- rá.
+L.B1: a- mas a Cris- to te | sal- va- rá, _ | él te lle- va- rá.
+L.B2: a- mas a Cris- to te | sal- va- rá, al cie- lo | él te lle- va- rá.
+
+# ---- PDF c.36-38
+@35
+T1: c4 r eb4. eb4/8_ | db4 db4 db4/8 db4/8~ db4/8 db4/8~ | db4/2. r
+T2: ab3 r c4. c4/8_ | bb3 bb3 bb3/8 bb3/8~ bb3/8 bb3/8~ | bb3/2. r
+B1: eb3 r ab3. ab3/8_ | g3 g3 g3/8 g3/8~ g3/8 g3/8~ | g3/2. r
+B2: ab2 r c3. c3/8_ | eb3 eb3 eb3/8 eb3/8~ eb3/8 eb3/8~ | eb3 eb3/8 f3/8~ f3/8 eb3/8 f3/8 eb3/8
+L.TT: Sí, | él te lle- va- rá,
+L.B1: Sí, | él te lle- va- rá,
+L.B2: Sí, | él te lle- va- rá, | al cie- lo, oh, sí,
+
+# ---- PDF c.39-41
+@38
+T1: eb4 eb4 eb4/8 db4/8~ db4/8 c4/8~ | c4/2. c4/8 bb3/8 | c4/8 c4/8~ c4/8 bn3/8 c4/8 c4/8~ c4/8 bn3/8
+T2: c4 c4 c4/8 bb3/8~ bb3/8 ab3/8~ | ab3/2. eb3/8 f3/8 | ab3/8 ab3/8~ ab3/8 f3/8 ab3/8 ab3/8~ ab3/8 f3/8
+B1: ab3 ab3 ab3/8 g3/8~ g3/8 eb3/8~ | eb3/2. eb3/8 eb3/8 | eb3/8 eb3/8~ eb3/8 eb3/8 eb3/8 eb3/8~ eb3/8 eb3/8
+B2: ab3 f3 eb3/8 eb3/8~ eb3/8 ab2/8~ | ab2/8 ab3/8~ ab3/8 f3/8~ f3/8 eb3/8 c3/8 bb2/8 | ab2/8 ab2/8~ ab2/8 f2/8 ab2/8 ab2/8~ ab2/8 f2/8
+L.TT: él te lle- va- rá. | si tú | a- mas a Cris- to te
+L.B1: él te lle- va- rá. | si tú | a- mas a Cris- to te
+L.B2: él te lle- va- rá. | ¡Her- ma- no! si tú | a- mas a Cris- to te
+
+# ---- PDF c.42-44
+@41
+T1: c4 bn3/8 c4/8~ c4. c4/8 | eb4 eb4 eb4/8 db4/8~ db4/8 c4/8~ | c4 r c4/2
+T2: ab3 f3/8 ab3/8~ ab3. ab3/8 | c4 c4 c4/8 bb3/8~ bb3/8 ab3/8~ | ab3 r ab3/2
+B1: eb3 eb3/8 eb3/8~ eb3. eb3/8 | ab3 ab3 g3/8 g3/8~ g3/8 eb3/8~ | eb3 r ab3/2
+B2: ab2 f2/8 ab2/8~ ab2/8 ab2/8 c3/8 db3/8 | eb3 eb3 eb3/8 eb2/8~ eb2/8 ab2/8~ | ab2 r f3/2
+L.TT: sal- va- rá, _ | él te lle- va- rá. | Y
+L.B1: sal- va- rá, _ | él te lle- va- rá. | Y
+L.B2: sal- va- rá, al cie- lo | él te lle- va- rá. | Y
+
+# ---- PDF c.45-48 ("2da vez al CODA" tras c.45)
+@44
+T1: eb4 ab4 ab4 f4 | eb4 c4 db4 db4 | ( c4/2 db4/2_ | c4/2._ ) ||
+T2: c4 eb4 eb4 db4 | c4 ab3 bb3 bb3 | ab3/1~ | ab3/2.
+B1: ab3 ab3 ab3 ab3 | ab3 f3 g3 g3 | ( eb3/2 f3/2_ | eb3/2._ )
+B2: eb3 c3 c3 db3 | eb3 f3 eb3 eb3 | ( ab2/2 db3/2_ | ab2/2._ )
+L: con los án- ge- | les po- drás es- | tar.
+
+# ---- PDF c.49-51 (c.49 = 1 tiempo)
+@48
+T1: eb4 | ab4/1~ | ab4/2~ ab4/8 f4/8 eb4/8 f4/8
+T2: r | c4/8 c4/8 c4/8 c4/8 c4/8 c4/8 r | c4/8 c4/8 c4/8 c4/8 c4/8 c4/8 r
+B1: r | eb3/8 eb3/8 eb3/8 eb3/8 eb3/8 eb3/8 r | eb3/8 eb3/8 eb3/8 eb3/8 eb3/8 eb3/8 r
+B2: r | ab2/8 ab2/8 ab2/8 ab2/8 ab2/8 ab2/8 r | ab2/8 ab2/8 ab2/8 ab2/8 ab2/8 ab2/8 r
+L.T1: Te | cui- | da_en la ma-
+L.T2: Cui- da_en la ma- ña- na, | cui- da_en la ma- ña- na,
+L.BB: Cui- da_en la ma- ña- na, | cui- da_en la ma- ña- na,
+
+# ---- PDF c.52-54
+@51
+T1: c4/8 ab3/8~ ab3/2.~ | ab3/2 r eb4 | ab4/1~
+T2: c4/8 c4/8 c4/8 c4/8 c4/8 c4/8 r | eb4/8 eb4/8 db4/8 db4/8 c4/8 c4/8 r | c4/8 c4/8 c4/8 c4/8 c4 r
+B1: eb3/8 eb3/8 eb3/8 eb3/8 eb3/8 eb3/8 r | gb3/8 gb3/8 f3/8 f3/8 eb3/8 eb3/8 r | eb3/8 eb3/8 eb3/8 eb3/8 eb3 r
+B2: ab2/8 ab2/8 ab2/8 ab2/8 ab2/8 ab2/8 r | ab2/8 ab2/8 ab2/8 ab2/8 ab2/8 ab2/8 r | ab2/8 ab2/8 ab2/8 ab2/8 ab2 r
+L.T1: ña- na, | te | cui-
+L.T2: Cui- da_en la ma- ña- na, | cui- da_en la ma- ña- na, | cui- da en la tar_de,
+L.BB: Cui- da_en la ma- ña- na, | cui- da_en la ma- ña- na, | cui- da en la tar_de,
+
+# ---- PDF c.55-57
+@54
+T1: ab4/2~ ab4/8 f4/8 eb4/8 f4/8 | c4/8 bb3/8~ bb3/2.~ | bb3/2 r eb4/8 eb4/8
+T2: c4/8 c4/8 c4/8 c4/8 c4 r | eb4/8 eb4/8 db4/8 db4/8 db4 r | db4/8 db4/8 db4/8 db4/8 db4 r
+B1: eb3/8 eb3/8 eb3/8 eb3/8 eb3 r | g3/8 g3/8 g3/8 g3/8 g3 r | g3/8 g3/8 g3/8 g3/8 g3/8 ab3/8 g3/8 f3/8
+B2: ab2/8 ab2/8 ab2/8 ab2/8 ab2 r | eb3/8 eb3/8 eb3/8 eb3/8 eb3 r | eb3/8 eb3/8 eb3/8 eb3/8 eb3/8 db3/8 c3/8 bb2/8
+L.T1: da en la | tar- de, | oh, te
+L.T2: cui- da en la tar_de, | cui- da en la tar_de, | cui- da en la tar_de,
+L.BB: cui- da en la tar_de, | cui- da en la tar_de, | cui- da en la tar- de, oh, te
+
+# ---- PDF c.58-60
+@57
+T1: ab4/1~ | ab4/2~ ab4/8 f4/8 eb4/8 f4/8 | db4/8 ab3/8~ ab3/2.~
+T2: c4/8 c4/8 c4/8 c4/8 c4/8 c4/8 r | c4/8 c4/8 c4/8 c4/8 c4/8 c4/8 r | db4/8 db4/8 db4/8 db4/8 db4/8 db4/8 r
+B1: eb3/8 eb3/8 eb3/8 eb3/8 f3/8 eb3/8 r | eb3/8 eb3/8 eb3/8 eb3/8 f3/8 eb3/8 r | f3/8 f3/8 f3/8 f3/8 f3/8 f3/8 r
+B2: ab2/8 ab2/8 ab2/8 ab2/8 ab2/8 ab2/8 r | ab2/8 ab2/8 ab2/8 ab2/8 ab2/8 ab2/8 r | db3/8 db3/8 db3/8 db3/8 db3/8 db3/8 r
+L.T1: cui- | da en la | no- che
+L.T2: cui- da en la no- che, | cui- da en la no- che, | cui- da en la no- che,
+L.BB: cui- da en la no- che, | cui- da en la no- che, | cui- da en la no- che,
+
+# ---- PDF c.61-63 (D.S. al CODA)
+@60
+T1: ab3/2. f4/8 f4/8 | eb4 eb4 db4 db4 | c4/2. !D.S._al_Coda r ||
+T2: db4/8 db4/8 db4/8 db4/8 db4/8 db4/8 db4/8 db4/8 | c4 c4 bb3 bb3 | ab3/2~ ab3/8 eb3/8~ eb3/8 f3/8
+B1: f3/8 f3/8 f3/8 f3/8 f3/8 f3/8 ab3/8 ab3/8 | ab3 ab3 g3 g3 | f3/8 eb3/8~_ eb3/2 r
+B2: db3/8 db3/8 db3/8 db3/8 db3/8 db3/8 db3/8 db3/8 | eb3 eb3 eb3 eb3 | ab2/2. r
+L.T1: y_a tu | la- do siem- pre_es- | tá.
+L.T2: cui- da en la no- che y_a tu | la- do siem- pre_es- | tá. Si tú
+L.BB: cui- da en la no- che y_a tu | la- do siem- pre_es- | tá.
+
+# ==== D.S.: repetición de PDF c.33-45
+# ---- PDF c.33-35 (2ª vez)
+@63
+T1: c4/8 c4/8~ c4/8 bn3/8 c4/8 c4/8~ c4/8 bn3/8 | c4 bn3/8 c4/8~ c4. c4/8 | eb4 eb4 eb4/8 db4/8~ db4/8 c4/8~
+T2: ab3/8 ab3/8~ ab3/8 f3/8 ab3/8 ab3/8~ ab3/8 f3/8 | ab3 f3/8 ab3/8~ ab3. ab3/8 | c4 c4 c4/8 bb3/8~ bb3/8 ab3/8~
+B1: eb3/8 eb3/8~ eb3/8 eb3/8 eb3/8 eb3/8~ eb3/8 eb3/8 | eb3 eb3/8 eb3/8~ eb3. eb3/8 | ab3 ab3 ab3/8 g3/8~ g3/8 eb3/8~
+B2: ab2/8 ab2/8~ ab2/8 f2/8 ab2/8 ab2/8~ ab2/8 f2/8 | ab2 f2/8 ab2/8~ ab2/8 ab2/8 c3/8 db3/8 | eb3 eb3 eb3/8 eb2/8~ eb2/8 ab2/8~
+L.TT: a- mas a Cris- to te | sal- va- rá, _ | él te lle- va- rá.
+L.B1: a- mas a Cris- to te | sal- va- rá, _ | él te lle- va- rá.
+L.B2: a- mas a Cris- to te | sal- va- rá, al cie- lo | él te lle- va- rá.
+
+# ---- PDF c.36-38 (2ª vez)
+@66
+T1: c4 r eb4. eb4/8_ | db4 db4 db4/8 db4/8~ db4/8 db4/8~ | db4/2. r
+T2: ab3 r c4. c4/8_ | bb3 bb3 bb3/8 bb3/8~ bb3/8 bb3/8~ | bb3/2. r
+B1: eb3 r ab3. ab3/8_ | g3 g3 g3/8 g3/8~ g3/8 g3/8~ | g3/2. r
+B2: ab2 r c3. c3/8_ | eb3 eb3 eb3/8 eb3/8~ eb3/8 eb3/8~ | eb3 eb3/8 f3/8~ f3/8 eb3/8 f3/8 eb3/8
+L.TT: Sí, | él te lle- va- rá,
+L.B1: Sí, | él te lle- va- rá,
+L.B2: Sí, | él te lle- va- rá, | al cie- lo, oh, sí,
+
+# ---- PDF c.39-41 (2ª vez)
+@69
+T1: eb4 eb4 eb4/8 db4/8~ db4/8 c4/8~ | c4/2. c4/8 bb3/8 | c4/8 c4/8~ c4/8 bn3/8 c4/8 c4/8~ c4/8 bn3/8
+T2: c4 c4 c4/8 bb3/8~ bb3/8 ab3/8~ | ab3/2. eb3/8 f3/8 | ab3/8 ab3/8~ ab3/8 f3/8 ab3/8 ab3/8~ ab3/8 f3/8
+B1: ab3 ab3 ab3/8 g3/8~ g3/8 eb3/8~ | eb3/2. eb3/8 eb3/8 | eb3/8 eb3/8~ eb3/8 eb3/8 eb3/8 eb3/8~ eb3/8 eb3/8
+B2: ab3 f3 eb3/8 eb3/8~ eb3/8 ab2/8~ | ab2/8 ab3/8~ ab3/8 f3/8~ f3/8 eb3/8 c3/8 bb2/8 | ab2/8 ab2/8~ ab2/8 f2/8 ab2/8 ab2/8~ ab2/8 f2/8
+L.TT: él te lle- va- rá. | si tú | a- mas a Cris- to te
+L.B1: él te lle- va- rá. | si tú | a- mas a Cris- to te
+L.B2: él te lle- va- rá. | ¡Her- ma- no! si tú | a- mas a Cris- to te
+
+# ---- PDF c.42-44 (2ª vez)
+@72
+T1: c4 bn3/8 c4/8~ c4. c4/8 | eb4 eb4 eb4/8 db4/8~ db4/8 c4/8~ | c4 r c4/2
+T2: ab3 f3/8 ab3/8~ ab3. ab3/8 | c4 c4 c4/8 bb3/8~ bb3/8 ab3/8~ | ab3 r ab3/2
+B1: eb3 eb3/8 eb3/8~ eb3. eb3/8 | ab3 ab3 g3/8 g3/8~ g3/8 eb3/8~ | eb3 r ab3/2
+B2: ab2 f2/8 ab2/8~ ab2/8 ab2/8 c3/8 db3/8 | eb3 eb3 eb3/8 eb2/8~ eb2/8 ab2/8~ | ab2 r f3/2
+L.TT: sal- va- rá, _ | él te lle- va- rá. | Y
+L.B1: sal- va- rá, _ | él te lle- va- rá. | Y
+L.B2: sal- va- rá, al cie- lo | él te lle- va- rá. | Y
+
+# ---- PDF c.45 (2ª vez -> al CODA)
+@75
+T1: eb4 ab4 ab4 !al_Coda f4 ||
+T2: c4 eb4 eb4 db4
+B1: ab3 ab3 ab3 ab3
+B2: eb3 c3 c3 db3
+L: con los án- ge-
+
+# ==== CODA: PDF c.64-66
+@76
+T1: !CODA eb4/2~ eb4/8 c4/8 db4/8 db4/8 | ( c4/2 bn3/2_ | c4/2^_ ) |]
+T2: c4/2~ c4/8 ab3/8 bb3/8 bb3/8 | ab3/1~ | ab3/2^
+B1: ab3/2~ ab3/8 f3/8 g3/8 g3/8 | ( eb3/2 f3/2_ | eb3/2^_ )
+B2: eb3/2~ eb3/8 eb3/8 eb3/8 eb3/8 | ( ab2/2 db2/2_ | ab2/2^_ )
+L: les po- drás es- | tar.

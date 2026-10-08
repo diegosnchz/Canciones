@@ -17,6 +17,7 @@ Formato: `✅ Carpeta/Canción | tonalidad | compás | nº compases | advertenci
 ✅ Español/Oh cuanto me ama | La♭ M | 3/4 | 20 | himnario SATB bilingüe (4 estrofas: es/en/es/en); tempo no impreso, ♩=100; acordes de 3 notas como divisi en T2 (c.14,16,18) y Bar. (c.19-20); borde derecho del escaneo recortado
 ✅ Español/Maravilloso es el nombre de Jesus | Fa M | 3/4 | 26 | himnario SATB; repetición c.1-8 con casillas 1ª (c.7-8) y 2ª (c.9-10); tempo no impreso, ♩=100; c.3/21 Bar. fa# (alteración borrosa, leída como sostenido)
 ✅ Español/Todas tus cargas Jesus llevó | Mi M | 6/8 | 16 | himnario SATB, 3 estrofas; tempo no impreso, ♩=96; c.9 Bar. la3 (difiere de c.5/13, así impreso)
+✅ Español/Si tu amas a cristo | La♭ M | 4/4 | 79 | 66 compases impresos; forma D.S. al Coda expandida (79 con anacrusa); tempo no impreso, ♩=100; compases partidos por doble barra (c.17/18, 47/48) como en el original
 
 ## Tanda 3 — Navidad + Rumano 1-9
 
