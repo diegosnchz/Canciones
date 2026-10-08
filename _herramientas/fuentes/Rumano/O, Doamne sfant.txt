@@ -1,0 +1,78 @@
+title: O, Doamne sfânt
+composer:
+lyricist:
+arranger:
+key: Db
+time: 4/4
+tempo: 100
+source: PDF original vectorial (2 págs., Acrobat; pie "weer.ro vt 09-2014"); 2 pentagramas Sol (agudas, leídas como Sol 8vb) + Fa; música completa para las estrofas 1 y 2 (c.1-27 y c.28-57), sin repeticiones; en c.50 el PDF imprime una barra intermedia (3+1 tiempos) que aquí es un único compás (la numeración impresa 54 y 57 lo confirma); texto impreso "Refren:" en c.13 y c.40; sin indicación de tempo en el PDF (100 por defecto); búsqueda web: no encontrado (compositor y tempo desconocidos); letra verificada contra el texto del PDF
+
+@1
+T1: r/8 f3/8 f3/8 gb3/8 gb3/8 ab3/8 ab3/8 bb3/8 | bb3/1 | r/8 gb3/8 gb3/8 ab3/8 ab3/8 bb3/8 bb3/8 c4/8 | ( c4. bb3/8_ ab3_ ) r/8 ab3/8
+T2: r/8 db3/8 db3/8 db3/8 db3/8 eb3/8 eb3/8 gb3/8 | gb3/1 | r/8 db3/8 db3/8 eb3/8 eb3/8 f3/8 f3/8 f3/8 | ( f3. eb3/8_~ ) eb3 r/8 f3/8
+B1: r/8 ab3/8 ab3/8 bb3/8 bb3/8 c4/8 c4/8 db4/8 | db4/1 | r/8 bb3/8 bb3/8 c4/8 c4/8 db4/8 db4/8 eb4/8 | ( eb4. db4/8_ c4_ ) r/8 c4/8
+B2: r/8 db3/8 db3/8 db3/8 db3/8 ab2/8 ab2/8 db3/8 | db3/1 | r/8 db3/8 db3/8 c3/8 c3/8 bb2/8 bb2/8 ab2/8 | ab2.~ ab2/8~ ab2 r/8 ab2/8
+L: 1.Din tot ce-a- vem pe-a- cest pă- | mânt | Iu- bi- rea-i da- rul cel mai | sfânt; E-
+
+@5
+T1: f4. eb4/8 eb4/8 db4/8 db4/8 f3/8 | ab3/2. r/8 f3/8 | eb4. db4/8 db4/8 c4/8 bb3/8 ab3/8 | ab3/1 | r/8 f3/8 f3/8 gb3/8 gb3/8 ab3/8 ab3/8 db4/8~
+T2: ab3. ab3/8 ab3/8 gb3/8 gb3/8 f3/8 | eb3/2. r/8 eb3/8 | ab3. f3/8 f3/8 gb3/8 f3/8 f3/8 | eb3/1 | r/8 db3/8 db3/8 db3/8 db3/8 f3/8 f3/8 gb3/8~
+B1: db4. c4/8 c4/8 bb3/8 bb3/8 bb3/8 | c4/2. r/8 c4/8 | c4. bb3/8 bb3/8 eb4/8 db4/8 c4/8 | c4/1 | r/8 ab3/8 ab3/8 bb3/8 bb3/8 c4/8 c4/8 bb3/8~
+B2: db3. c3/8 c3/8 gb2/8 gb2/8 ab2/8 | ab2/2. r/8 ab2/8 | ab2. db3/8 db3/8 eb3/8 f3/8 c3/8 | f3/1 | r/8 db3/8 db3/8 db3/8 db3/8 db3/8 db3/8 db3/8~
+L: ter- ne bi- ne- cu- vân- | tări Re- | var- să Doam- ne azi din | zări, | Cu cei doi vrem ca să por-
+
+@10
+T1: db4/8 bb3/8~ bb3/2. | r bb2/8 gb3/8 f3/8 eb3/8 eb3/8 f3/8 | db3/1 || !Refren: r eb4 gb4. f4/8 | bb3/1~ | bb3/2 gb4/8 f4/8 eb4/8 db4/8
+T2: gb3/8 gb3/8~ gb3/2. | r bb2/8 db3/8 db3/8 ab2/8 eb3/8 db3/8 | db3/1 | r bb3 bb3. bb3/8 | gb3/1~ | gb3/2 bb3/8 bb3/8 gb3/8 gb3/8
+B1: bb3/8 db4/8~ db4/2. | r bb3/8 bb3/8 ab3/8 ab3/8 gb3/8 gb3/8 | f3/1 | r bb3 db4. db4/8 | db4/1~ | db4/2 db4/8 db4/8 c4/8 bb3/8
+B2: db3/8 gb2/8~ gb2/2. | r gb2/8 gb2/8 ab2/8 ab2/8 ab2/8 ab2/8 | db3/1 | r gb3 gb3. gb3/8 | gb3/1~ | gb3/2 gb3/8 gb3/8 gb3/8 gb3/8
+L: nești... | Pa- șii să le o- cro- | tești. | O, Doam- ne | sfânt, | dă- le bu- cu-
+
+@16
+T1: db4/2 c4 db4/8 db4/8~ | db4 eb4 gb4. f4/8 | bb3/1~ | bb3/2 gb4/8 f4/8 eb4/8 db4/8 | db4/2 c4 db4/8 db4/8~
+T2: gb3/2 gb3 gb3/8 gb3/8~ | gb3 gb3 bb3. bb3/8 | gb3/1~ | gb3/2 bb3/8 bb3/8 gb3/8 gb3/8 | gb3/2 gb3 gb3/8 gb3/8~
+B1: bb3/2 ab3 bb3/8 bb3/8~ | bb3 c4 db4. db4/8 | db4/1~ | db4/2 db4/8 db4/8 c4/8 bb3/8 | bb3/2 bb3 bb3/8 bb3/8~
+B2: gb3/2 eb3 db3/8 db3/8~ | db3 gb3 gb3. gb3/8 | gb3/1~ | gb3/2 gb3/8 gb3/8 gb3/8 gb3/8 | gb3/2 eb3 db3/8 db3/8~
+L: ri- e me- reu... | Pe-a- cest pă- | mânt | fii- le-a- lă- turi | când le e greu...
+
+@21
+T1: db4 r/8 bb3/8 db4/8 c4/8 bb3/8 f3/8 | ab3/1~ | ab3 r/8 db3/8 bb3/8 ab3/8 gb3/8 db3/8 | f3/1~ | f3/2 eb3/8 f3/8 gb3/8 ab3/8 | f3/2 eb3/2 | db3/1 ||
+T2: gb3 r/8 gb3/8 bb3/8 ab3/8 gb3/8 f3/8 | eb3/1~ | eb3 r/8 db3/8 gb3/8 eb3/8 db3/8 db3/8 | db3/1~ | db3/2 eb3/8 eb3/8 eb3/8 eb3/8 | db3/2 ab2/2 | ab2/1
+B1: bb3 r/8 db4/8 db4/8 db4/8 db4/8 c4/8 | c4/1~ | c4 r/8 bb3/8 db4/8 c4/8 bb3/8 bb3/8 | ab3/1~ | ab3/2 ab3/8 ab3/8 ab3/8 ab3/8 | ab3/2 gb3/2 | f3/1
+B2: db3 r/8 db3/8 db3/8 db3/8 db3/8 ab2/8 | ab2/1~ | ab2 r/8 bb2/8 bb2/8 gb2/8 gb2/8 gb2/8 | db3/1~ | db3/2 eb3/8 eb3/8 eb3/8 eb3/8 | ab2/2 ab2/2 | db3/1
+L: Ră- mâi cu pa- cea | Ta, | Le um- ple i- ni- | ma | Ca să cân- te | dra- gos- | tea.
+
+@28
+T1: r/8 f3/8 f3/8 gb3/8 gb3/8 ab3/8 ab3/8 bb3/8 | bb3/1 | r/8 gb3/8 gb3/8 ab3/8 ab3/8 bb3/8 bb3/8 c4/8 | ( c4. bb3/8_ ab3_ ) r/8 ab3/8 | f4. eb4/8 eb4/8 db4/8 db4/8 f3/8
+T2: r/8 db3/8 db3/8 db3/8 db3/8 eb3/8 eb3/8 gb3/8 | gb3/1 | r/8 db3/8 db3/8 eb3/8 eb3/8 f3/8 f3/8 f3/8 | ( f3. eb3/8_~ ) eb3 r/8 f3/8 | ab3. ab3/8 ab3/8 gb3/8 gb3/8 f3/8
+B1: r/8 ab3/8 ab3/8 bb3/8 bb3/8 c4/8 c4/8 db4/8 | db4/1 | r/8 bb3/8 bb3/8 c4/8 c4/8 db4/8 db4/8 eb4/8 | ( eb4. db4/8_ c4_ ) r/8 c4/8 | db4. c4/8 c4/8 bb3/8 bb3/8 bb3/8
+B2: r/8 db3/8 db3/8 db3/8 db3/8 ab2/8 ab2/8 db3/8 | db3/1 | r/8 db3/8 db3/8 c3/8 c3/8 bb2/8 bb2/8 ab2/8 | ab2/2~ ab2 r/8 ab2/8 | db3. c3/8 c3/8 gb2/8 gb2/8 ab2/8
+L: 2.În fi- e- ca- re zori de | zi | În o- chii lor se va ci- | ti, Iu- | bi- re câ- tă și-au pro-
+
+@33
+T1: ab3/2. r/8 f3/8 | eb4. db4/8 db4/8 c4/8 bb3/8 ab3/8 | ab3/1 | r/8 f3/8 f3/8 gb3/8 gb3/8 ab3/8 ab3/8 db4/8~ | db4/8 bb3/8~ bb3/2.
+T2: eb3/2. r/8 eb3/8 | ab3. f3/8 f3/8 gb3/8 f3/8 f3/8 | eb3/1 | r/8 db3/8 db3/8 db3/8 db3/8 f3/8 f3/8 gb3/8~ | gb3/8 gb3/8~ gb3/2.
+B1: c4/2. r/8 c4/8 | c4. bb3/8 bb3/8 eb4/8 db4/8 c4/8 | c4/1 | r/8 ab3/8 ab3/8 bb3/8 bb3/8 c4/8 c4/8 bb3/8~ | bb3/8 db4/8~ db4/2.
+B2: ab2/2. r/8 ab2/8 | ab2. db3/8 db3/8 c3/8 c3/8 c3/8 | f3/1 | r/8 f3/8 db3/8 db3/8 db3/8 db3/8 db3/8 db3/8~ | db3/8 gb2/8~ gb2/2.
+L: mis; Le | fi- e via- ța dul- ce | vis. | Și spini pe ca- le de-or a- | vea,
+
+@38
+T1: r gb3/8 gb3/8 ab3/8 ab3/8 eb3/8 f3/8 | db3/1 || !Refren: r eb4 gb4. f4/8 | bb3/1~ | bb3/2 gb4/8 f4/8 eb4/8 db4/8 | db4/2 c4 db4/8 db4/8~
+T2: r eb3/8 eb3/8 db3/8 f3/8 eb3/8 db3/8 | db3/1 | r bb3 bb3. bb3/8 | gb3/1~ | gb3/2 bb3/8 bb3/8 gb3/8 gb3/8 | gb3/2 gb3 gb3/8 gb3/8~
+B1: r bb3/8 bb3/8 bb3/8 bb3/8 ab3/8 gb3/8 | f3/1 | r bb3 db4. db4/8 | db4/1~ | db4/2 db4/8 db4/8 c4/8 bb3/8 | bb3/2 ab3 bb3/8 bb3/8~
+B2: r gb2/8 gb2/8 f2/8 f2/8 ab2/8 ab2/8 | db3/1 | r gb3 gb3. gb3/8 | gb3/1~ | gb3/2 gb3/8 gb3/8 gb3/8 gb3/8 | gb3/2 eb3 db3/8 db3/8~
+L: Poar- tă-i Doam- ne-n pal- ma | Ta. | O, Doam- ne | sfânt, | dă- le bu- cu- | ri- e me- reu
+
+@44
+T1: db4 eb4 gb4. f4/8 | bb3/1~ | bb3/2 gb4/8 f4/8 eb4/8 db4/8 | db4/2 c4 db4/8 db4/8~ | db4 r/8 bb3/8 db4/8 c4/8 bb3/8 f3/8 | ab3/1~
+T2: gb3 gb3 bb3. bb3/8 | gb3/1~ | gb3/2 bb3/8 bb3/8 gb3/8 gb3/8 | gb3/2 gb3 gb3/8 gb3/8~ | gb3 r/8 gb3/8 bb3/8 ab3/8 gb3/8 f3/8 | eb3/1~
+B1: bb3 c4 db4. db4/8 | db4/1~ | db4/2 db4/8 db4/8 c4/8 bb3/8 | bb3/2 bb3 bb3/8 bb3/8~ | bb3 r/8 db4/8 db4/8 db4/8 db4/8 c4/8 | c4/1~
+B2: db3 gb3 gb3. gb3/8 | gb3/1~ | gb3/2 gb3/8 gb3/8 gb3/8 gb3/8 | gb3/2 eb3 db3/8 db3/8~ | db3 r/8 db3/8 db3/8 db3/8 db3/8 ab2/8 | ab2/1~
+L: Pe-a- cest pă- | mânt, | Fii- le-a- lă- turi | când le e greu. | Ră- mâi cu pa- cea | Ta,
+
+@50
+T1: ab3 r/8 db3/8 bb3/8 ab3/8 gb3/8 db3/8 | f3/1~ | f3/2 eb3/8 f3/8 gb3/8 ab3/8 | f3/2 eb3/2 | f3/1~ | f3/2 eb3/8 f3/8 gb3/8 ab3/8 | an3/2 c4/2 | c#4/1
+T2: eb3 r/8 db3/8 gb3/8 f3/8 eb3/8 db3/8 | db3/1~ | db3/2 eb3/8 f3/8 db3/8 db3/8 | db3/2 c3/2 | db3/1~ | db3/2 eb3/8 f3/8 db3/8 db3/8 | f3/2 en3/2 | f3/1
+B1: c4 r/8 bb3/8 db4/8 c4/8 bb3/8 bb3/8 | ab3/1~ | ab3/2 gb3/8 ab3/8 bb3/8 ab3/8 | ab3/2 ab3/2 | bb3/1~ | bb3/2 bb3/8 bb3/8 bb3/8 bb3/8 | c4/2 bb3/2 | ab3/1
+B2: ab2 r/8 bb2/8 bb2/8 gb2/8 gb2/8 gb2/8 | db3/1~ | db3/2 eb3/8 db3/8 bb2/8 gb2/8 | ab2/2 ab2/2 | bb2/1~ | bb2/2 gb2/8 gb2/8 gb2/8 gb2/8 | f2/2 gn2/2 | c#3/1
+L: Le um- ple i- ni- | ma | ca să cân- te | dra- gos- | tea. | Ca să cân- te | dra- gos- | tea!
