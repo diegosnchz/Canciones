@@ -1,0 +1,33 @@
+title: Domnul ne cheamă
+composer:
+lyricist:
+arranger:
+key: Db
+time: 4/4
+tempo: 100
+source: PDF original (escaneo CamScanner, 1 pág., 3 sistemas, 2 pentagramas TT/BB, subtítulo "Cor bărbătesc", 3 estrofas, sin autor impreso); búsqueda web sin resultados (no encontrado); tempo no indicado, se usa 100; los compases 4 y 8 quedan partidos entre sistemas (el último tiempo "La"/"Ca" abre el sistema siguiente) y se codifican como un solo compás de 4/4; los números de estrofa 1. 2. 3. no se incluyen en la letra; el último sistema (3/4) lleva una sola línea de letra; c.16 bajos: B1 fa3, B2 re bemol 3+re bemol 2 (acorde de dos notas en el mismo plica)
+
+@1
+T1: ab3 f3/8 ab3/8 db4. db4/8 | db4 c4 r ab3 | ( ab3 db4_ ) gb4. f4/8 | f4/8 eb4/8 eb4 r db4
+T2: f3 f3/8 f3/8 ab3. ab3/8 | ab3 ab3 r ab3 | ab3/2 db4. db4/8 | db4/8 c4/8 c4 r ab3
+B1: db3 db3/8 db3/8 f3. f3/8 | gb3 gb3 r gb3 | f3/2 bb3. ab3/8 | ab3/8 ab3/8 ab3 r f3
+B2: db3 db3/8 db3/8 db3. db3/8 | eb3 eb3 r eb3 | db3/2 db3. db3/8 | ab2/8 ab2/8 ab2 r db3
+L: Dom- nul ne chea- mă | as- tăzi, Ne | vrea soli ai | Lui să fim, La
+L2: Să'L pre- di- căm pe | Dom- nul Cât | mai es- te | timp de har, Cât
+L3: Să trâm- bi- țăm so | li- a, E | alb la- nul | în- spi- cat Și
+
+@5
+T1: ab3. bb3/8 cb4 cb4 | cb4 bb3 r bb3 | bb3/8 c4/8 db4 db4. db4/8 | c4/2 r ab3
+T2: f3. gb3/8 ab3 ab3 | ab3 gb3 r gn3 | gn3/8 ab3/8 bb3 bb3. bb3/8 | ab3/2 r gb3
+B1: db3. db3/8 db3 db3 | db3 db3 r eb3 | eb3/8 eb3/8 eb3 eb3. eb3/8 | eb3/2 r eb3
+B2: db3. db3/8 db3 f2 | gb2 gb2 r eb3 | ab2/8 ab2/8 eb3 eb3. gn2/8 | ab2/2 r c3
+L: lu- cru plini de | râv- nă Vo- | in- ța Lui să'm- pli- | nim. Ca
+L2: în- că es- te | zi- uă, Cât | în- că dă via- ță'n | dar.
+L3: se- ce- ri- șu'i | ma- re, Să | mer- gem la se- ce- | rat.
+
+@9
+T1: time:3/4 ab3/2 db4 | f4/2 db4 | db4/2 bb3 | ab3/2 db4 | gb4/2 f4 | ( f4 eb4_ ) db4 | db4/2 c4 | db4/2 r
+T2: f3/2 ab3 | db4/2 ab3 | bb3/2 gb3 | f3/2 ab3 | c4/2 db4 | bb3/2 bb3 | ab3/2 ab3 | ab3/2 r
+B1: db3/2 f3 | ab3/2 f3 | gb3/2 db3 | db3/2 f3 | ab3/2 ab3 | ( ab3 gb3_ ) eb3 | f3/2 gb3 | f3/2 r
+B2: db3/2 db3 | db3/2 db3 | gb2/2 bb2 | db3/2 f3 | eb3/2 db3 | gb2/2 gb2 | ab2/2 ab2 | db3+db2/2 r
+L: soli vo- | ioși să | ne'n- ro- | lăm Iu- | bi- rea | Lui să | a- ră- | tăm.
