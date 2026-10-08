@@ -1,0 +1,45 @@
+title: Tu-mi eşti, Isus
+composer:
+lyricist:
+arranger:
+key: Bb
+time: 4/4
+tempo: 100
+source: PDF original (1 pág., vectorial, 2 pentagramas Tenor/Bass, 16 compases, 3 estrofas); editorial ADVERUM, Colecția "Culmi de Viață", nr. 15; compositor/arreglista no constan; búsqueda web: no encontrado; sin indicación de tempo en el PDF (100 por defecto); letra tal como impresa (ã con tilde, ş cedilla, ț/Ț coma)
+
+# NOTA DEDUCIDA: c.9 B1 2º tiempo (eb3): impreso con una sola cabeza y plica abajo; se lee como unisono de ambos bajos
+@1
+T1: d4/2 bb3 c4 | d4/2. f4 | eb4 d4 c4 bb3 | d4/2 c4/2
+T2: bb3/2 g3 g3 | bb3/2. bb3 | bb3 bb3 bb3 bb3 | bb3/2 a3/2
+B1: f3/2 eb3 eb3 | f3/2. ab3 | g3 g3 g3 g3 | f3/2 f3/2
+B2: bb2/2 bb2 bb2 | bb2/2. d3 | eb3 eb3 eb3 c3 | f3/2 f2/2
+L: Tu'mi eşti, I- | sus, pe | veci a mea spe- | ran- țã,
+L2: Sân- ge a | curs pe | cru- ce pen- tru | mi- ne,
+L3: Slabi stãm a- | cum 'na- | in- tea fe- ței | Ta- le
+
+@5
+T1: d4/2 d4 d4 | d4/2. d4 | c4 bb3 a3 bb3 | c4/1
+T2: bb3/2 bb3 c4 | bb3/2. bb3 | g3 g3 g3 g3 | ( bb3/2 a3/2_ )
+B1: f3/2 f3 f#3 | ( g3/2 f3_ ) f3 | en3 en3 en3 en3 | f3/1
+B2: bb2/2 bb2 a2 | g2/2. g2 | c3 c3 c3 c3 | f2/1
+L: Azi mã pre- | dau cu | tot ce am, ce | sunt.
+L2: Frun- te'am rã- | nit şi | coas- ta Ți'am îm- | puns.
+L3: Sã ne bo- | tezi cu | foc şi cu Duh | Sfânt!
+
+@9
+T1: f3/2 bb3 c4 | d4/2 bb3 bb3 | eb4 bb3 bb3 c4 | d4/1
+T2: f3/2 bb3 a3 | bb3/2 bb3 bb3 | bb3 bb3 bb3 bb3 | a3/1
+B1: ( f3 eb3_ ) f3 f3 | f3/2 d3 d3 | g3 g3 g3 g3 | f#3/1
+B2: ( f3 eb3_ ) d3 c3 | bb2/2 bb2 bb2 | eb3 eb3 eb3 eb3 | d3/1
+L: Tu, ce vi- | a- ța pe | Gol- go- ta ai | strâns,
+L2: Dar Tu pã- | ca- tul cu | moar- te l'ai îm- | puns,
+L3: Dã- ne pu- | te- re şi | pu- ne'n noi a- | vânt
+
+@13
+T1: d4 f4 eb4 d4 | c4/2 d4 eb4 | d4 bb3 c4/2 | bb3/1
+T2: d4 d4 c4 bn3 | c4/2 bn3 c4 | bb3 bb3 ( bb3 a3_ ) | f3/1
+B1: g3 g3 g3 g3 | g3/2 g3 g3 | f3 f3 eb3/2 | d3/1
+B2: bn2 bn2 c3 d3 | eb3/2 d3 c3 | f3 d3 f2/2 | bb2/1
+L: Pen- tru mi- ne'ai | strâns veş- ni- | cã vi- a- | țã.
+L2: Pa- ce sã îmi | dai, via- ța | sã'mi lu- mi- | ne!
+L3: Sã Te îm- pãr- | țim pe a | vie- ții ca- | le!

@@ -39,5 +39,6 @@ Formato: `✅ Carpeta/Canción | tonalidad | compás | nº compases | advertenci
 ✅ Rumano/O, Doamne sfant | Re♭ M | 4/4 | 57 | PDF vectorial; 2 estrofas escritas con 'Refren:' (c.13, c.40); c.50 partido por barra intermedia en el original (unido); tempo no impreso, ♩=100; sin autor (weer.ro 2014)
 
 ## Tanda 5 — Rumano 20-28
+✅ Rumano/TU-MI-EȘTI-ISUS | Si♭ M | 4/4 | 16 | PDF vectorial (ADVERUM, Culmi de Viață nr. 15), 3 estrofas; tempo no impreso, ♩=100; c.9 bajos 2º tiempo unísono mi♭3 (NOTA DEDUCIDA); letra con 'ã'/'ş' tal como está impresa
 
 ## QA por tanda
