@@ -1,0 +1,44 @@
+title: Frânturi din dragostea Ta
+composer:
+lyricist:
+arranger:
+key: F
+time: 6/8
+tempo: 80
+source: PDF original (foto, 1 pág., 2 pentagramas TT/BB, clave de Sol normal leída como Sol 8vb); pie de página "weer.ro vt 2005"; búsqueda web: no encontrado (compositor/letrista no constan); sin tempo impreso (80 negra estimado); 3 estrofas; estrofas 1-3 con correcciones manuales a bolígrafo en el original (V2 "am", V3 "ne", V3 s3 "Du-ne" sustituye al tachado "Con-ducine", V3 s4 "ne" sustituye al tachado "i Tu"); en c.9 hay un resto fantasma (nota borrada) entre las notas 2 y 3 que no se transcribe
+
+@1
+T1: a3. a3/8 g3/8 f3/8 | c4.~ c4. | bb3. bb3/8 c4/8 d4/8 | g3.~ g3.
+T2: f3. f3/8 f3/8 f3/8 | g3.~ g3. | f3. f3/8 f3/8 f3/8 | ( f3. e3._ )
+B1: c3. c3/8 c3/8 c3/8 | e3.~ e3. | d3. d3/8 d3/8 d3/8 | c3.~ c3.
+B2: f2. f2/8 f2/8 f2/8 | a2.~ a2. | g2. g2/8 g2/8 g2/8 | c3.~ c3.
+L: Zâm- bet în- so- | rit, | Zbor că- tre ze- | nit,
+L2: As- tăzi am ve- | nit | I- nimi la al- | tar
+L3: Doam- ne Te ru- | găm | Stân- că să ne | fii
+
+@5
+T1: a3. a3/8 g3/8 f3/8 | c4.~ c4. | bb3/8 a3/8 g3/8 bb3 d4/8 | c4.~ c4.
+T2: f3. f3/8 f3/8 f3/8 | g3.~ g3. | f3/8 f3/8 f3/8 f3 bb3/8 | bb3.~ bb3.
+B1: c3. c3/8 c3/8 c3/8 | e3.~ e3. | d3/8 d3/8 d3/8 d3 f3/8 | ( f3. e3._ )
+B2: f2. f2/8 f2/8 f2/8 | a2.~ a2. | g2/8 g2/8 g2/8 g2 g2/8 | c3.~ c3.
+L: Joc a- de- vă- | rat, | Un cân- tec ne-n- ce- | tat,
+L2: Aș- tep- tând să | torni | Bel- șu- gul Tău de | har,
+L3: În vi- for sau | nor | Fi- ne Tu a- ju- | tor
+
+@9
+T1: c4. c4/8 bb3/8 a3/8 | d4.~ d4. | e4 e4/8 a4/8 g4/8. e4/16 | f4.~ f4.
+T2: a3. a3/8 g3/8 f3/8 | bb3.~ bb3. | c#4 c#4/8 c#4/8 c#4/8. c#4/16 | d4.~ d4.
+B1: eb3. eb3/8 eb3/8 eb3/8 | f3.~ f3. | g3 g3/8 e3/8 e3/8. a3/16 | a3.~ a3.
+B2: f2. f2/8 f2/8 f2/8 | bb2.~ bb2. | a2 a2/8 a2/8 a2/8. a2/16 | d3.~ d3.
+L: Vis fă- ră ho- | tar | Tan- dru s-a-n- fi- ri- | pat,
+L2: Su- flet în- flo- | rit | Ca- tă spre ră- să- | rit,
+L3: Du- ne că- tre | cer | Spre li- ma- nul de | dor,
+
+@13
+T1: f4. f4/8 e4/8 f4/8 | c4. f4. | d4/8 f4/8 d4/8 f4/8 a4/8. c4/16 | f4.~ f4.
+T2: bb3. bb3/8 bb3/8 bb3/8 | a3. c4. | bb3/8 d4/8 bb3/8 c4/8 e4/8. c4/16 | c4.~ c4.
+B1: g3. g3/8 g3/8 g3/8 | f3. a3. | g3/8 bb3/8 g3/8 bb3/8 c4/8. c4/16 | c4.~ c4.
+B2: c#3. c#3/8 c#3/8 c#3/8 | cn3. c3. | c3/8 c3/8 c3/8 c3/8 c3/8. c3/16 | f2.~ f2.
+L: Pe pă- mânt co- | boa- ră | Cli- pa din dra- gos- tea | Ta.
+L2: Um- ple via- ța-n- | trea- gă | Cu stropi din dra- gos- tea | Ta.
+L3: Și fă- ne de-a- | pu- ruri | Frân- turi din dra- gos- tea | Ta.

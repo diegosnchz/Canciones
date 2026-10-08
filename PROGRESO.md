@@ -26,6 +26,7 @@ Formato: `✅ Carpeta/Canción | tonalidad | compás | nº compases | advertenci
 ⛔ Navidad/Here Comes the Light TTBB | Fa M | 4/4 | — | BLOQUEADA: arreglo comercial con copyright vigente (J. Graham / arr. J. Yane, Shawnee Press © 2007/2013) y el PDF es una copia "Preview Only" con marca de agua, no adquirida. No se reproduce nota a nota. Si se dispone de la partitura comprada y licencia de uso, se puede retomar.
 ✅ Navidad/Escuchad el son triunfal | Fa M | 4/4 | 16 | himnario SATB, 2 estrofas; ♩=92-112 impreso ('Con entusiasmo'), usado 102; corchetes de introducción no transcritos
 ✅ Rumano/Domnul ne cheama | Re♭ M | 4/4 → 3/4 (c.9) | 16 | Cor bărbătesc, 3 estrofas en c.1-8; tempo no impreso, ♩=100; c.4 y c.8 partidos entre sistemas; último acorde Bajo divisi re♭3+re♭2
+✅ Rumano/Franturi din dragostea ta | Fa M | 6/8 | 16 | himnario SATB 3 estrofas; tempo no impreso, ♩=80; correcciones manuscritas de la letra aplicadas (estrofas 2-3: 'am', 'ne', 'Du-ne', 'fă-ne'); sin autor impreso (weer.ro 2005)
 
 ## Tanda 4 — Rumano 10-19
 
