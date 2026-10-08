@@ -43,5 +43,6 @@ Formato: `✅ Carpeta/Canción | tonalidad | compás | nº compases | advertenci
 
 ## Tanda 5 — Rumano 20-28
 ✅ Rumano/TU-MI-EȘTI-ISUS | Si♭ M | 4/4 | 16 | PDF vectorial (ADVERUM, Culmi de Viață nr. 15), 3 estrofas; tempo no impreso, ♩=100; c.9 bajos 2º tiempo unísono mi♭3 (NOTA DEDUCIDA); letra con 'ã'/'ş' tal como está impresa
+⛔ Rumano/Wonderfull Grace of Jesus | — | 6/8 | — | BLOQUEADA: arreglo comercial con copyright vigente (arr. Larry Shackley, Lorenz Publishing © 2012/2016, 'TTBB with Piano 4-hand', aviso impreso de no fotocopiar), 15 páginas. No se reproduce nota a nota. Letra rumana manuscrita sobre el original inglés.
 
 ## QA por tanda
