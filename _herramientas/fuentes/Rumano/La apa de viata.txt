@@ -1,0 +1,68 @@
+title: La apa de viață
+composer: După: Adoramus
+lyricist:
+arranger:
+key: G
+time: 6/8
+tempo: 100
+source: PDF original (escaneo CamScanner, 1 pág.; "Cor bărbătesc"; "După: ADORAMUS"; weer.ro vt 03-2011). Estrofas 1-2 sobre un solo pentagrama en Sol (melodía al unísono, leída Sol 8vb: las 4 voces igual) con letra 1 y 2 impresas bajo la música; "Refren" a 2 pentagramas (TT en Sol 8vb + BB en Fa). Anacrusa de corchea al inicio y otra de corchea ("La") antes del Refren (doble barra); el último compás de la estrofa (c.19) y el final del Refren llevan 5/8 (completan la anacrusa). Letra c.40-41: "să-pat" impreso con corrección manuscrita sobre el original (ă y p superpuestas). Búsqueda web (1 consulta): canción no encontrada, tempo no consta en el PDF (100 por defecto). Se transcribe una vez lo impreso (sin repeticiones ni D.C.).
+
+@0
+T1: !Cor_bărbătesc: g3/8
+T2: =T1
+B1: =T1
+B2: =T1
+L: Mi-ai
+L2: I-
+
+@1
+T1: g3~ g3. f#3/8 | g3~ g3. f#3/8 | g3 g3. b3/8 | ( b3/8 c4/8 ) a3. d3/8 | g3/2 f#3/8 g3/8
+T2: =T1
+B1: =T1
+B2: =T1
+L: spus a- | tunci că | fi- vei cu | mi- _ ne, Prin | cli- pe de
+L2: su- se | sfânt, pri- | meș- te-mi azi | i- ni- ma, Fii | bun, Sal- va-
+
+@6
+T1: g3~ g3. g3/8 | c4 d4. e4/8 | ( e4/8 d4/8 ) d4/2 | d4 d4/2 | ( e4/8 d4/8 ) d4/2 | d4 c4. b3/8 | a3~ a3. d3/8
+T2: =T1
+B1: =T1
+B2: =T1
+L: ieri, prin | zi- le de | mâi- _ ne, | Îm- parți | ori- _ când | pa- ce din | cer, Căci
+L2: tor _ | și îm- pli- | ni- _ re, | Îți mul- | țu- _ mesc | și mă în- | chin, Căci
+
+@13
+T1: g3/2 f#3/8 g3/8 | g3~ g3. g3/8 | g3 a3 b3 | a3~ a3. a3/8 | a3 g3 f#3 | g3/2.~ | g3/2 r/8
+T2: =T1
+B1: =T1
+B2: =T1
+L: Tu ai pro- | mis s-a- | șezi tro- nul | Tău în | i- ni- ma | mea.
+L2: Tu ai pro- | mis s-a- | șezi al Tău | tron în | i- ni- ma | mea.
+
+@20
+T1: !Refren: b3/8 ||
+T2: g3/8
+B1: d3/8
+B2: g2/8
+L: La
+
+@21
+T1: b3 c4 d4 | e4/2 e4/8 e4/8 | ( e4 d4._ ) c4/8 | d4 d4 ( d4/8 c4/8_ ) | b3~ b3. b3/8 | a3 a3. b3/8
+T2: g3 a3 b3 | c4/2 c4/8 c4/8 | ( c4 b3._ ) a3/8 | b3 b3 ( b3/8 a3/8_ ) | g3~ g3. g3/8 | f#3 f#3. g3/8
+B1: d3 d3 f#3 | g3/2 g3/8 g3/8 | ( g3 d3._ ) f#3/8 | g3 g3 ( g3/8 d3/8_ ) | d3~ d3. d3/8 | f#3 f#3. f#3/8
+B2: g2 g2 g2 | c3/2 c3/8 c3/8 | ( c3 b2._ ) a2/8 | g2 g2 g2 | g2~ g2. g2/8 | d3 d3. d3/8
+L: a- pa de | via- ța I- | sus Te | chea- mă să | vii, Să | stai lân- gă
+
+@27
+T1: ( c4/8 b3/8_ ) a3. a3/8 | a3 b3 c4 | d4/2.~ | d4/2 r/8 b3/8 | b3 c4 d4 | e4/2. | e4/2 e4/8 e4/8 | e4 d4 c4
+T2: ( a3/8 g3/8_ ) f#3. f#3/8 | f#3 g3 a3 | b3/2.~ | b3/2 r/8 g3/8 | g3 a3 b3 | c4/2. | c4/2 c4/8 c4/8 | c4 b3 a3
+B1: f#3 f#3. f#3/8 | f#3 g3 g3 | g3/2.~ | g3/2 r/8 d3/8 | d3 d3 f#3 | g3/2. | g3/2 g3/8 g3/8 | g3 d3 d3
+B2: d3 d3. d3/8 | d3 e3 d3 | g2/2.~ | g2/2 r/8 g2/8 | g2 a2 b2 | c3/2. | c3/2 c3/8 c3/8 | c3 b2 a2
+L: Dom- nul, a- | ca- să vei | fi, | El | ști- e du- | re- | rea, ru- ga | spu- să în
+
+@35
+T1: d4~ ( d4. c4/8_ ) | b3/2 b3/8 b3/8 | b3 c4 d4 | c4/2. | a3/2 a3/8 b3/8 | c4 b3 a3 | b3/2.~ | b3/2 r/8 |]
+T2: b3~ ( b3. a3/8_ ) | g3/2 g3/8 g3/8 | g3 a3 b3 | a3/2. | f#3/2 f#3/8 g3/8 | a3 g3 f#3 | g3/2.~ | g3/2 r/8
+B1: d3~ d3.~ d3/8 | d3/2 d3/8 d3/8 | d3 f#3 g3 | f#3/2. | f#3/2 f#3/8 f#3/8 | f#3 f#3 d3 | d3/2.~ | d3/2 r/8
+B2: g2~ g2.~ g2/8 | g2/2 g2/8 g2/8 | g2 g2 g2 | d3/2. | d3/2 d3/8 d3/8 | d3 d3 d2 | g2/2.~ | g2/2 r/8
+L: noap- | te, Căci în | pal- me- le | Sa- | le Ești să- | pat pen- tru | veci!

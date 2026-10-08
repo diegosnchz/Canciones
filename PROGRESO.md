@@ -29,6 +29,7 @@ Formato: `✅ Carpeta/Canción | tonalidad | compás | nº compases | advertenci
 ✅ Rumano/Franturi din dragostea ta | Fa M | 6/8 | 16 | himnario SATB 3 estrofas; tempo no impreso, ♩=80; correcciones manuscritas de la letra aplicadas (estrofas 2-3: 'am', 'ne', 'Du-ne', 'fă-ne'); sin autor impreso (weer.ro 2005)
 ✅ Rumano/Clipa de clipă | Si♭ M | 3/4 | 32 | Cor bărbătesc, 3 pentagramas (T1, T2, Bajos a 2 voces); 3 estrofas en c.1-12; tempo no impreso, ♩=100; sin autor impreso
 ✅ Rumano/La Domnul inima-am lasat | La♭ M | 3/4 | 14 | himnario SATB (BEATITUDO, Dykes), 4 estrofas; tempo no impreso, ♩=100; acordes de 3 notas como divisi en T2 (c.7-8) y Bajo (c.12); borde derecho del escaneo cortado
+✅ Rumano/La apa de viata | Sol M | 6/8 | 43 | Cor bărbătesc; estrofas al unísono (1 pentagrama, 2 estrofas) + Refren a 2 pentagramas; anacrusas y compases finales incompletos como en el original; tempo no impreso, ♩=100; 'să-pat' con corrección manuscrita
 
 ## Tanda 4 — Rumano 10-19
 ✅ Rumano/O tata bun | Si♭ M → Mi♭ M (c.9) | 4/4 | 27 | SOLO PÁGINA 2 (el PDF del repo no contiene la pág. 1: empieza a mitad de frase); compás y tempo no impresos (4/4 deducido, ♩=100); reguladores cresc./dim. c.1-8; letra con 'á' tal como está impresa
