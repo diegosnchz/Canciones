@@ -1,0 +1,40 @@
+title: Printre lacrimi
+composer:
+lyricist:
+arranger:
+key: G
+time: 6/8
+tempo: 80
+source: PDF original (escaneo CamScanner, 1 pág., himnario n.º 676 "Printre lacrimi", p. 795, "Psalm 130,5"; 4 sistemas de 4 compases, 2 pentagramas: Sol normal arriba leído como Sol 8vb = T1/T2, Fa abajo = B1/B2); sin tempo impreso (80 negra estimado, 6/8 moderato; sin grabación hallada); búsqueda web (2 consultas): canción no encontrada, compositor/letrista no constan; 3 estrofas (1-3) en los sistemas 1-2 y "Refren" una sola letra en los sistemas 3-4; sin repeticiones, casillas ni dinámicas; c.8 y c.16 llevan negra con puntillo ligada a negra con puntillo en las 4 voces (impreso así)
+
+@1
+T1: d3 g3/8 g3 d3/8 | f#3 e3/8 e3. | f#3 e3/8 e3 f#3/8 | e3 d3/8 d3.
+T2: b2 b2/8 d3 d3/8 | d3 c3/8 c3. | a2 c3/8 c3 a2/8 | c3 b2/8 b2.
+B1: g3 d3/8 g3 g3/8 | a3 g3/8 g3. | f#3 a3/8 a3 f#3/8 | g3 g3/8 g3.
+B2: g2 g2/8 b2 b2/8 | c3 c3/8 c3. | d3 d3/8 d3 d3/8 | g2 g2/8 g2.
+L: 1.Prin- tre la- crimi | stau as- cuns; | To- tu-i trist și | ne- pă- truns!
+L2: 2.Zi de zi pri- | vese spre cer, | Ceas de ceas aș- | tept și sper!
+L3: 3.Vreau să știu că | ești al meu; | Fă- ră Ti- ne, | mi-es- te greu...
+
+@5
+T1: d3 g3/8 g3 d3/8 | f#3 e3/8 e3 e3/8 | f#3 e3/8 ( f#3/8 g3/8_ ) a3/8 | g3.~ g3.
+T2: b2 b2/8 ( b2/8 c3/8_ ) d3/8 | c3 c3/8 c3 c3/8 | d3 c3/8 d3/8~ d3/8 c3/8 | b2.~ b2.
+B1: g3 d3/8 g3 g3/8 | a3 g3/8 a3 a3/8 | a3 a3/8 ( a3/8 b3/8_ ) f#3/8 | d3.~ d3.
+B2: g2 g2/8 ( g2/8 a2/8_ ) b2/8 | c3 c3/8 a2 a2/8 | d3 d3/8 d3 d3/8 | g2.~ g2.
+L: Sin- gur, mult am | ră- tă- cit, De | dor, am o- bo- | sit...
+L2: O, de ce, de | ce-n- târ- zii? I- | sus, mi-e dor să | vii!
+L3: Vreau să văd iar | pal- ma Ta, Să | știu ce-i dra- gos- | tea.
+
+@9
+T1: !Refren: b3 a3/8 g3 d3/8 | f#3 e3/8 e3. | c4 b3/8 a3 b3/8 | a3 g3/8 g3.
+T2: d3 c3/8 d3 d3/8 | c3 c3/8 c3. | e3 d3/8 c3 d3/8 | c3 b2/8 b2.
+B1: g3 g3/8 g3 g3/8 | a3 g3/8 g3. | a3 g3/8 f#3 g3/8 | f#3 g3/8 g3.
+B2: g2 g2/8 b2 b2/8 | c3 c3/8 c3. | a2 ( b2/16 c3/16_ ) d3 d3/8 | d3 d3/8 g2.
+L: Vi- no, Doam- ne, | mai cu- rând, | Cât să mai aș- | tept, plân- gând?
+
+@13
+T1: b3 a3/8 g3 d3/8 | f#3 e3/8 e3 e3/8 | f#3 e3/8 ( f#3/8 g3/8_ ) a3/8 | g3.~ g3.
+T2: d3 c3/8 ( b2/8 c3/8_ ) d3/8 | c3 c3/8 c3 c3/8 | d3 c3/8 d3/8~ d3/8 c3/8 | b2.~ b2.
+B1: g3 g3/8 g3 g3/8 | a3 g3/8 g3 a3/8 | a3 a3/8 ( a3/8 b3/8_ ) f#3/8 | d3.~ d3.
+B2: g2 g2/8 ( g2/8 a2/8_ ) b2/8 | c3 c3/8 c3 a2/8 | d3 d3/8 d3 d3/8 | g2.~ g2.
+L: Spu- ne-mi, când Te | voi ve- dea, Să-mi | um- pli i- ni- | ma?
