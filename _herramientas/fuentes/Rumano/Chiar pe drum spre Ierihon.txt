@@ -1,0 +1,93 @@
+title: Chiar pe drum spre Ierihon
+composer: Donald S. McCrossac
+lyricist:
+arranger: Luther G. Presley
+key: G
+time: 4/4
+tempo: 100
+source: PDF original (NR.43, COR BARBATESC., 2 págs., escaneo CamScanner, 2 pentagramas Sol+Fa, SATB leído como TTBB: Sol normal leído como Sol 8vb); original "On the Jericho Road" (D. S. McCrossan, arr. L. G. Presley; hymnary.org); tempo no impreso, se usa 100; compás 1 completo en 4/4 con 2.5 tiempos de silencio inicial tal como está impreso; último compás con 3 tiempos impresos (negra con calderón); el PDF imprime Ã por Ă; estrofas 1-3 (solo la letra del verso difiere), estribillo impreso una vez
+
+@1
+T1: r/8 r/2 r r/8 | r/8 b3/16 b3/16 b3/16 b3/16 b3/16 b3/16 b3/8 r/8 r
+T2: r/2 r/8 b3/16 a#3/16 b3/16 g3/16 e3/16 e3/16 | d3/2~ d3/8 d3/16 c#3/16 d3/16 c#3/16 d3/8
+B1: r/2 r/8 r r/8 | r/8 d3/16 d3/16 d3/16 d3/16 d3/16 d3/16 d3/8 r/8 r
+B2: r/2 r/8 r r/8 | r/8 g2/16 g2/16 g2/16 g2/16 g2/16 g2/16 g2/8 r/8 r
+L.T2: 1.CHIAR PE DRUM SPRE IE- RI- | HON, OR- BUL BAR- TI- MEU
+L2.T2: 2.CHIAR PE DRUM SPRE IE- RI- | HON, POA- TE AZI TE GA-
+L3.T2: 3.CHIAR PE DRUM SPRE IE- RI- | HON, UN ME- SAJ ÎTI A-
+
+@3
+T1: r/8 c4/16 c4/16 c4/16 c4/16 c4/8 c4/8 r/8 r | r/8 c4/16 c4/16 c4/16 c4/16 c4/8 c4/8 r/8 r
+T2: c3/2~ c3/8 c4/16 b3/16 c4/16 a3/16 f#3/8 | e3/2~ e3/8 f#3/8 f#3/16 e3/16 d3/8
+B1: r/8 f#3/16 f#3/16 f#3/16 f#3/16 f#3/8 f#3/8 r/8 r | r/8 a3/16 a3/16 a3/16 a3/16 a3/8 a3/8 r/8 r
+B2: r/8 d3/16 d3/16 d3/16 d3/16 d3/8 d3/8 r/8 r | r/8 d3/16 d3/16 d3/16 d3/16 d3/8 d3/8 r/8 r
+L.T2: STA, VIA- TÃ TRIS- TÃ A- | VEA SI MUL- TE RÃB-
+L2.T2: SESTI, TOT MAI ESTI ÎN PÃ- | CAT IER- TA- RE-TI DO-
+L3.T2: DUC, CHIAR DA- CÃ DRU- MU-I | GREU CU TI- NE-I ME-
+
+@5
+T1: r/8 b3/8 b3/16 b3/16 b3/8 b3/8 r/8 r | r/8 b3/8 b3/16 b3/16 b3/8 b3/8 r/8 r
+T2: b2/2~ b2/8 b3/8 b3/16 g3/16 e3/8 | d3/2~ d3/8 g3/8 g3/16 g3/16 f#3/8
+B1: r/8 g3/8 g3/16 g3/16 g3/8 g3/8 r/8 r | r/8 d3/8 d3/16 d3/16 g3/8 g3/8 r/8 r
+B2: r/8 g2/8 c3/16 c3/16 c3/8 d3/8 r/8 r | r/8 g2/8 g2/16 g2/16 b2/8 d3/8 r/8 r
+L.T2: DA, DAR I- SUS VE- | NI DE EL SE-N GRI-
+L2.T2: RESTI, MERGI DREPT LA HRIS- | TOS PO- VA- RA-TI VA
+L3.T2: REU, ESTI CÃ- ZUT, RÃ- | NIT I- SUS ES- TE
+
+@7
+T1: r/8 c4/8_ c4/16_ c4/16_ d4/8_ c4/8_ c4/16 b3/16 c4/16 c4/16 c4/16 c4/16 | c4/2~ c4/8 r/8 r
+T2: e3/2~ e3/8 g3/16 f#3/16 g3/16 f#3/16 e3/16 e3/16 | d3/2~ d3/8 d3/8 e3/16 d3/16 e3/8
+B1: r/8 g3/8 f#3/16 f#3/16 g3/8 g3/8 r/8 r | r/8 d3/16 d3/16 f#3/16 f#3/16 a3/16 a3/16 c4/8 r/8 r
+B2: r/8 g2/8 a2/16 a2/16 b2/8 c3/8 r/8 r | r/8 d3/16 d3/16 d3/16 d3/16 d3/16 d3/16 d3/8 r/8 r
+L.T1: CHIAR PE DRUM SPRE IE- RI- | HON,
+L2.T1: CHIAR PE DRUM SPRE IE- RI- | HON,
+L3.T1: RA- NA EL ÎTI VA LE- | GA
+L.T2: JI, CHIAR PE DRUM SPRE IE- RI- | HON, LU- MI- NA-I VE
+L2.T2: LUA, CHIAR PE DRUM SPRE IE- RI- | HON, EL TE VA SCÃ-
+L3.T2: BUN RA- NA EL ÎTI VA LE- | GA A- CO- LO ÎN
+
+@9
+T1: r/8 b3/8_ c4/16_ c4/16_ c4/8_ b3/8_ d4/16 d4/16 e4/16 d4/16 e4/8 | d4/2~ d4/8 d4/8 c4/16 b3/16 a3/8
+T2: g3/2~ g3/8 r/8 r | r/8 a3/16 a3/16 a3/16 a3/16 a3/8 a3/8 r/8 r
+B1: r/8 g3/8_ g3/16_ g3/16_ g3/8_ g3/8_ r/8 r | r/8 f#3/16 f#3/16 f#3/16 f#3/16 f#3/8 f#3/8 r/8 r
+B2: r/8 c3/8_ c3/16_ c3/16_ c3/8_ d3/8_ r/8 r | r/8 d3/16 d3/16 d3/16 d3/16 d3/8 d3/8 r/8 r
+L.T1: DRU- MUL SPRE IE- RI- | HON, E FOAR- TE ÎN-
+L.T2: NI. | DRU- MUL SPRE IE- RI- HON
+L2.T2: PA. |
+L3.T2: DRUM. |
+L.BB: | DRU- MUL SPRE IE- RI- HON
+
+@11
+T1: g3/2~ g3/8 d4/8 d4/16 c#4/16 d4/8 | c4/2~ c4/8 d4/8 d4/16 a3/16 b3/8
+T2: r/8 d3/8 e3/16 e3/16 e3/8 d3/8 b3/8 b3/16 a#3/16 b3/8 | a3/2~ a3/8 d4/8 d4/16 a3/16 f#3/8
+B1: r/8 b3/8 c4/16 c4/16 c4/8 b3/8 r/8 r | r/8 f#3/8 f#3/16 f#3/16 f#3/8 f#3/8 r/8 r
+B2: r/8 g3/8 g3/16 g3/16 g3/8 g3/8 r/8 r | r/8 d3/8 d3/16 d3/16 d3/8 d3/8 r/8 r
+L.T1: GUST, POT MER- GE DOAR | DOI DOAR TU SI I-
+L.T2: E FOAR- TE ÎN- GUST, POT MER- GE DOAR | DOI DOAR TU SI I-
+L.BB: E FOAR- TE ÎN- GUST, | POT MER- GE DOAR DOI
+
+@13
+T1: g3/2~ g3/8 b3/8 c4/8 d4/8 | e4/2~ e4/8 e4/8 f#4/16 f#4/16 e4/8
+T2: d3/2~ d3/8 g3/8 a3/8 b3/8 | c4/2~ c4/8 c4/8 d4/16 d4/16 c4/8
+B1: r/8 b3/8 c4/16 d4/16 c4/8 b3/8 r/8 r | r/8 c4/8 c4/8 c4/8 c4/8 r/8 r
+B2: r/8 g3/8 c3/16 e3/16 f#3/8 g3/8 r/8 r | r/8 c3/8 e3/8 g3/8 c3/8 r/8 r
+L.T1: SUS. DRU- MUL ÎN | DOI NU-I CHIAR A- SA
+L.T2: SUS. DRU- MUL ÎN | DOI NU-I CHIAR A- SA
+L.BB: DOAR TU SI I- SUS. | DRU- MUL ÎN DOI
+
+@15
+T1: d4/2~ d4/8 d4/8 d4/16 c#4/16 d4/8 | c4/2~ c4/8 r/8 r
+T2: b3/2~ b3/8 b3/8 b3/16 a#3/16 b3/8 | a3/2~ a3/8 d4/8 d4/16 a3/16 b3/8
+B1: r/8 b3/8 b3/16 b3/16 b3/8 b3/8 r/8 r | r/8 f#3/8 f#3/16 f#3/16 f#3/8 f#3/8 r/8 r
+B2: r/8 g3/8 g3/16 g3/16 g3/8 g3/8 r/8 r | r/8 d3/8 d3/16 d3/16 d3/8 d3/8 r/8 r
+L.T1: GREU, CÂND ESTI CU I- | SUS,
+L.T2: GREU, CÂND ESTI CU I- | SUS, PÃ- ZIT ESTI DE
+L.BB: NU-I CHIAR A- SA GREU, | CÂND ESTI CU I- SUS,
+
+@17
+T1: r/8 b3/8 c4/16 c4/16 c4/8 b3^
+T2: g3/2~ g3^
+B1: r/8 d3/8 e3/16 e3/16 e3/8 g3^
+B2: r/8 g2/8 c3/16 c3/16 c3/8 g2^
+L.T2: RÃU.
+L.BB: PÃ- ZIT ESTI DE RÃU.
