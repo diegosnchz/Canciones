@@ -31,6 +31,7 @@ Formato: `✅ Carpeta/Canción | tonalidad | compás | nº compases | advertenci
 ✅ Rumano/La Domnul inima-am lasat | La♭ M | 3/4 | 14 | himnario SATB (BEATITUDO, Dykes), 4 estrofas; tempo no impreso, ♩=100; acordes de 3 notas como divisi en T2 (c.7-8) y Bajo (c.12); borde derecho del escaneo cortado
 ✅ Rumano/La apa de viata | Sol M | 6/8 | 43 | Cor bărbătesc; estrofas al unísono (1 pentagrama, 2 estrofas) + Refren a 2 pentagramas; anacrusas y compases finales incompletos como en el original; tempo no impreso, ♩=100; 'să-pat' con corrección manuscrita
 ✅ Rumano/Chiar pe drum spre Ierihon | Sol M | 4/4 | 17 | Cor bărbătesc (McCrossan/Presley 'On the Jericho Road'), 3 estrofas, voces cruzadas estilo cuarteto; último compás de 3 tiempos con calderón como el original; tempo no impreso, ♩=100; letra en mayúsculas con 'Ã' tal como está impresa
+✅ Navidad/Pequeño pueblo de Belén | Sol M (Re M c.11-13) | 4/4 | 34 | arr. Wayne Hooper; anacrusa + 2 estrofas escritas; compases partidos entre sistemas unidos (numeración impresa ≈40); tempo no impreso, ♩=80; c.28 alteración no explicada (leído re#)
 
 ## Tanda 4 — Rumano 10-19
 ✅ Rumano/O tata bun | Si♭ M → Mi♭ M (c.9) | 4/4 | 27 | SOLO PÁGINA 2 (el PDF del repo no contiene la pág. 1: empieza a mitad de frase); compás y tempo no impresos (4/4 deducido, ♩=100); reguladores cresc./dim. c.1-8; letra con 'á' tal como está impresa

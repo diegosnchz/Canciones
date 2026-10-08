@@ -17,7 +17,11 @@ SCALE = {
 def staff_lines(im):
     a = np.asarray(im.convert("L")) < 128
     frac = a.mean(axis=1)
-    rows = np.where(frac > 0.45)[0]
+    # umbral adaptativo: fotos con líneas tenues o recortadas
+    thr = 0.45
+    while thr > 0.12 and len(np.where(frac > thr)[0]) < 5:
+        thr -= 0.05
+    rows = np.where(frac > thr)[0]
     groups, cur = [], []
     for r in rows:
         if cur and r - cur[-1] > 1:
@@ -30,10 +34,30 @@ def staff_lines(im):
     while i + 4 < len(centers):
         c = centers[i:i + 5]
         gaps = np.diff(c)
-        if gaps.max() - gaps.min() < 4:
+        if gaps.max() - gaps.min() < 4 and 6 < gaps.mean() < 60:
             staves.append(c); i += 5
         else:
             i += 1
+    if not staves and len(centers) >= 5:
+        # segundo intento: umbral más bajo
+        for thr2 in (0.3, 0.2, 0.15):
+            rows = np.where(frac > thr2)[0]
+            groups, cur = [], []
+            for r in rows:
+                if cur and r - cur[-1] > 1:
+                    groups.append(cur); cur = []
+                cur.append(r)
+            if cur: groups.append(cur)
+            centers = [sum(g) / len(g) for g in groups]
+            i = 0
+            while i + 4 < len(centers):
+                c = centers[i:i + 5]
+                gaps = np.diff(c)
+                if gaps.max() - gaps.min() < 4 and 6 < gaps.mean() < 60:
+                    staves.append(c); i += 5
+                else:
+                    i += 1
+            if staves: break
     return staves
 
 
