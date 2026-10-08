@@ -30,6 +30,7 @@ Formato: `✅ Carpeta/Canción | tonalidad | compás | nº compases | advertenci
 ✅ Rumano/Clipa de clipă | Si♭ M | 3/4 | 32 | Cor bărbătesc, 3 pentagramas (T1, T2, Bajos a 2 voces); 3 estrofas en c.1-12; tempo no impreso, ♩=100; sin autor impreso
 
 ## Tanda 4 — Rumano 10-19
+✅ Rumano/O tata bun | Si♭ M → Mi♭ M (c.9) | 4/4 | 27 | SOLO PÁGINA 2 (el PDF del repo no contiene la pág. 1: empieza a mitad de frase); compás y tempo no impresos (4/4 deducido, ♩=100); reguladores cresc./dim. c.1-8; letra con 'á' tal como está impresa
 
 ## Tanda 5 — Rumano 20-28
 
