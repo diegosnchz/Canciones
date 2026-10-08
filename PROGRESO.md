@@ -20,6 +20,7 @@ Formato: `✅ Carpeta/Canción | tonalidad | compás | nº compases | advertenci
 ✅ Español/Si tu amas a cristo | La♭ M | 4/4 | 79 | 66 compases impresos; forma D.S. al Coda expandida (79 con anacrusa); tempo no impreso, ♩=100; compases partidos por doble barra (c.17/18, 47/48) como en el original
 ✅ Español/Jamás temeréis | Fa M → Sol♭ M (c.41) | 12/8 | 51 | PDF vectorial 4 pentagramas; tempo no impreso, ♩=100; ligaduras de expresión encadenadas fusionadas; letra impresa 'queun' respetada
 ✅ Inglés/Old time religion | La M → Re M → Sol M → Do M → Sol M (Coda) | 4/4 (c.45-46 en 9/8) | 49 | 4 secciones con anacrusa y repetición + Coda; tempo no impreso, ♩=100; c.45-46 escritos en 9/8 (el original no marca cambio de compás); letra impresa 'li-hion', 'take-us' respetada; sin compositor/arreglista en el PDF (weer.ro 2010)
+✅ Español/Vaso de honra | Sol M | 4/4 | 64 | forma D.C./D.S. al FINE expandida (64 compases); tempo no impreso, ♩=100; c.42 suma 3,5 tiempos en el original (silencio de corchea añadido); c.48 acorde final de la estrofa completado por ligaduras; verificación nota a nota parcial (agente: estructura y compases clave; orquestador: c.1-16)
 
 ## Tanda 3 — Navidad + Rumano 1-9
 ⛔ Navidad/Here Comes the Light TTBB | Fa M | 4/4 | — | BLOQUEADA: arreglo comercial con copyright vigente (J. Graham / arr. J. Yane, Shawnee Press © 2007/2013) y el PDF es una copia "Preview Only" con marca de agua, no adquirida. No se reproduce nota a nota. Si se dispone de la partitura comprada y licencia de uso, se puede retomar.

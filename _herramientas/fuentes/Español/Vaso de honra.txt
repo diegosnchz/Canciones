@@ -1,0 +1,133 @@
+title: Vaso de honra
+
+composer: Richard Kelly
+
+lyricist: Richard Kelly
+
+arranger: Transcrip. Germán Cuba
+
+key: G
+
+time: 4/4
+
+tempo: 100
+
+source: PDF original (himnario págs. 194-195, escaneo CamScanner; 2 pentagramas leídos como Sol 8vb/Fa; título "Vessel Of Mercy / Vaso de honra", Words and Music by Richard Kelly, (c) New Chelsea Press/BMI). Búsqueda web: letra/tempo no encontrados (sin tempo impreso; se usa 100). Forma expandida: estribillo (cc.1-14 + final 1.3 = 1ª vez, D.C.), estribillo con final 2 + estrofa (Verse), D.S. al FINE (el signo no aparece impreso; se vuelve al inicio del estribillo) y estribillo con final 1.3 (FINE). Compases partidos por salto de sistema: c.4, c.8 (silencio de blanca + dos negras sin letra al inicio del sistema siguiente). Pick-up de la Estrofa (c.32): una sola cabeza impresa en el pentagrama superior (re3), leida como unisono T1=T2. c.42 (servicio) el original imprime solo 3,5 tiempos: se anade silencio de corchea final en las 4 voces. Final de la Estrofa (c.48): el pentagrama superior solo muestra ligaduras y un signo '8' (artefacto del escaneo); acorde D7 completado por ligadura (T1 la3, T2 fa#3, Bar do4, Bajo re3 sobre la nota anterior). Estructura: 1a vez final 1 y D.C.; 2a vez final 2 + Estrofa y D.S. (signo no impreso, se vuelve al inicio); 3a vez final 1.3 FINE. Letra transcrita tal como está impresa (sin acentos donde no se imprimen).
+
+
+@1
+T1: b3. b3/8~ b3 r | r r/8 b3/8 3[ c4 b3 c4 ] | ( b3 a3/8_ ) g3. r
+T2: d3. d3/8~ d3 r | r r/8 d3/8 3[ e3 d3 e3 ] | ( d3 c3/8_ ) b2. r
+B1: g3. g3/8~ g3 r | r r/8 g3/8 3[ g3 g3 g3 ] | ( g3 e3/8_ ) d3. r
+B2: g2. g2/8~ g2 r | r r/8 g2/8 3[ g2 g2 g2 ] | g2~ g2/8 g2. r
+L: Haz- me un va- so de hon- ra
+
+@4
+T1: r/2 b3 d4 | d4. d4/8~ d4 r | r r/8 d4/8 3[ d4 c4 a3 ] | b3/2. r
+T2: r/2 d3 g3 | f#3. f#3/8~ f#3 r | r r/8 f#3/8 3[ f#3 e3 d3 ] | d3/2. r
+B1: r/2 g3 b3 | a3. a3/8~ a3 r | r r/8 a3/8 3[ a3 f#3 f#3 ] | g3/2. r
+B2: r/2 g2 g2 | d3. d3/8~ d3 r | r r/8 d3/8 3[ d3 d3 d3 ] | g2/2. r
+L: Pa- dre haz- me | un va- so de | fe
+
+@8
+T1: r/2 d3_ c3_ | b3. ( b3/8 b3 ) r | r r/8 b3/8 3[ b3 c4 d4 ] | d4. c4/8~ c4 r/8 c4/8
+T2: r/2 b2_ a2_ | d3. ( d3/8 d3 ) r | r r/8 d3/8 3[ d3 e3 fn3 ] | e3. e3/8~ e3 r/8 e3/8
+B1: r/2 fn3_ fn3_ | g3. ( g3/8 g3 ) r | r r/8 g3/8 3[ g3 g3 g3 ] | b3. a3/8~ a3 r/8 a3/8
+B2: r/2 g2_ g2_ | g2. ( g2/8 g2 ) r | r r/8 g2/8 3[ g2 a2 b2 ] | c3. c3/8~ c3 r/8 c3/8
+L: Lle- na- me | con tu luz y | gra- cia y
+
+@12
+T1: b3. a3/8~ a3 r/8 d3/8 | b3/8 b3/8 b3/8 b3. r | r/8 a3/8 a3/8 b3/8 3[ c4 b3 a3 ]
+T2: d3. c3/8~ c3 r | d3/8 d3/8 d3/8 d3. r | r/8 c3/8 c3/8 d3/8 3[ e3 d3 c3 ]
+B1: fn3. e3/8~ e3 r | g3/8 g3/8 g3/8 g3. r | r/8 f#3/8 f#3/8 f#3/8 3[ f#3 f#3 f#3 ]
+B2: g#2. a2/8~ a2 r | d3/8 d3/8 d3/8 d3. r | r/8 d3/8 d3/8 d3/8 3[ d3 d3 d3 ]
+L.T1: hon- ra que | mi co- ra- zon | se lle- ne so- lo de
+L.T2: hon- ra | mi co- ra- zon | se lle- ne so- lo de
+L.B1: hon- ra | mi co- ra- zon | se lle- ne so- lo de
+L.B2: hon- ra | mi co- ra- zon | se lle- ne so- lo de
+
+@15
+T1: g3/1~ | g3/2. r
+T2: b2/1~ | b2/2. r
+B1: d3/1~ | d3/2. r
+B2: g2/1~ | g2/2. r
+L: Ti
+
+@17
+T1: b3. b3/8~ b3 r | r r/8 b3/8 3[ c4 b3 c4 ] | ( b3 a3/8_ ) g3. r
+T2: d3. d3/8~ d3 r | r r/8 d3/8 3[ e3 d3 e3 ] | ( d3 c3/8_ ) b2. r
+B1: g3. g3/8~ g3 r | r r/8 g3/8 3[ g3 g3 g3 ] | ( g3 e3/8_ ) d3. r
+B2: g2. g2/8~ g2 r | r r/8 g2/8 3[ g2 g2 g2 ] | g2~ g2/8 g2. r
+L: Haz- me un va- so de hon- ra
+
+@20
+T1: r/2 b3 d4 | d4. d4/8~ d4 r | r r/8 d4/8 3[ d4 c4 a3 ] | b3/2. r
+T2: r/2 d3 g3 | f#3. f#3/8~ f#3 r | r r/8 f#3/8 3[ f#3 e3 d3 ] | d3/2. r
+B1: r/2 g3 b3 | a3. a3/8~ a3 r | r r/8 a3/8 3[ a3 f#3 f#3 ] | g3/2. r
+B2: r/2 g2 g2 | d3. d3/8~ d3 r | r r/8 d3/8 3[ d3 d3 d3 ] | g2/2. r
+L: Pa- dre haz- me | un va- so de | fe
+
+@24
+T1: r/2 d3_ c3_ | b3. ( b3/8 b3 ) r | r r/8 b3/8 3[ b3 c4 d4 ] | d4. c4/8~ c4 r/8 c4/8
+T2: r/2 b2_ a2_ | d3. ( d3/8 d3 ) r | r r/8 d3/8 3[ d3 e3 fn3 ] | e3. e3/8~ e3 r/8 e3/8
+B1: r/2 fn3_ fn3_ | g3. ( g3/8 g3 ) r | r r/8 g3/8 3[ g3 g3 g3 ] | b3. a3/8~ a3 r/8 a3/8
+B2: r/2 g2_ g2_ | g2. ( g2/8 g2 ) r | r r/8 g2/8 3[ g2 a2 b2 ] | c3. c3/8~ c3 r/8 c3/8
+L: Lle- na- me | con tu luz y | gra- cia y
+
+@28
+T1: b3. a3/8~ a3 r/8 d3/8 | b3/8 b3/8 b3/8 b3. r | r/8 a3/8 a3/8 b3/8 3[ c4 b3 a3 ]
+T2: d3. c3/8~ c3 r | d3/8 d3/8 d3/8 d3. r | r/8 c3/8 c3/8 d3/8 3[ e3 d3 c3 ]
+B1: fn3. e3/8~ e3 r | g3/8 g3/8 g3/8 g3. r | r/8 f#3/8 f#3/8 f#3/8 3[ f#3 f#3 f#3 ]
+B2: g#2. a2/8~ a2 r | d3/8 d3/8 d3/8 d3. r | r/8 d3/8 d3/8 d3/8 3[ d3 d3 d3 ]
+L.T1: hon- ra que | mi co- ra- zon | se lle- ne so- lo de
+L.T2: hon- ra | mi co- ra- zon | se lle- ne so- lo de
+L.B1: hon- ra | mi co- ra- zon | se lle- ne so- lo de
+L.B2: hon- ra | mi co- ra- zon | se lle- ne so- lo de
+
+@31
+T1: g3/1~ | g3/2. r/8 d3/8 | b3/8 b3/8 b3/8 b3/8~ b3 a3/8 g3/8 | b3/8 b3/8 b3/8 b3. r/8 g3/8 | 3[ a3 a3 a3 ] b3 c4/8 e3/8~ | e3/2 r r/8 e3/8 | a3/8 a3/8 a3/8 a3 g3 f#3/8 | f#3/8 f#3/8 f#3/8 ( f#3 a3._ ) | a3. b3/8~ b3 a3 | d3/2 r r/8 d3/8 | b3/8 b3/8 b3/8 b3 g3 g3/8 | b3/8 b3/8 b3/8 c4 d4 r/8 | a3/8 a3/8 a3/8 a3 b3/8 c4 | e3/2 r r/8 e3/8 | a3/8 a3/8 a3/8 a3 a3 a3/8 | c#4/8 c#4/8 c#4/8 d4 e4 c#4/8 | d4/8 c4/8~ c4/8 b3/8~ b3/8 c4/8~ c4/8 a3/8~ | a3/1
+T2: b2/1~ | b2/2. r/8 d3/8 | d3/8 d3/8 d3/8 d3/8~ d3 c3/8 b2/8 | d3/8 d3/8 d3/8 d3. r/8 d3/8 | 3[ c3 c3 c3 ] d3 e3/8 c3/8~ | c3/2 r r/8 c3/8 | c3/8 c3/8 c3/8 c3 c3 c3/8 | c3/8 c3/8 c3/8 c3 c3._ | d3. d3/8~ d3 b2 | b2/2 r r/8 b2/8 | d3/8 d3/8 d3/8 d3 b2 b2/8 | d3/8 d3/8 d3/8 d3 g3 r/8 | c3/8 c3/8 c3/8 c3 d3/8 e3 | c3/2 r r/8 c3/8 | c#3/8 c#3/8 c#3/8 c#3 c#3 c#3/8 | e3/8 e3/8 e3/8 e3 a3 e3/8 | f#3/8 f#3/8~ f#3/8 f#3/8~ f#3/8 f#3/8~ f#3/8 f#3/8~ | f#3/1
+B1: d3/1~ | d3/2. r/8 d3/8 | g3/8 g3/8 g3/8 g3/8~ g3 e3/8 d3/8 | g3/8 g3/8 g3/8 g3. r/8 g3/8 | 3[ e3 e3 e3 ] e3 a3/8 a3/8~ | a3/2 r r/8 a3/8 | f#3/8 f#3/8 f#3/8 f#3 a3 a3/8 | a3/8 a3/8 a3/8 a3 f#3._ | g3. g3/8~ g3 d3 | g3/2 r r/8 g3/8 | g3/8 g3/8 g3/8 g3 d3 d3/8 | g3/8 g3/8 g3/8 a3 b3 r/8 | e3/8 e3/8 e3/8 e3 e3/8 a3 | a3/2 r r/8 a3/8 | e3/8 e3/8 e3/8 e3 e3 e3/8 | a3/8 a3/8 a3/8 b3 c#4 a3/8 | a3/8 d4/8~ d4/8 d4/8~ d4/8 d4/8~ d4/8 c4/8~ | c4/1
+B2: g2/1~ | g2/2. r/8 d3/8 | g2/8 g2/8 g2/8 g2/8~ g2 g2/8 g2/8 | g2/8 g2/8 g2/8 g2. r/8 b2/8 | 3[ a2 a2 a2 ] a2 a2/8 a2/8~ | a2/2 r r/8 a2/8 | d3/8 d3/8 d3/8 d3 d3 d3/8 | d3/8 d3/8 d3/8 d3 d3._ | g2. g2/8~ g2 g2 | g2/2 r r/8 g2/8 | g2/8 g2/8 g2/8 g2 g2 g2/8 | g2/8 g2/8 g2/8 g2 g2 r/8 | a2/8 a2/8 a2/8 a2 a2/8 a2 | a2/2 r r/8 a2/8 | a2/8 a2/8 a2/8 a2 a2 a2/8 | a2/8 a2/8 a2/8 a2 a2 a2/8 | d3/8 d3/8~ d3/8 d3/8~ d3/8 d3/8~ d3/8 d3/8~ | d3/1
+L.T1: Ti | se- ñor quie- ro siem- pre ha- | cer tu que- rer y | tu ley o- be- de- cer | me | sien- to tan de- bil más | con tu po- der | he de ven- | cer te- | rin- do mi vi- da pa- | ra tu ser- vi- cio | don- de me man- des i- | ré y | de dí- a_en dí- a i- | ré men- sa- je- ro lle- | van- do_a- mor y paz
+L.T2: Ti | se- ñor quie- ro siem- pre ha- | cer tu que- rer y | tu ley o- be- de- cer | me | sien- to tan de- bil más | con tu po- der | he de ven- | cer te- | rin- do mi vi- da pa- | ra tu ser- vi- cio | don- de me man- des i- | ré y | de dí- a_en dí- a i- | ré men- sa- je- ro lle- | van- do_a- mor y paz
+L.B1: Ti | se- ñor quie- ro siem- pre ha- | cer tu que- rer y | tu ley o- be- de- cer | me | sien- to tan de- bil más | con tu po- der | he de ven- | cer te- | rin- do mi vi- da pa- | ra tu ser- vi- cio | don- de me man- des i- | ré y | de dí- a_en dí- a i- | ré men- sa- je- ro lle- | van- do_a- mor y paz
+L.B2: Ti | se- ñor quie- ro siem- pre ha- | cer tu que- rer y | tu ley o- be- de- cer | me | sien- to tan de- bil más | con tu po- der | he de ven- | cer te- | rin- do mi vi- da pa- | ra tu ser- vi- cio | don- de me man- des i- | ré y | de dí- a_en dí- a i- | ré men- sa- je- ro lle- | van- do_a- mor y paz
+
+@49
+T1: b3. b3/8~ b3 r | r r/8 b3/8 3[ c4 b3 c4 ] | ( b3 a3/8_ ) g3. r
+T2: d3. d3/8~ d3 r | r r/8 d3/8 3[ e3 d3 e3 ] | ( d3 c3/8_ ) b2. r
+B1: g3. g3/8~ g3 r | r r/8 g3/8 3[ g3 g3 g3 ] | ( g3 e3/8_ ) d3. r
+B2: g2. g2/8~ g2 r | r r/8 g2/8 3[ g2 g2 g2 ] | g2~ g2/8 g2. r
+L: Haz- me un va- so de hon- ra
+
+@52
+T1: r/2 b3 d4 | d4. d4/8~ d4 r | r r/8 d4/8 3[ d4 c4 a3 ] | b3/2. r
+T2: r/2 d3 g3 | f#3. f#3/8~ f#3 r | r r/8 f#3/8 3[ f#3 e3 d3 ] | d3/2. r
+B1: r/2 g3 b3 | a3. a3/8~ a3 r | r r/8 a3/8 3[ a3 f#3 f#3 ] | g3/2. r
+B2: r/2 g2 g2 | d3. d3/8~ d3 r | r r/8 d3/8 3[ d3 d3 d3 ] | g2/2. r
+L: Pa- dre haz- me | un va- so de | fe
+
+@56
+T1: r/2 d3_ c3_ | b3. ( b3/8 b3 ) r | r r/8 b3/8 3[ b3 c4 d4 ] | d4. c4/8~ c4 r/8 c4/8
+T2: r/2 b2_ a2_ | d3. ( d3/8 d3 ) r | r r/8 d3/8 3[ d3 e3 fn3 ] | e3. e3/8~ e3 r/8 e3/8
+B1: r/2 fn3_ fn3_ | g3. ( g3/8 g3 ) r | r r/8 g3/8 3[ g3 g3 g3 ] | b3. a3/8~ a3 r/8 a3/8
+B2: r/2 g2_ g2_ | g2. ( g2/8 g2 ) r | r r/8 g2/8 3[ g2 a2 b2 ] | c3. c3/8~ c3 r/8 c3/8
+L: Lle- na- me | con tu luz y | gra- cia y
+
+@60
+T1: b3. a3/8~ a3 r/8 d3/8 | b3/8 b3/8 b3/8 b3. r | r/8 a3/8 a3/8 b3/8 3[ c4 b3 a3 ]
+T2: d3. c3/8~ c3 r | d3/8 d3/8 d3/8 d3. r | r/8 c3/8 c3/8 d3/8 3[ e3 d3 c3 ]
+B1: fn3. e3/8~ e3 r | g3/8 g3/8 g3/8 g3. r | r/8 f#3/8 f#3/8 f#3/8 3[ f#3 f#3 f#3 ]
+B2: g#2. a2/8~ a2 r | d3/8 d3/8 d3/8 d3. r | r/8 d3/8 d3/8 d3/8 3[ d3 d3 d3 ]
+L.T1: hon- ra que | mi co- ra- zon | se lle- ne so- lo de
+L.T2: hon- ra | mi co- ra- zon | se lle- ne so- lo de
+L.B1: hon- ra | mi co- ra- zon | se lle- ne so- lo de
+L.B2: hon- ra | mi co- ra- zon | se lle- ne so- lo de
+
+@63
+T1: g3/1~ | g3/2. r
+T2: b2/1~ | b2/2. r
+B1: d3/1~ | d3/2. r
+B2: g2/1~ | g2/2. r
+L: Ti
