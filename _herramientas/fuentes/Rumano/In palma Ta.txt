@@ -1,0 +1,44 @@
+title: ÎN PALMA TA
+composer: Klaus Heizmann 1984
+lyricist: Sami Calotá
+arranger: Ar. Nicusor Gheorghitá
+key: Bb
+time: 4/4
+tempo: 100
+source: PDF original (escaneo CamScanner, 1 pág., 4 sistemas, 2 pentagramas TT/BB, 3 estrofas impresas). Búsqueda web (letra/compositor/tempo): no encontrado; tempo 100 por defecto (el PDF no indica tempo). Letra transcrita tal como está impresa (incluidas las vocales con acento agudo de la fuente original, p.ej. Táu, dá-ru-it). Compás 12 y 8 terminan con anacrusa (q) que enlaza con el sistema siguiente. 8ª + negra ligada marcada con ligadura de prolongación en ambas voces (c.2, 6, 9, 10, 13, 14). Pentagrama grave a veces con tres cabezas (c.5 acorde 2: sólo se notan A3 y F#3 por haber dos voces graves).
+
+@1
+T1: d4 d4/8 d4/8 f4 f4 | bb3 bb3/8 d4/8~ d4/2 | g3 a3/8 bb3/8 eb4. d4/8 | d4/1
+T2: bb3 bb3/8 bb3/8 c4 c4 | bb3 g3/8 a3/8~ a3/2 | g3 f3/8 f3/8 bb3 a3 | f3/1
+B1: f3 f3/8 f3/8 f3 f3 | g3 g3/8 f3/8~ f3/2 | eb3 eb3/8 f3/8 g3 f3 | f3/1
+B2: bb2 bb2/8 bb2/8 a2 a2 | g2 g2/8 d3/8~ d3/2 | eb3 eb3/8 d3/8 c3 f2 | bb2/1
+L: De mâ- na Ta am | fost cre- at, | I- su- se la-n- ce- | put
+L2: Si mâ- na sfân- tá | ce-a cre- at | Ce- rul si-n- treg pá- | mânt,
+L3: În pal- ma Ta am | fost sá- pat, | De moar- te m-ai scá- | pat,
+
+@5
+T1: d4 d4/8 c4/8 bb3 c4/8 d4/8 | c4 g3/8 a3/8~ a3 a3 | bb3 c4 a3 g3/8 f3/8 | g3/2 r bb3
+T2: d4 d4/8 c4/8 bb3 c4/8 d4/8 | c4 g3/8 a3/8~ a3 a3 | g3 g3 f3 f3/8 f3/8 | g3/2 r g3
+B1: a3 a3/8 a3/8 g3 g3/8 g3/8 | g3 g3/8 d3/8~ d3 d3 | d3 d3 c3 c3/8 c3/8 | d3/2 r g3
+B2: d3/8. en3/16_ f#3/8 d3/8 g3/8. fn3/16_ eb3/8 eb3/8 | c3 eb3/8 d3/8~ d3 d3 | g2 g2 f2 f2/8 f2/8 | g2/2 r g2
+L: Si chi- pul Táu mi l-ai | dá- ru- it, Sá-l | port pâ- ná la sfâr- | sit! Dar
+L2: Am pi- ro- ni- t-o pe | lemn si-a- poi Pe | cru- ce Te-am rás- tig- | nit; Si
+L3: În u- mi- lin- tá a- | cum má-n- chin, Re- | dá-mi Tu chi- pul di- | vin. Sá
+
+@9
+T1: g3 c4/8 a3/8~ a3 d4 | bb3 eb4/8 c4/8~ c4 f4 | f4 bb3 eb4. d4/8 | d4/2 r bb3
+T2: g3 g3/8 a3/8~ a3 a3 | bb3 bb3/8 a3/8~ a3 c4 | c4 bb3 bb3 a3 | bb3/2 r bb3
+B1: eb3 eb3/8 f3/8~ f3 f#3 | g3 g3/8 f3/8~ f3 a3 | f3 g3 g3 f3 | f3/2 r f3
+B2: eb3 c3/8 f3/8~ f3 d3 | g3 c3/8 f3/8~ f3 eb3 | d3 d3 c3 c3 | bb2/2 r d3
+L: n-am pás- trat fru- | mo- su-Ti chip cu- | rat cum mi L-ai | dat, Si-ai
+L2: frun- tea Ti-am in- | co- ro- nat cu | spini ce Te-au rá- | nit Si
+L3: Te ves- tesc pe-n- | treg pá- mânt cá | via- ta mi-ai scá- | pat Si
+
+@13
+T1: g3 c4/8 a3/8~ a3 d4 | bb3 eb4/8 c4/8~ c4 f4 | f4 eb4/8 d4/8 c4. bb3/8 | bb3/1
+T2: eb3 g3/8 a3/8~ a3 a3 | bb3 bb3/8 a3/8~ a3 c4 | bb3 bb3/8 bb3/8 bb3 a3 | f3/1
+B1: eb3 eb3/8 f3/8~ f3 f#3 | g3 g3/8 f3/8~ f3 a3 | f3 g3/8 g3/8 eb3 f3 | d3/1
+B2: eb3 c3/8 f3/8~ f3 d3 | g3 c3/8 f3/8~ f3 eb3 | d3 c3/8 c3/8 eb3 f2 | bb2/1
+L: co- bo- rât din | ce- rul Táu, Dar | noi Te-am cru- ci- fi- | cat!
+L2: coas- ta Ti-am îm- | puns a- poi, Dar | Tu to- tul ai ráb- | dat!
+L3: prin Gol- go- ta | pot sá cânt lui | Hrist, Cel ce m-a sal- | vat.
