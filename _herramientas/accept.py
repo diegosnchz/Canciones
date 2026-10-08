@@ -19,6 +19,17 @@ def run(*cmd, check=True):
     return r.stdout
 
 
+def fix_ingles_paths():
+    """el repo usa la carpeta 'Inglés ' (espacio final); windows la resuelve como 'Inglés'. reescribe el índice."""
+    out = run("git", "-c", "core.quotepath=off", "ls-files", "-s", "--", "Inglés/")
+    for line in out.splitlines():
+        meta, path = line.split("	", 1)
+        mode, sha, _ = meta.split()
+        new = "Inglés /" + path[len("Inglés/"):]
+        run("git", "update-index", "--add", "--cacheinfo", f"{mode},{sha},{new}")
+        run("git", "rm", "-q", "--cached", "--", path)
+
+
 def accept(folder, song, tanda, key, time, measures, warn):
     base = REPO / folder / song
     errs, info = qamod.qa(base, int(measures))
@@ -43,6 +54,8 @@ def accept(folder, song, tanda, key, time, measures, warn):
         s = s[:k].rstrip("\n") + "\n" + line + ("\n" if k < len(s) else "") + s[k:]
         prog.write_text(s, encoding="utf-8")
     run("git", "add", "PROGRESO.md", "_herramientas", f"{folder}/{song}")
+    if folder == "Inglés":
+        fix_ingles_paths()
     run("git", "commit", "-q", "-m", f"Tanda {tanda}: {song}\n\nTranscripción TTBB: MusicXML, MSCZ, PDF, 4 MIDI, 4 MP3.\n\nCo-Authored-By: Claude Fable 5.1 <noreply@anthropic.com>")
     out = run("git", "push", "-q", "fork", "transcripcion-ttbb", check=False)
     print(run("git", "log", "--oneline", "-1"))
