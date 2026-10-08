@@ -19,6 +19,7 @@ Formato: `✅ Carpeta/Canción | tonalidad | compás | nº compases | advertenci
 ✅ Español/Todas tus cargas Jesus llevó | Mi M | 6/8 | 16 | himnario SATB, 3 estrofas; tempo no impreso, ♩=96; c.9 Bar. la3 (difiere de c.5/13, así impreso)
 ✅ Español/Si tu amas a cristo | La♭ M | 4/4 | 79 | 66 compases impresos; forma D.S. al Coda expandida (79 con anacrusa); tempo no impreso, ♩=100; compases partidos por doble barra (c.17/18, 47/48) como en el original
 ✅ Español/Jamás temeréis | Fa M → Sol♭ M (c.41) | 12/8 | 51 | PDF vectorial 4 pentagramas; tempo no impreso, ♩=100; ligaduras de expresión encadenadas fusionadas; letra impresa 'queun' respetada
+✅ Inglés/Old time religion | La M → Re M → Sol M → Do M → Sol M (Coda) | 4/4 (c.45-46 en 9/8) | 49 | 4 secciones con anacrusa y repetición + Coda; tempo no impreso, ♩=100; c.45-46 escritos en 9/8 (el original no marca cambio de compás); letra impresa 'li-hion', 'take-us' respetada; sin compositor/arreglista en el PDF (weer.ro 2010)
 
 ## Tanda 3 — Navidad + Rumano 1-9
 ⛔ Navidad/Here Comes the Light TTBB | Fa M | 4/4 | — | BLOQUEADA: arreglo comercial con copyright vigente (J. Graham / arr. J. Yane, Shawnee Press © 2007/2013) y el PDF es una copia "Preview Only" con marca de agua, no adquirida. No se reproduce nota a nota. Si se dispone de la partitura comprada y licencia de uso, se puede retomar.

@@ -1,0 +1,131 @@
+title: Give Me That Old Time Religion
+composer:
+lyricist:
+arranger:
+key: A
+time: 4/4
+tempo: 100
+source: PDF original (fotos iOS, 2 págs., 2 pentagramas Sol/Fa leídos como TT/BB; pie "weer.ro vt 01-2010"; título impreso "GIVE ME THAT"). Espiritual tradicional (en.wikipedia.org/wiki/Old-Time_Religion; ibiblio.org/jimmy/folkden-wp/?p=9712); arreglo sin autor impreso; sin tempo impreso (100 por defecto). 4 secciones de 8 compases con repetición (1.-4.): 1a vez línea "Give me that..." (L), 2a vez línea del verso (L2: Paul and Silas / prophet Daniel / love everybody / take us all to heaven); tonalidades A, D, G, C; Coda final en G. Cada sección empieza con anacrusa de 2 tiempos y acaba con compás de 2 tiempos (compases incompletos intencionados). Letra impresa literal ("li-hion" en c.12 y c.17, "take-us" en c.29). Los c.41-42 del original tienen 4.5 tiempos (blanca con puntillo + silencio de corchea + negra; blanca + silencio de corchea + blanca): se escriben con time:9/8 y vuelve 4/4 en c.43; compás final de 3 tiempos tal como está impreso.
+
+@0
+T1: r/2 | c#4 c#4 c#4. c#4/8 | d4 c#4 r/2 | d4 d4 d4. e4/8
+T2: e3/8. e3/16 f#3 | a3 a3 a3. a3/8 | f#3 e3 a3/8. a3/16 a3 | b3 b3 b3. c#4/8
+B1: r/2 | e3 e3 e3. e3/8 | f#3 a3 r/2 | g#3 g#3 g#3. g#3/8
+B2: r/2 | a2 a2 a2. a2/8 | a2 a2 r/2 | e3 e3 e3. e3/8
+L.T1: old _ time re- | li- gion | old _ time re-
+L.T2: 1.Give me that | old _ time re- | li- gion Give me that | old _ time re-
+L.BB: old _ time re- | li- gion | old _ time re-
+L2.T1: good for Paul and | Si- la's, | good for Paul and
+L2.T2: It _ was | good for Paul and | Si- la's, It _ was | good for Paul and
+L2.BB: good for Paul and | Si- la's, | good for Paul and
+
+@4
+T1: d4 c#4 r/2 | e4 e4 e4. c#4/8 | d4 d4 d4 d4 | c#4. c#4/8 c#4 d4 | c#4/2 :|
+T2: b3 a3 a3/8. a3/16 b3 | c#4 c#4 c#4. a3/8 | b3 a3 a3 f#3 | e3. a3/8 a3 b3 | a3/2
+B1: f#3 e3 r/2 | a3 g#3 g3. g3/8 | f#3 f#3 f#3 a3 | a3. a3/8 a3 g#3 | e3/2
+B2: a2 a2 r/2 | a2 a2 a2. a2/8 | d3 d3 d3 d3 | e3. e3/8 e2 e2 | a2/2
+L.T1: li- gion, | old _ time re- | li- gion And it's | good en- ough for | me.
+L.T2: li- gion, Give me that | old _ time re- | li- gion And it's | good en- ough for | me.
+L.BB: li- gion, | old _ time re- | li- gion And it's | good en- ough for | me.
+L2.T1: Si- la's, | good for Paul and | Si- la's And it's | good en- ough for | me.
+L2.T2: Si- la's, It _ was | good for Paul and | Si- la's And it's | good en- ough for | me.
+L2.BB: Si- la's, | good for Paul and | Si- la's And it's | good en- ough for | me.
+
+@9
+T1: |: a3/8. a3/16 b3 | key:D d4 d4 d4. d4/8 | b3 a3 d4/8. d4/16 d4 | e4 e4 e4. f#4/8
+T2: r/2 | a3 a3 a3. a3/8 | b3 a3 r/2 | c#4 c#4 c#4. c#4/8
+B1: r/2 | f#3 f#3 f#3. f#3/8 | g3 f#3 r/2 | g3 g3 g3. a3/8
+B2: r/2 | d3 d3 d3. d3/8 | d3 d3 r/2 | a2 a2 a2. a2/8
+L.T1: 2.Give me that | old _ time re- | li- gion, Give me that | old _ time re-
+L.T2: old _ time re- | li- gion, | old _ time re-
+L.BB: old _ time re- | li- gion, | old _ time re-
+L2.T1: It _ was | good for pro- phet | Da- niel, It _ was | good for pro- phet
+L2.T2: good for pro- phet | Da- niel, | good for pro- phet
+L2.BB: good for pro- phet | Da- niel, | good for pro- phet
+
+@13
+T1: e4 d4 d4/8. d4/16 e4 | f#4 f#4 f#4. d4/8 | e4 d4 d4 d4 | d4. d4/8 d4 e4 | d4/2 :|
+T2: a3 a3 r/2 | d4 d4 c4. c4/8 | b3 b3 b3 b3 | a3. a3/8 a3 a3 | a3/2
+B1: g3 f#3 r/2 | a3 a3 a3. f#3/8 | g3 f#3 e#3 e#3 | f#3. f#3/8 g3 g3 | f#3/2
+B2: d3 d3 r/2 | d3 d3 d3. d3/8 | g2 g2 g#2 g#2 | a2. a2/8 a2 a2 | d3/2
+L.T1: li- hion, Give me that | old _ time re- | li- gion And it's | good en- ough for | me,
+L.T2: li- hion, | old _ time re- | li- gion And it's | good en- ough for | me,
+L.BB: li- hion, | old _ time re- | li- gion And it's | good en- ough for | me,
+L2.T1: Da- niel, It _ was | good for pro- phet | Da- niel And it's | good en- ough for | me.
+L2.T2: Da- niel, | good for pro- phet | Da- niel And it's | good en- ough for | me.
+L2.BB: Da- niel, | good for pro- phet | Da- niel And it's | good en- ough for | me.
+
+@18
+T1: |: r/2 | key:G d4/2 d4. d4/8 | c4 b3 r/2 | d4/2 c4. d4/8
+T2: r/2 | b3/2 b3. b3/8 | g3 g3 r/2 | f#3/2 f#3. f#3/8
+B1: d3/8. d3/16 e3 | g3/2 g3. g3/8 | e3 d3 g3/8. g3/16 g3 | a3/2 a3. b3/8
+B2: r/2 | g2/2 g2. g2/8 | g2 g2 r/2 | d3/2 d3. d3/8
+L.TT: old time re- | li- hion, | old time re-
+L.B1: 3.Give me that | old time re- | li- hion, Give me that | old time re-
+L.B2: old time re- | li- hion, | old time re-
+L2.TT: love ev- ery | bo- dy, | love ev- ery
+L2.B1: Makes _ me | love ev- ery | bo- dy, Makes _ me | love ev- ery
+L2.B2: love ev- ery | bo- dy, | love ev- ery
+
+@22
+T1: c4 b3 r/2 | f#4/2 f4. f4/8 | e4 e4 e4 c4 | b3. b3/8 b3 c4 | b3/2 :|
+T2: e3 d3 r/2 | d4/2 d4. d4/8 | c4 c4 c4 g3 | g3. g3/8 g3 f#3 | d3/2
+B1: a3 g3 g3/8. g3/16 a3 | b3/2 b3. b3/8 | a3 g3 g3 e3 | d3. g3/8 g3 a3 | g3/2
+B2: g2 g2 r/2 | g3/2 g3. g3/8 | c3 c3 c3 c3 | d3. d3/8 d3 d3 | g2/2
+L.TT: li- gion, | old time re- | li- gion And it's | good en- ough for | me,
+L.B1: li- gion, Give me that | old time re- | li- gion And it's | good en- ough for | me,
+L.B2: li- gion, | old time re- | li- gion And it's | good en- ough for | me,
+L2.TT: bo- dy, | love ev- ery | bo- dy And it's | good en- ough for | me.
+L2.B1: bo- dy, Makes _ me | love ev- ery | bo- dy And it's | good en- ough for | me.
+L2.B2: bo- dy, | love ev- ery | bo- dy And it's | good en- ough for | me.
+
+@27
+T1: |: r/2 | key:C e4 e4 e4. e4/8 | d#4 e4 r/2 | f4 f4 f4. g4/8
+T2: r/2 | c4 c4 c4. c4/8 | c4 c4 r/2 | b3 b3 b3. b3/8
+B1: r/2 | g3 g3 g3. g3/8 | f#3 g3 r/2 | g3 g3 g3. g3/8
+B2: g2/8. g2/16 a2 | c3 c3 c3. c3/8 | a2 g2 c3/8. c3/16 c3 | d3 d3 d3. e3/8
+L.TT: old _ time re- | li- gion, | old _ time re-
+L.B1: old _ time re- | li- gion, | old _ time re-
+L.B2: 4.Give me that | old _ time re- | li- gion, Give me that | old _ time re-
+L2.TT: take us all to | hea- ven, | take us all to
+L2.B1: take us all to | hea- ven, | take us all to
+L2.B2: It _ will | take us all to | hea- ven, It _ will | take us all to
+
+@31
+T1: f4 e4 r/2 | g4 g4 g4. e4/8 | f4 f4 f4 d#4 | e4. c4/8 a3 b3 | c4/2 :|
+T2: b3 c4 r/2 | c4 c4 c4. c4/8 | c4 c4 c4 c4 | c4. g3/8 g3 g3 | g3/2
+B1: g3 g3 r/2 | g3 a3 bb3. bb3/8 | a3 a3 a3 f#3 | g3. e3/8 e3 f3 | e3/2
+B2: d3 c3 c3/8. c3/16 d3 | e3 e3 e3. c3/8 | d3 c3 c3 a2 | g2. c3/8 c3 d3 | c3/2
+L.TT: li- gion, | old _ time re- | li- gion And it's | good en- ough for | me,
+L.B1: li- gion, | old _ time re- | li- gion And it's | good en- ough for | me,
+L.B2: li- gion, Give me that | old _ time re- | li- gion And it's | good en- ough for | me,
+L2.TT: hea- ven, | take- us all to | hea- ven And it's | good en- ough for | me.
+L2.B1: hea- ven, | take- us all to | hea- ven And it's | good en- ough for | me.
+L2.B2: hea- ven, It _ will | take- us all to | hea- ven And it's | good en- ough for | me.
+
+@36
+T1: d4/8. d4/16 e4 | key:G ( g4 g4 ) g4. g4/8 | e4 d4 r/2 | r c#4 c4. d4/8
+T2: r/2 | r b3 c4. c4/8 | c#4 d4 r/2 | r g3 f#3. f#3/8
+B1: r/2 | r d3 e3. e3/8 | g3 g3 g3/8. g3/16 g3 | ( a3 a3 ) a3. b3/8
+B2: r/2 | r g2 a2. a2/8 | a#2 b2 r/2 | r e3 d3. d3/8
+L.T1: Give me that | old, old time re- | li- gion, | old time re-
+L.T2: old time re- | li- gion, | old time re-
+L.B1: old time re- | li- gion, Give me that | old, old time re-
+L.B2: old time re- | li- gion, | old time re-
+
+@40
+T1: c4 b3 r/2 | r g4 f4. f4/8 | e4 c4 r/2 | r b3/8. b3/16 b3 c4
+T2: d3 d3 r/2 | r d4 d4. b3/8 | c4 g3 g3 e3 | d3 d3/8. g3/16 g3 a3
+B1: a3 g3 r/2 | r g3 g3. g3/8 | g3 e3 r/2 | r g3/8. g3/16 g3 f#3
+B2: g2 g2 g2/8. g2/16 a2 | ( b2 b2 ) b2. g2/8 | a2 g2 r/2 | r d3/8. d3/16 d3 d3
+L.T1: li- gion, | old time re- | li- gion | good en- ough for
+L.T2: li- gion, | old time re- | li- gion And it's | good, good en- ough for
+L.B1: li- gion, | old time re- | li- gion | good en- ough for
+L.B2: li- gion, Give me that | old, old time re- | li- gion | good en- ough for
+
+@44
+T1: b3/2. e4 | time:9/8 d4/2. r/8 g4 | g4/2 r/8 a4/2 | time:4/4 g4/2~ g4/2~ | g4/2. |]
+T2: g3/2. c4 | b3/2. r/8 d4 | c#4/2 r/8 c4/2 | b3/2~ b3/2~ | b3/2.
+B1: d3/2. g3 | g3/2. r/8 g3 | e3/2 r/8 f#3/2 | d3/2~ d3/2~ | d3/2.
+B2: g2/2. c3 | d3/2. r/8 b2 | a2/2 r/8 d3/2 | g2/2~ g2/2~ | g2/2.
+L: me. It's | good en- | ough for | me!
