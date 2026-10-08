@@ -1,0 +1,54 @@
+title: Escuchad el son triunfal
+composer: Felix Mendelssohn
+lyricist: Charles Wesley
+arranger:
+key: F
+time: 4/4
+tempo: 102
+source: PDF original (himnario nº 130, escaneo CamScanner, 1 pág., 4 sistemas de 4 compases, 2 pentagramas SATB: Sol arriba leída como Sol 8vb para T1/T2, Fa abajo B1/B2); villancico Hark! The Herald Angels Sing (melodía MENDELSSOHN, Mendelssohn / Wesley) en versión española; autores no impresos en el PDF, datos de https://singpraises.net/texts/es/209/hark-the-herald-angels-sing (traducciones de Fliedner y Balderas; letra completa no disponible en la web, se transcribe la impresa); tempo del PDF Con entusiasmo negra=92-112 (se usa 102); 2 estrofas (L, L2), sin coro propio; corchetes impresos sobre el inicio y el final del primer sistema (estribillo) sin signo de repetición, no se expande; arcos entre notas iguales en graves c.10, c.12 (B1/B2) codificados como ligaduras de prolongación con la 2ª sílaba de la 2ª estrofa elidida (ja_do, ta_do)
+
+@1
+T1: !Con_entusiasmo c3 f3 f3. e3/8 | f3 a3 ( a3 g3 ) | c4 c4 c4. bb3/8 | a3 g3 a3/2
+T2: c3 c3 c3. c3/8 | c3 f3 ( f3 e3 ) | f3 e3 d3 g3 | f3 e3 f3/2
+B1: a3 a3 a3. g3/8 | f3 c4 c4/2 | c4 c4 d4 d4 | c4 c4 c4/2
+B2: f3 f3 f3. bb2/8 | a2 f2 c3/2 | a2 a2 bb2 bb2 | c3 c3 f3/2
+L.TT: Es- cu- chad el | son triun- fal _ | de la hues- te | ce- les- tial:
+L.BB: Es- cu- chad el | son triun- fal | de la hues- te | ce- les- tial:
+L2.TT: ¡Sal- ve, Prín- ci- | pe de Paz! _ | Re- den- ción tra- | í- do has,
+L2.BB: ¡Sal- ve, Prín- ci- | pe de Paz! | Re- den- ción tra- | í- do has,
+
+@5
+T1: c3 f3 f3. e3/8 | f3 a3 ( a3 g3 ) | c4 g3 g3. e3/8 | e3 d3 c3/2
+T2: c3 c3 c3. c3/8 | a2 f3 f3/2 | e3 d3 e3. c3/8 | c3 bn2 c3/2
+B1: a3 a3 a3. g3/8 | f3 c4 ( c4 bn3 ) | c4 d4 c4. c4/8 | a3 g3 e3/2
+B2: f3 f3 f3. c3/8 | d3 c3 g2/2 | a2 bn2 c3 e3 | f3 g3 c3/2
+L.T1: Paz y bue- na | vo- lun- tad; _ | sal- va- ción Dios | os da- rá.
+L.T2: Paz y bue- na | vo- lun- tad; | sal- va- ción Dios | os da- rá.
+L.B1: Paz y bue- na | vo- lun- tad; _ | sal- va- ción Dios | os da- rá.
+L.B2: Paz y bue- na | vo- lun- tad; | sal- va- ción Dios | os da- rá.
+L2.T1: luz y vi- da | con vir- tud, _ | en tus a- las | la sa- lud.
+L2.T2: luz y vi- da | con vir- tud, | en tus a- las | la sa- lud.
+L2.B1: luz y vi- da | con vir- tud, _ | en tus a- las | la sa- lud.
+L2.B2: luz y vi- da | con vir- tud, | en tus a- las | la sa- lud.
+
+@9
+T1: c4 c4 c4 f3 | bb3 a3 ( a3 g3 ) | c4 c4 c4 f3 | bb3 a3 ( a3 g3 )
+T2: c3 c3 c3 f3 | g3 f3 ( f3 e3 ) | c3 c3 c3 f3 | g3 f3 ( f3 e3 )
+B1: c4 c4 c4 c4 | c4 c4 c4~ c4 | c4 c4 c4 c4 | c4 c4 c4~ c4
+B2: c4 c4 c4 a3 | e3 f3 c3~ c3 | c4 c4 c4 a3 | e3 f3 c3~ c3
+L.TT: Can- te hoy to- | da na- ción _ | la an- ge- li- | cal can- ción; _
+L.BB: Can- te hoy to- | da na- ción | la an- ge- li- | cal can- ción;
+L2.TT: De tu tro- no | has ba- ja- do | y la- muer- te | con- quis- ta- do
+L2.BB: De tu tro- no | has ba- ja_do | y la- muer- te | con- quis- ta_do
+
+@13
+T1: d4 d4 d4 c4 | bb3 a3 bb3/2 | g3 a3/8 bb3/8 c4. f3/8 | f3 g3 a3/2
+T2: bb3 bb3 bb3 a3 | g3 f#3 g3/2 | e3 e3 f3. c3/8 | c3 e3 f3/2
+B1: d4 d4 d4 d4 | d4 d4 d4/2 | c4 c4 c4. a3/8 | a3 c4 c4/2
+B2: bb2 bb2 bb2 bb2 | bb2 d3 g3/2 | c4 bb3 a3 f3 | c3 c3 f3/2
+L.T1: es- tas nue- vas | to- dos den: | Na- ció _ Cris- to | en Be- lén.
+L.T2: es- tas nue- vas | to- dos den: | Na- ció Cris- to | en Be- lén.
+L.BB: es- tas nue- vas | to- dos den: | Na- ció Cris- to | en Be- lén.
+L2.T1: pa- ra dar al | ser mor- tal | na- ci _ mien- to | ce- les- tial.
+L2.T2: pa- ra dar al | ser mor- tal | na- ci- mien- to | ce- les- tial.
+L2.BB: pa- ra dar al | ser mor- tal | na- ci- mien- to | ce- les- tial.

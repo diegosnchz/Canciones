@@ -22,6 +22,7 @@ Formato: `✅ Carpeta/Canción | tonalidad | compás | nº compases | advertenci
 
 ## Tanda 3 — Navidad + Rumano 1-9
 ⛔ Navidad/Here Comes the Light TTBB | Fa M | 4/4 | — | BLOQUEADA: arreglo comercial con copyright vigente (J. Graham / arr. J. Yane, Shawnee Press © 2007/2013) y el PDF es una copia "Preview Only" con marca de agua, no adquirida. No se reproduce nota a nota. Si se dispone de la partitura comprada y licencia de uso, se puede retomar.
+✅ Navidad/Escuchad el son triunfal | Fa M | 4/4 | 16 | himnario SATB, 2 estrofas; ♩=92-112 impreso ('Con entusiasmo'), usado 102; corchetes de introducción no transcritos
 
 ## Tanda 4 — Rumano 10-19
 
