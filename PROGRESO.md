@@ -46,4 +46,8 @@ Formato: `✅ Carpeta/Canción | tonalidad | compás | nº compases | advertenci
 ✅ Rumano/TU-MI-EȘTI-ISUS | Si♭ M | 4/4 | 16 | PDF vectorial (ADVERUM, Culmi de Viață nr. 15), 3 estrofas; tempo no impreso, ♩=100; c.9 bajos 2º tiempo unísono mi♭3 (NOTA DEDUCIDA); letra con 'ã'/'ş' tal como está impresa
 ⛔ Rumano/Wonderfull Grace of Jesus | — | 6/8 | — | BLOQUEADA: arreglo comercial con copyright vigente (arr. Larry Shackley, Lorenz Publishing © 2012/2016, 'TTBB with Piano 4-hand', aviso impreso de no fotocopiar), 15 páginas. No se reproduce nota a nota. Letra rumana manuscrita sobre el original inglés.
 
+## Tanda 6 — pendientes finales
+⛔ Navidad/It came upon the midnight partitura | La♭ M | 4/4 | — | BLOQUEADA: arreglo comercial con copyright vigente (Richard S. Willis, arr. Joel Raney, 'For T.T.B.B. Voices and Piano Accompaniment') y el PDF es una copia de vista previa con marca de agua 'PREVIEW' (partifi.org), no adquirida; igual criterio que Here Comes the Light. Si se dispone de la partitura comprada y licencia, se puede retomar.
+⛔ Español/It came upon the midnight clear (español) | La♭ M | 4/4 | — | BLOQUEADA: es la misma copia 'PREVIEW' del arreglo de Joel Raney (marca de agua visible en pág. 1-2) impresa con letra española manuscrita; mismo motivo que la versión de Navidad.
+
 ## QA por tanda
