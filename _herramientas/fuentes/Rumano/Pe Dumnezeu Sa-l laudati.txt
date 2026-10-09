@@ -1,0 +1,44 @@
+title: Pe Dumnezeu să-L lăudați
+composer:
+lyricist:
+arranger:
+key: D
+time: 4/4
+tempo: 100
+source: PDF original (escaneo CamScanner, 1 pág., 5 sistemas de 2 pentagramas, rótulo "Cor bărbătesc:"); armadura de 2 sostenidos (Re mayor), 4/4; autor, letrista y tempo no constan en el PDF; WebSearch (4 consultas con y sin diacríticos) sin resultados para este himno -> no encontrado, tempo no indicado, se usa 100; el pentagrama superior (Sol normal, sin 8) se lee como Sol 8vb (T1/T2, una octava bajo lo escrito), el inferior en Fa (B1/B2); anacrusa de 1 tiempo ("Pe"); el PDF no lleva signo de repetición inicial: se añade |: en la anacrusa porque el c.26 impreso (3 tiempos, fin de la casilla 1) completa con la anacrusa; estructura impresa: casilla 1 (c.22-26, termina en :|) y casilla 2 (c.27-32); los compases c.5/c.6 (2+2 tiempos), c.21/c.22 (3+1) y c.26 (3), c.27 (1) se respetan tal como están impresos (compases incompletos del original); donde las voces cantan unísono con una sola cabeza se escribe la misma nota en las dos voces; letra de la 1ª estrofa solamente; ș/ț escritos con coma como en el título impreso; compás 12 del bajo: # de cortesía sobre do (ya sostenido por la armadura); c.7 B2 d3 -> d#3 (alteración impresa)
+
+@0
+T1: |: d3 | d4. d4/8 d4 3[ b3/8 g3/8 b3/8 ] | d4/2. d4 | e4. c#4/8 c#4 3[ c#4/8 d4/8 e4/8 ] | f#4/2. f#4 | g4 f#4 | e4 f#4/8 g4/8
+T2: d3 | d4. d4/8 d4 3[ b3/8 g3/8 b3/8 ] | d4/2. d4 | e4. c#4/8 c#4 3[ c#4/8 d4/8 e4/8 ] | d4/2. d4 | d4 d4 | c#4 c#4/8 c#4/8
+B1: d3 | d4. d4/8 d4 3[ b3/8 g3/8 b3/8 ] | d4/2. d4 | e4. c#4/8 c#4 3[ c#4/8 d4/8 c#4/8 ] | a3/2. a3 | g3 g3 | g3 a3/8 a3/8
+B2: d3 | d4. d4/8 d4 3[ b3/8 g3/8 b3/8 ] | d4/2. d4 | e4. c#4/8 c#4 3[ c#4/8 b3/8 a3/8 ] | d3/2. c#3 | b2 b2 | c#3 c#3/8 c#3/8
+L: Pe | Dum- ne- zeu să-L lă- u- | dați, pe | Dum- ne- zeu să-L lă- u- | dați, Cân- | ta- ți-I | cân- ta- re
+
+@7
+T1: ( d4 c#4_ ) b3 d4 | e4 c#4 a3 d4 | d4/2. d3 | g3 g3/2 e4 | d4 b3/2 g3/8 d4/8 | c#4 b3 a3 g3
+T2: ( b3 a3_ ) g3 b3 | c#4 g3 a3 a3 | b3/2. d3 | g3 g3/2 c#4 | b3 ( f#3 g3_ ) g3/8 g3/8 | a3 g3 a3 g3
+B1: ( g3 f#3_ ) g3 g3 | g3 e3 g3 f#3 | g3/2. d3 | d3 ( e3 d3_ ) e3 | f#3 ( f#3 g3_ ) g3/8 g3/8 | e3 e3 e3 e3
+B2: ( d3 d#3_ ) e3 b2 | c#3 a2 d3 d3 | g2/2. d3 | b2 ( c#3 b2_ ) a2 | b2 ( d3 e3_ ) e3/8 e3/8 | a2 b2 c#3 c#3
+L: no- uă că | Dom- nul ne-a sal- | vat. Pă- | mân- tul și | ce- rul să-L slă- | veas- că bu- cu-
+
+@13
+T1: a3/2. d3 | g3 g3/2 e4 | d4/2. b3 | c#4 b3 a3 f#3/8 g3/8 | g3/2. g3/8 g3/8 | a3. a3/8 a3 a3
+T2: a3/2. d3 | g3 g3/2 c#4 | b3/2. b3 | a3 g3 g3 f#3/8 g3/8 | ( e3/2 d3_ ) g3/8 g3/8 | a3. a3/8 a3 a3
+B1: ( g3 e3_ f#3_ ) d3 | d3 ( e3 d3_ ) e3 | ( f#3/2 g3_ ) g3 | e3 e3 e3 d3 | ( c#3 a2_ b2_ ) g3/8 g3/8 | a3. a3/8 g3 f#3
+B2: d3/2. d3 | b2 ( c#3 b2_ ) a2 | ( b2 d3_ e3_ ) e3 | a2 b2 c#3 d3 | g2/2. g3/8 g3/8 | g3 f#3 e3 d3
+L.TT: ros; Și | ma- rea să | tre- mu- | re pâ- nă- n a- | dânc. Dom- nul | es- te plin de
+L.BB: ros; Și | ma- rea să | tre- mu- | re pâ- nă- n_a- | dânc. Dom- nul | es- te plin de
+
+@19
+T1: b3 b3/2 b3 | c#4. c#4/8 c#4 c#4 | d4/2. | [1 d4 | d4/2 d4 e4 | d4 b3 g3 b3
+T2: b3 b3/2 b3 | a3 a3 a3 g3 | ( a3 b3_ c#4_ ) | c#4 | ( d4 b3_ ) b3 c#4 | b3 b3 g3 g3
+B1: g3 ( g3 f#3_ ) g3 | e3 g3 f#3 e3 | ( f#3 g3_ a3_ ) | a3 | ( b3 g3_ ) g3 g3 | f#3 f#3 b3 d4
+B2: d3 g3/2 e3 | a2 a2 a2 a2 | d3/2. | f#3 | ( g3 e3_ ) b2 c#3 | d3 d3 e3 b2
+L: sla- vă, doar | Lui vom mul- țu- | mi, | ves- | tind tot ce | ha- ru-I să- vâr-
+
+@25
+T1: c#4 b3 a3 a3 | g3/2. :| [2 d4 | e4 c#4 a3 d4 | d4/2. d4 | e4/2 c#4/2 | f#4/2. d4 | g4/2. |]
+T2: g3 g3 g3 f#3 | d3/2. :| b3 | c#4 g3 a3 a3 | b3/2. b3 | ( c#4 b3_ ) ( a3 g3_ ) | ( a3 b3_ c#4_ ) c#4 | b3/2. |]
+B1: e4 d4 d4. c#4/8 | b3/2. :| g3 | g3 e3 g3 f#3 | g3/2. g3 | g3/2 e3/2 | a3/2. f#3 | d3/2. |]
+B2: c#3 d3 d3 d3 | g2/2. :| b2 | c#3 a2 d3 d3 | g2/2. b2 | c#3/2 a2/2 | d3/2. d3 | g2/2. |]
+L: șeș- te pen- tru | noi. | ves- | tind cum ne-a sal- | vat, ves- | tind cum | ne-a sal- | vat!

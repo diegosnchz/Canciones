@@ -54,5 +54,6 @@ Formato: `✅ Carpeta/Canción | tonalidad | compás | nº compases | advertenci
 ✅ Rumano/Undeva peste noapte - b | Fa M | 4/4 | 41 | PDF vectorial; anacrusa + 40 (último de 3 tiempos); tempo no impreso, ♩=100; sin autor; melodía 'Mel.' en T2 (cruza por encima de T1); letra impresa una vez, copiada a todas las voces
 ✅ Rumano/Vreau langa Dumnezeu | La♭ M | 4/4 | 17 | himnario nº 155 (autor 'Necunoscut'), 4 estrofas; anacrusa + 16 (último de 3 tiempos); tempo no impreso, ♩=100; escaneo muy borroso: T2 c.1/5/13/11 y graves c.11 leídos por plica y armonía; tenores = soprano/alto 8vb
 ✅ Rumano/Bate clopot | Re M | 4/4 | 31 | título impreso 'Bate clopot în miez de noapte', sin autor; anacrusa + 30 (último 2 tiempos con calderón); 2 estrofas + Refren; tempo no impreso, ♩=100; c.23 graves mi# (lectura más dudosa); c.16/24 blancas por suma de compás
+✅ Rumano/Pe Dumnezeu Sa-l laudati | Re M (final en Sol M) | 4/4 | 33 | sin autor; anacrusa + 32 con |: añadido en la anacrusa, casillas 1ª (c.22-26) y 2ª (c.27-32); compases incompletos c.5/6/21/22/26/27/32 tal como están impresos; tempo no impreso, ♩=100; DSL anterior corregido (tonalidad y 4 notas)
 
 ## QA por tanda
