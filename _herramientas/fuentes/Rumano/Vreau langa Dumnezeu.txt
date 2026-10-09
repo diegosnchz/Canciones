@@ -1,0 +1,48 @@
+title: Vreau lângă Dumnezeu
+composer: Necunoscut
+lyricist: Necunoscut
+arranger:
+key: Ab
+time: 4/4
+tempo: 100
+source: PDF original (escaneo CamScanner, 1 pág., himnario nº 155, 3 sistemas, 2 pentagramas: Sol = soprano/alto leído como T1/T2 en Sol 8vb (alturas reales una octava bajo lo escrito) / Fa = tenor/bajo del himnario leído como B1/B2 a la altura escrita; "Necunoscut" impreso a izquierda (texto) y derecha (música)). Armadura de 4 bemoles (Lab mayor), 4/4, sin indicación de tempo ni dinámicas (se usa 100). Búsqueda en internet (WebSearch "Vreau lângă Dumnezeu" himn 155): no encontrado. Estructura: anacrusa c.0 de negra (acorde Mib/Do en T1/T2, Lab/Lab en B1/B2) + 16 compases; el último (c.16) es una blanca con puntillo (completa con la anacrusa de la estrofa siguiente; 3 tiempos tal como está impreso). Cuatro estrofas impresas bajo una única música (L, L2, L3, L4), sin repeticiones ni casillas. Elisiones impresas como Pe_n, De_aş, Şi_o, mi_o, că_aş, Şi_n, s_a. Ortografía tal como impresa (ţ con cedilla, "Şi", "ş"). Los tiempos fuertes de las frases con blanca ligada a corchea (c.1, 5, 9, 11, 13) llevan la sílaba en la blanca y la corchea ligada no lleva sílaba. Escaneo borroso: alturas verificadas sistema a sistema con guías de altura y regla de longitud de plica; ver notas en el informe.
+
+@0
+T1: eb3
+T2: c3
+B1: ab3
+B2: ab2
+L: Vreau
+L2: Pe_n-
+L3: Vi-
+L4: Şi
+
+@1
+T1: ab3/2~ ab3/8 ab3/8 bb3/8 ab3/8 | c4/2. c4 | bb3/2. c4 | ab3/2. eb3 | ab3/2~ ab3/8 ab3/8 bb3/8 ab3/8
+T2: c3/2~ c3/8 c3/8 db3/8 c3/8 | eb3/2. eb3 | c3/2. eb3 | c3/2. c3 | c3/2~ c3/8 c3/8 db3/8 c3/8
+B1: eb3/2~ eb3/8 eb3/8 eb3/8 eb3/8 | ab3/2. ab3 | g3/2. g3 | ab3/2. ab3 | eb3/2~ eb3/8 eb3/8 eb3/8 eb3/8
+B2: ab2/2~ ab2/8 ab2/8 ab2/8 ab2/8 | ab2/2. ab2 | eb3/2. eb3 | ab2/2. ab2 | ab2/2~ ab2/8 ab2/8 ab2/8 ab2/8
+L: lân- gă Dum- ne- | zeu Să | fiu me- | reu, Ori- | cât ar fi de
+L2: de- păr- ta- te | căi De_aş | în- nop- | ta, Şi_o | pia- tră că- pă-
+L3: a- ţa mi_o în- | chin Lui | Dum- ne- | zeu, La | El cu toa- te
+L4: când se va sfâr- | şi a- | cest pă- | mânt, Vo- | ios eu voi pă-
+
+@6
+T1: c4/2. c4 | bb3/2. c4 | ab3/2. c4 | eb4/2~ eb4/8 f4/8 eb4/8 db4/8 | c4/2. c4
+T2: eb3/2. eb3 | c3/2. eb3 | c3/2. ab3 | c4/2~ c4/8 db4/8 c4/8 bb3/8 | ab3/2. ab3
+B1: ab3/2. ab3 | g3/2. ab3 | eb3/2. eb3 | ab3/2~ ab3/8 ab3/8 ab3/8 ab3/8 | ab3/2. ab3
+B2: ab2/2. ab2 | eb3/2. ab2 | ab2/2. ab2 | ab2/2~ ab2/8 ab2/8 ab2/8 ab2/8 | ab2/2. ab2
+L: greu Ne- | ca- zul | meu. Ori- | cât aş su- fe- | ri Cân-
+L2: tăi Da- | că_aş a- | vea, Tot | fe- ri- cit aş | fi Şi_n
+L3: vin Prin | ha- rul | Său; A- | proa- pe vreau să | fiu De
+L4: şi În | ce- rul | sfânt, A- | tunci s_a îm- pli- | nit Al
+
+@11
+T1: c4/2~ c4/8 eb4/8 db4/8 c4/8 | bb3/2. eb3 | ab3/2~ ab3/8 ab3/8 bb3/8 ab3/8 | c4/2. c4 | bb3/2. c4 | ab3/2.
+T2: ab3/2~ ab3/8 c4/8 bb3/8 ab3/8 | g3/2. c3 | c3/2~ c3/8 c3/8 db3/8 c3/8 | eb3/2. eb3 | c3/2. eb3 | c3/2.
+B1: ab3/2~ ab3/8 c4/8 bb3/8 ab3/8 | g3/2. g3 | eb3/2~ eb3/8 eb3/8 eb3/8 eb3/8 | ab3/2. ab3 | g3/2. eb3 | eb3/2.
+B2: ab2/2~ ab2/8 ab3/8 g3/8 f3/8 | eb3/2. eb3 | ab2/2~ ab2/8 ab2/8 ab2/8 ab2/8 | ab2/2. ab2 | eb3/2. ab2 | ab2/2.
+L: ta- rea mea va | fi, Vreau | lân- gă Dum- ne- | zeu Să | fiu me- | reu.
+L2: vis aş glă- su- | i, Vreau | lân- gă Dum- ne- | zeu Să | fiu me- | reu.
+L3: Dom- nul meu cel | viu, Vreau | lân- gă Dum- ne- | zeu Să | fiu me- | reu.
+L4: meu dor ne- sfâr- | şit, Vreau | lân- gă Dum- ne- | zeu Să | fiu me- | reu.
