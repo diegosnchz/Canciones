@@ -53,5 +53,6 @@ Formato: `✅ Carpeta/Canción | tonalidad | compás | nº compases | advertenci
 ✅ Rumano/Se asterne frumos, peste suflet | Si♭ M | 4/4 | 17 | himnario SATB (Speranța Creștină 528; I. Buciuman / A. Stroici 1997), 3 estrofas + Refren; anacrusa + 16 (último de 3 tiempos); 'Moderato' sin cifra, ♩=100; tenores = soprano/alto 8vb (quedan por debajo del Barítono en casi todo el himno)
 ✅ Rumano/Undeva peste noapte - b | Fa M | 4/4 | 41 | PDF vectorial; anacrusa + 40 (último de 3 tiempos); tempo no impreso, ♩=100; sin autor; melodía 'Mel.' en T2 (cruza por encima de T1); letra impresa una vez, copiada a todas las voces
 ✅ Rumano/Vreau langa Dumnezeu | La♭ M | 4/4 | 17 | himnario nº 155 (autor 'Necunoscut'), 4 estrofas; anacrusa + 16 (último de 3 tiempos); tempo no impreso, ♩=100; escaneo muy borroso: T2 c.1/5/13/11 y graves c.11 leídos por plica y armonía; tenores = soprano/alto 8vb
+✅ Rumano/Bate clopot | Re M | 4/4 | 31 | título impreso 'Bate clopot în miez de noapte', sin autor; anacrusa + 30 (último 2 tiempos con calderón); 2 estrofas + Refren; tempo no impreso, ♩=100; c.23 graves mi# (lectura más dudosa); c.16/24 blancas por suma de compás
 
 ## QA por tanda

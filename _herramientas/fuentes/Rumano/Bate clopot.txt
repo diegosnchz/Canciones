@@ -1,0 +1,46 @@
+title: Bate clopot în miez de noapte
+composer:
+lyricist:
+arranger:
+key: D
+time: 4/4
+tempo: 100
+source: PDF original (escaneo CamScanner, 1 pág., 5 sistemas, 2 pentagramas: clave de Sol arriba = T1/T2 a 8vb y clave de Fa abajo = B1/B2; 2 estrofas (1. y 2.) bajo los 3 primeros sistemas y "Refren:" en los 2 últimos con una sola línea de letra); sin autor ni tempo impresos; búsqueda web (2 consultas) sin resultados (no encontrado); tempo 100 por defecto; anacrusa de 2 tiempos (@0, el PDF la numera como c.1, así que la numeración impresa va una por encima: c.7 impreso = c.6 aquí) y último compás de 2 tiempos con calderón; sin repeticiones ni D.S./D.C. impresos (doble barra al final de la estrofa, c.15, y barra final); el número de estrofa "1." "2." no se incluye en la letra; la primera cabeza de cada sílaba tras ligadura no lleva letra; en c.22-23 la letra "cii," se prolonga con melisma sobre ligadura de expresión (no codificada); c.6 y c.21 acordes con e#3 (T1) y g#3 (B1); c.23 b3+e#3 en graves y g#3 en T1 (acorde disminuido) con sostenidos impresos
+
+@0
+T1: d3 f#3 | a3/2 f#3/2~ | f#3 d3 g3 b3 | a3/2 f#3/2~ | f#3 r d3 f#3 | a3/2. g3
+T2: d3 d3 | f#3/2 d3/2~ | d3 cn3 d3 g3 | f#3/2 d3/2~ | d3 r d3 d3 | f#3/2. e3
+B1: f#3 a3 | d4/2 a3/2~ | a3 a3 b3 d4 | d4/2 a3/2~ | a3 r f#3 a3 | d4/2. b3
+B2: d3 d3 | d3/2 d3/2~ | d3 f#3 g3 g3 | d3/2 d3/2~ | d3 r d3 d3 | a2/2. a2
+L: Ba- te | clo- pot | în miez de | noap- te, | o- ra | ma- ri-
+L2: Cân- tă | în- geri | fru- moa- sa | ves- te, | îm- pli- | nind lungi
+
+@6
+T1: f#3/2 e#3/2 | f#3/1~ | f#3/2 d3 f#3 | a3/2 f#3/2~ | f#3 d3 g3 b3
+T2: c#3/2 c#3/2 | d3/1~ | d3/2 d3 d3 | f#3/2 d3/2~ | d3 cn3 d3 g3
+B1: a3/2 g#3/2 | a3/1~ | a3/2 f#3 a3 | d4/2 a3/2~ | a3 a3 b3 d4
+B2: a2/2 c#3/2 | d3/1~ | d3/2 d3 d3 | d3/2 d3/2~ | d3 f#3 g3 g3
+L: lor mi- | nuni, | Vi- ne | Dom- nul | şi mii de
+L2: aş- tep- | tări, | Su- sur | dul- ce | ne chea- mă'a-
+
+@11
+T1: a3/2 f#3/2~ | f#3 r d3 f#3 | a3/2. g3 | f#3/2 e3/2 | d3/1 ||
+T2: f#3/2 d3/2~ | d3 r d3 d3 | f#3/2. e3 | c#3/2 c#3/2 | a2/1
+B1: d4/2 a3/2~ | a3 r f#3 a3 | d4/2. b3 | a3/2 g3/2 | f#3/1
+B2: d3/2 d3/2~ | d3 r d3 d3 | a2/2. a2 | a2/2 a2/2 | d3/1
+L: şoap- te | prind tot | ce- ru'n | ru- gă- | ciuni.
+L2: ca- să, | prin- tre | ste- le'n | de- păr- | tări.
+
+@16
+T1: b3/2 g3/2~ | g3 r g3 b3 | a3/2 f#3/2~ | f#3 r d3 f#3 | a3/2. g3 | f#3/2 e#3/2 | f#3/2 g3/2_ | g#3/2_ a3/2_
+T2: g3/2 d3/2~ | d3 r d3 g3 | f#3/2 d3/2~ | d3 r d3 d3 | f#3/2. e3 | c#3/2 c#3/2 | d3/2 g3/2_ | d3/2_ a3/2_
+B1: d4/2 b3/2~ | b3 r b3 d4 | d4/2 a3/2~ | a3 r f#3 a3 | d4/2. b3 | a3/2 g#3/2 | a3/2 b3/2_ | b3/2_ d4/2_
+B2: g3/2 g3/2~ | g3 r g3 g3 | d3/2 d3/2~ | d3 r d3 d3 | a2/2. a2 | a2/2 c#3/2 | d3/2 e3/2_ | e#3/2_ f#3/2_
+L: Doam- ne | sun- tem | ga- ta | să por- | nim spre | veş- ni- | cii,
+
+@24
+T1: b3/2 g3/2~ | g3 d3 g3 b3 | a3/2 f#3/2~ | f#3 r d3 f#3 | a3/2. g3 | f#3/2 e3/2 | time:2/4 d3/2^
+T2: g3/2 d3/2~ | d3 d3 d3 g3 | f#3/2 d3/2~ | d3 r d3 d3 | f#3/2. e3 | c#3/2 c#3/2 | a2/2^
+B1: d4/2 b3/2~ | b3 b3 b3 d4 | d4/2 a3/2~ | a3 r f#3 a3 | d4/2. b3 | a3/2 g3/2 | f#3/2^
+B2: g3/2 g3/2~ | g3 g3 g3 g3 | d3/2 d3/2~ | d3 r d3 d3 | a2/2. a2 | a2/2 a2/2 | d3/2^
+L: Ia- tă | toţi sun- tem | ga- ta, | fă ne | ste- le | de ve- | cii.
