@@ -49,5 +49,6 @@ Formato: `✅ Carpeta/Canción | tonalidad | compás | nº compases | advertenci
 ## Tanda 6 — pendientes finales
 ⛔ Navidad/It came upon the midnight partitura | La♭ M | 4/4 | — | BLOQUEADA: arreglo comercial con copyright vigente (Richard S. Willis, arr. Joel Raney, 'For T.T.B.B. Voices and Piano Accompaniment') y el PDF es una copia de vista previa con marca de agua 'PREVIEW' (partifi.org), no adquirida; igual criterio que Here Comes the Light. Si se dispone de la partitura comprada y licencia, se puede retomar.
 ⛔ Español/It came upon the midnight clear (español) | La♭ M | 4/4 | — | BLOQUEADA: es la misma copia 'PREVIEW' del arreglo de Joel Raney (marca de agua visible en pág. 1-2) impresa con letra española manuscrita; mismo motivo que la versión de Navidad.
+✅ Rumano/VINE IAR | Si♭ M | 4/4 | 32 | PDF vectorial (MuseScore); 3 estrofas c.1-16 + 'Vine iar!' c.17-32; tempo no impreso, ♩=100; sin autor; c.15-16 redondas con ligadura de expresión (sílaba por nota en estr. 1 y 3)
 
 ## QA por tanda

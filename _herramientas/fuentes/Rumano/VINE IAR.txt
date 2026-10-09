@@ -1,0 +1,65 @@
+title: VINE IAR
+composer:
+lyricist:
+arranger:
+key: Bb
+time: 4/4
+tempo: 100
+source: PDF original (MuseScore 4.0.0, 2 págs., vectorial; 4+3 sistemas, 2 pentagramas: Sol 8vb = T1/T2, Fa = B1/B2; 32 compases, sin título adicional ni autor impreso); búsqueda web (2 consultas: "Vine iar"/"Trece vremea peste lume" y "Peste-o clipă"/"Domnul vine iar"): no encontrada, compositor/letrista desconocidos; tempo no impreso, se usa 100; 3 estrofas simultáneas en c.1-16 (la 3ª continúa la 2ª: "...Doar un | ceas şi tot...") y "Vine iar!" sólo bajo la 1ª estrofa; elisiones impresas "te-o", "se-n", "de-n", "Să-L" escritas con _ (‿); letra con ş (cedilla) tal como está impresa; c.15-16 dos redondas iguales con ligadura de expresión (cada una lleva sílaba en estrofas 1 y 3: cli-pă / sa-ră; la estrofa 2 acaba en "cii." en c.15); ligaduras de expresión sobre "iar!" en c.17-20 y 25-28 (corchea/negra con puntillo + blanca + redonda); c.8, 22 y 32 con silencios de negra; sin repeticiones ni dinámicas
+
+@1
+T1: r f4/8 f4/8 f4 f4/8 g4/8~ | g4 f4 eb4 d4 | r f4/8 f4/8 f4 f4/8 g4/8~ | g4 f4 eb4 d4
+T2: r d4/8 d4/8 d4 d4/8 eb4/8~ | eb4 d4 c4 bb3 | r d4/8 d4/8 d4 d4/8 d4/8~ | d4 d4 c4 bb3
+B1: bb3. bb3/8 bb3 bb3/8 bb3/8~ | bb3 bb3 bb3 bb3 | a3. a3/8 a3 a3/8 g3/8~ | g3 a3 g3 f3
+B2: bb2. bb2/8 bb2 bb2/8 bb2/8~ | bb2 bb2 bb2 bb2 | bb2. bb2/8 bb2 bb2/8 bb2/8~ | bb2 bb2 bb2 bb2
+L: Tre- ce vre- mea pes- te lu- me, | I- nimi stau tot în ri- si- pă,
+L2: Nu e vre- me de ri- si- pă, | Se lu- mi- nă din- spre ca- să,
+L3: Lup- ta cea târ- zi- e tre- ce, | I- nimi mor azi pe pla- ne- tă,
+
+@5
+T1: r f4/8 f4/8 f4 f4/8 g4/8~ | g4 f4 eb4 d4 | ( f4 eb4_ d4_ ) eb4~ | eb4/2 r c4/8 d4/8
+T2: r d4/8 d4/8 d4 d4/8 d4/8~ | d4 d4 bb3 bb3 | bb3/2. bb3~ | bb3/2 r c4/8 c4/8
+B1: ab3. ab3/8 ab3 ab3/8 ab3/8~ | ab3 ab3 ab3 ab3 | ab3/2. g3~ | g3/2 r g3/8 g3/8
+B2: bb2. bb2/8 bb2 bb2/8 bb2/8~ | bb2 bb2 c3 d3 | eb3/2. eb3~ | eb3/2 r eb3/8 d3/8
+L: Pes- te tot un soa- re trist co- boa- ră, | To- tul
+L2: No- rul alb e ga- ta să ră- sa ră. | Nici o
+L3: Să_L aş- tep- te ci- ne stă a- fa- ră? | Doar un
+
+@9
+T1: eb4 eb4 eb4 eb4/8 f4/8~ | f4 eb4 d4 c4 | d4 d4 d4 d4/8 eb4/8~ | eb4 d4 c4 bn3
+T2: c4 c4 c4 c4/8 c4/8~ | c4 c4 bb3 a3 | bb3 bb3 bb3 bb3/8 bn3/8~ | bn3 bn3 g3 g3
+B1: g3 g3 g3 g3/8 a3/8~ | a3 f3 f3 f3 | f3 f3 f#3 f#3/8 g3/8~ | g3 g3 g3 g3
+B2: c3 c3 bb2 bb2/8 a2/8~ | a2 f2 g2 a2 | bb2 bb2 ab2 ab2/8 g2/8~ | g2 g2 g2 g2
+L: vi- ne to- tul tre- ce, | I- nimi dorm în prag de ste- le, | Ce- rul
+L2: cli- pă nu se_n- toar- ce, | Nici o zi nu stă a- ga- le, | Ma- rea
+L3: ceas şi to- tul tre- ce, | I- nimi noi sub nor de ste- le, | Ci- ne
+
+@13
+T1: c4 c4 c4 c4/8 d4/8~ | d4 c4 bb3 a3 | ( bb3/1 | bb3/1 ) | d4 d4/8 ( d4/8 d4/2_ | d4/1_ )
+T2: g3 g3 g3 g3/8 a3/8~ | a3 a3 g3 f3 | ( f3/1 | f3/1 ) | bb3 bb3/8 ( bb3/8 bb3/2_ | bb3/1_ )
+B1: eb3 eb3 eb3 eb3/8 f3/8~ | f3 f3 eb3 eb3 | ( d3/1 | d3/1 ) | f3 f3/8 ( f3. g3_ | g#3/1_ )
+B2: c3 bb2 a2 g2/8 f2/8~ | f2 f2 f2 f2 | ( bb2/1 | bb2/1 ) | bb2 bb2/8 ( bb2/8 bb2/2_ | bb2/1_ )
+L: vi- ne că- tre e- le pes- te_o | cli- pă. | Vi- ne iar!
+L2: zii a- prin- de_n za- re ves- ni- | cii. | _
+L3: poa- te că- tre mâi- ne să ră- | sa- | ră.
+
+@19
+T1: eb4 eb4/8 ( eb4/8 eb4/2_ | eb4/1_ ) | a3. a3/8 a3 bb3 | c4 c4/2 r | bb3. bb3/8 bb3 c4/8 d4/8~ | d4/1
+T2: bb3 bb3/8 ( bb3/8 bb3/2_ | bb3/1_ ) | a3. a3/8 a3 g3 | a3 a3/2 r | f3. f3/8 g3 a3/8 bb3/8~ | bb3/1
+B1: g3 g3/8 ( g3/8 g3/2_ | g3/1_ ) | f3. f3/8 f3 f3 | eb3 eb3/2 r | d3. d3/8 d3 eb3/8 f3/8~ | f3/1
+B2: eb3 eb3/8 ( eb3. d3_ | c3/1_ ) | f3. f3/8 f3 en3 | f2 f2/2 r | bb2. bb2/8 g2 f2/8 bb2/8~ | bb2/1
+L: Vi- ne iar! | Pes- te_o cli- pă | ia- tă, | Dom- nul vi- ne iar!
+
+@25
+T1: d4 d4/8 ( d4/8 d4/2_ | d4/1_ ) | eb4 eb4/8 ( eb4/8 eb4/2_ | eb4/1_ ) | a3. a3/8 a3 bb3
+T2: bb3 bb3/8 ( bb3/8 bb3/2_ | bb3/1_ ) | bb3 bb3/8 ( bb3/8 bb3/2_ | bb3/1_ ) | f3. f3/8 f3 g3
+B1: f3 f3/8 ( f3. g3_ | g#3/1_ ) | g3 g3/8 ( g3/8 g3/2_ | g3/1_ ) | f3. f3/8 f3 f3
+B2: bb2 bb2/8 ( bb2/8 bb2/2_ | bb2/1_ ) | eb3 eb3/8 ( eb3. d3_ | c3/1_ ) | f3. f3/8 f3 en3
+L: Vi- ne iar! | | Vi- ne iar! | | Pes- te_o cli- pă
+
+@30
+T1: c4. c4/8 bb3 a3 | bb3/1~ | bb3/2. r
+T2: a3. a3/8 g3 f3 | f3/2 g3/2_ | f3/2._ r
+B1: eb3. eb3/8 eb3 eb3 | d3/2 eb3/2_ | d3/2._ r
+B2: f2. f2/8 f2 f2 | bb2/1~ | bb2/2. r
+L: Dom- nul vi- ne | iar!
