@@ -50,5 +50,6 @@ Formato: `✅ Carpeta/Canción | tonalidad | compás | nº compases | advertenci
 ⛔ Navidad/It came upon the midnight partitura | La♭ M | 4/4 | — | BLOQUEADA: arreglo comercial con copyright vigente (Richard S. Willis, arr. Joel Raney, 'For T.T.B.B. Voices and Piano Accompaniment') y el PDF es una copia de vista previa con marca de agua 'PREVIEW' (partifi.org), no adquirida; igual criterio que Here Comes the Light. Si se dispone de la partitura comprada y licencia, se puede retomar.
 ⛔ Español/It came upon the midnight clear (español) | La♭ M | 4/4 | — | BLOQUEADA: es la misma copia 'PREVIEW' del arreglo de Joel Raney (marca de agua visible en pág. 1-2) impresa con letra española manuscrita; mismo motivo que la versión de Navidad.
 ✅ Rumano/VINE IAR | Si♭ M | 4/4 | 32 | PDF vectorial (MuseScore); 3 estrofas c.1-16 + 'Vine iar!' c.17-32; tempo no impreso, ♩=100; sin autor; c.15-16 redondas con ligadura de expresión (sílaba por nota en estr. 1 y 3)
+✅ Rumano/Se asterne frumos, peste suflet | Si♭ M | 4/4 | 17 | himnario SATB (Speranța Creștină 528; I. Buciuman / A. Stroici 1997), 3 estrofas + Refren; anacrusa + 16 (último de 3 tiempos); 'Moderato' sin cifra, ♩=100; tenores = soprano/alto 8vb (quedan por debajo del Barítono en casi todo el himno)
 
 ## QA por tanda

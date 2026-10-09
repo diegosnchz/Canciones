@@ -1,0 +1,65 @@
+title: Se aşterne frumos, peste suflet
+composer: Adrian Stroici
+lyricist: Ioan Buciuman
+arranger:
+key: Bb
+time: 4/4
+tempo: 100
+source: PDF original (escaneo CamScanner, 1 pag., Speranta Crestina 528; texto Ioan Buciuman 1997 y muzica Adrian Stroici 1997, in Dor de cer, Bucuresti 2004; metru 12.9.12.9 anapestic cu refren; melodia ZIUA MIELULUI BLAND; Moderato sin cifra de metronomo, se usa 100). Busqueda web (WebSearch, 3 consultas): no encontrado. Dos pentagramas: Sol (sin 8) arriba = T1/T2 (tenores, cantan una octava bajo lo escrito, Sol 8vb) y Fa abajo = B1/B2 (altura real); por eso T1/T2 quedan por debajo de B1/B2 en casi todo el himno (partitura SATB de himnario leida como cuarteto TTBB). Lectura verificada compas a compas contra el escaneo (alturas por posicion en pentagrama + armonia). 3 estrofas + Refren (Refren impreso una sola vez bajo la estrofa 1: E timpul maret...). Compases 4, 8 y 12: blanca con puntillo + negra o 2 corcheas de anacrusa de la frase siguiente dentro del mismo compas; el compas 16 final es de 3 tiempos (completa la anacrusa inicial de 1 tiempo). El doble pleca del PDF dentro del compas 8 (antes del Refren) y las llaves de frase no se representan; el Refren se marca con texto. Los compases 3 y 13 (y 6) cruzan el salto de sistema del PDF.
+
+@0
+T1: !Moderato bb2/8 c3/8
+T2: f2/8 f2/8
+B1: d3/8 eb3/8
+B2: bb2/8 bb2/8
+L: Se aş-
+L2: Se a-
+L3: Se re-
+
+@1
+T1: d3 c3/8 bb2/8 f3 f3/8 f3/8 | g3 f3/8 eb3/8 f3 d3/8 f3/8 | eb3 eb3/8 d3/8 c3 d3/8 eb3/8
+T2: bb2 bb2/8 bb2/8 c3 d3/8 d3/8 | bb2 bb2/8 bb2/8 a2 bb2/8 d3/8 | c3 g2/8 bb2/8 a2 bb2/8 c3/8
+B1: f3 eb3/8 d3/8 f3 bb3/8 bb3/8 | g3 g3/8 g3/8 f3 g3/8 g3/8 | g3 eb3/8 eb3/8 f3 f3/8 f3/8
+B2: bb2 bb2/8 bb2/8 a2 bb2/8 bb2/8 | eb3 c3/8 c3/8 d3 g2/8 g2/8 | c3 c3/8 c3/8 f2 f2/8 f2/8
+L: ter- ne fru- mos, pes- te | su- flet, un cânt, Se a- | du- nă din i- nimi, cu-
+L2: u- de, cres- când, zvo- nul | Plo- ii Târ- zii, Se în- | tin- de pe-n- tre- gul pă-
+L3: var- să-n vă- păi ce- ru-n- | treg, lu- mi- nând Sla- va | Lui pes- te-al lu- mii ho-
+
+@4
+T1: d3/2. bb2/8 c3/8 | d3 c3/8 bb2/8 f3 f3/8 f3/8 | g3 f#3/8 g3/8 a3 bb3/8 c4/8
+T2: bb2/2. bb2/8 bb2/8 | bb2 bb2/8 bb2/8 c3 d3/8 d3/8 | eb3 eb3/8 eb3/8 g3 f#3/8 f#3/8
+B1: f3/2. d3/8 eb3/8 | f3 eb3/8 d3/8 f3 bb3/8 bb3/8 | bb3 bb3/8 bb3/8 c4 d4/8 d4/8
+B2: bb2/2. bb2/8 bb2/8 | bb2 bb2/8 bb2/8 a2 bb2/8 bb2/8 | eb3 eb3/8 eb3/8 d3 d3/8 d3/8
+L: rat, Es- te | dor a- du- nat din ve- | cii şi Cu- vânt, Dor de
+L2: mânt. Sem- ne-n | cer se-n- te- ţesc, se gră- | besc gla- suri mii În-tr- un
+L3: tar... A ve- | nit zi- ua Lui, zi- ua | Mie- lu- lui blând, Tre- săl-
+
+@7
+T1: bb3 bb3/8 a3/8 g3 a3/8 g3/8 | f3/2. !Refren f3
+T2: g3 d3/8 f3/8 e3 e3/8 e3/8 | c3/2. f3
+B1: d4 bb3/8 bb3/8 c4 c4/8 bb3/8 | ( bb3 g3_ a3_ ) bb3
+B2: g3 g3/8 g3/8 c3 c3/8 c3/8 | f3/2. d3
+L: cer fre- mă- tând ne- n-ce- | tat... E
+L2: ul- tim şi sfânt le- gă- | mânt.
+L3: taţi, Hrist e Domn, vi- ne | iar!
+
+@9
+T1: g3 eb3/8 d3/8 c3 d3/8 eb3/8 | f3 d3/8 f3/8 bb3 bb3 | g3 g3/8 a3/8 bb3 a3/8 g3/8
+T2: eb3 c3/8 bb2/8 a2 bb2/8 c3/8 | d3 bb2/8 c3/8 bb2 d3 | c3 c3/8 c3/8 e3 e3/8 e3/8
+B1: bb3 g3/8 g3/8 a3 f3/8 f3/8 | f3 f3/8 f3/8 g3 g3 | e3 e3/8 f3/8 g3 c4/8 c4/8
+B2: eb3 eb3/8 eb3/8 f3 f3/8 f3/8 | bb2 bb2/8 a2/8 g2 g2 | c3 c3/8 c3/8 c3 g3/8 g3/8
+L: tim- pul mă- reţ, de pro- | feţi aş- tep- tat, E | tim- pul do- rit şi che-
+
+@12
+T1: c4/2. f3 | d4 d4/8 c4/8 bb3 c4/8 bb3/8
+T2: f3/2. f3 | f3 f3/8 f3/8 f3 f3/8 f3/8
+B1: ( bb3 g3_ a3_ ) a3 | bb3 bb3/8 a3/8 bb3 bb3/8 bb3/8
+B2: f3/2. f3 | bb2 bb2/8 c3/8 d3 d3/8 d3/8
+L: mat; Iu- | bi- rii di- vi- ne de-a-
+
+@14
+T1: g3 g3/8 a3/8 bb3 eb4/8 eb4/8 | d4 c4/8 bb3/8 c4 bb3/8 a3/8 | bb3/2. |]
+T2: eb3 eb3/8 f3/8 eb3 g3/8 g3/8 | f3 f3/8 f3/8 f3 f3/8 f3/8 | f3/2. |]
+B1: bb3 bb3/8 bb3/8 g3 bb3/8 bb3/8 | bb3 eb4/8 d4/8 eb4 d4/8 c4/8 | d4/2. |]
+B2: eb3 eb3/8 d3/8 c3 c3/8 c3/8 | f3 f3/8 f3/8 f3 f3/8 f3/8 | bb2/2. |]
+L: cum vom cân- ta: A- le- | lu- ia, în veci, O- sa- | na!
