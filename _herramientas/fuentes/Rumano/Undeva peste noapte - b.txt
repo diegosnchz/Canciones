@@ -1,0 +1,107 @@
+title: UNDEVA, PESTE NOAPTE
+composer: Negro spiritual
+lyricist: Benone Burtescu
+arranger:
+key: F
+time: 4/4
+tempo: 100
+source: PDF original (vectorial, 2 págs., 2 pentagramas TT/BB, "Cor bărbătesc", weer.ro vt 2005; letra del texto del PDF). Compás 0 = anacrusa de 1 pulso (numeración impresa: la anacrusa cuenta como c.1; el último compás tiene 3 pulsos). Voces según plicas: T1 = plicas arriba, T2 = plicas abajo (melodía 'Mel.' con letra; cruza por encima de T1 en algunos pasajes). Letra impresa una sola vez bajo el pentagrama superior (copiada a las demás voces por coincidencia de sílaba); c.10 lleva 'da' propio en T1 y bajo. Búsqueda web (3 consultas): compositor/arreglo/tempo no encontrados. Sin tempo impreso: 100. Ligaduras de expresión (slurs) no codificadas. DSL revisado compás a compás contra los recortes.
+@0
+T1: !Mel. r | c4/2. c4/8. c4/16 | a3 a3/2 c4 | c4/2. a3/8. f3/16 | f3/4.~ 3[ f3/8 d3/8_ f3/8_ ] e3/8_ e3
+T2: c3/8 f3/8 | a3/2. a3/8. a3/16 | f3 f3/2 f4 | f4/2. c4/8. a3/16 | bb3/2. d4/8 c4/8
+B1: r | d3/2. c3/8. c3/16 | c3 c3/2 a3 | a3/2. f3/8. c3/16 | d3/2 e3/2_
+B2: r | f2/2. f2/8. f2/16 | f2 f2/2 f2 | f2/2. f2/8. f2/16 | g2/2 c3/2_
+L.T1:  | va, pes- te | noap- te Un | cer de lu- | mini, Nu-
+L.T2: Un- de- | va, pes- te | noap- te Un | cer de lu- | mini, Nu- me
+L.B1:  | va, pes- te | noap- te Un | cer de lu- | mini,
+L.B2:  | va, pes- te | noap- te Un | cer de lu- | mini,
+
+@5
+T1: a3/8 r/8 c4 c#4 c#4/8. c#4/16 | d4/2 d4 d4/8. d4/16 | c4/4. r/16 a3/16 bb3 bb3/8 bb3/8 | bb3/16 a3/8.~_ a3/2 r
+T2: c4/16 a3/8. a3 a3 a3/8. g3/16 | f3/2 bb3 c4/8. bb3/16 | a3/4. r/16 f3/16 g3 g3/8 g3/8 | f3/16~ f3/8.~ f3/2 3[ c4/8 d4/8_ c4/8 ]
+B1: c3/8 r/8 f3 e3 e3/8. e3/16 | a3/2 f3 f3/8. f3/16 | f3/4. r/16 f3/16 e3 e3/8 e3/8 | d3/16 c3/8.~_ c3/2 r
+B2: f2/8 r/8 f2 a2 a2/8. a2/16 | d3/2 bb2 bb2/8. bb2/16 | c3/4. r/16 c3/16 c3 c3/8 c3/8 | f2/16~ f2/8.~ f2/2 r
+L.T1: sfin- sfin- te hai- ne | al- be vă aș- | teap- tă dragi pe- re- | grini.
+L.T2: sfin- te, sfin- te hai- ne | al- be vă aș- | teap- tă dragi pe- re- | grini. Da- că
+L.B1: sfin- sfin- te hai- ne | al- be vă aș- | teap- tă dragi pe- re- | grini.
+L.B2: sfin- sfin- te hai- ne | al- be vă aș- | teap- tă dragi pe- re- | grini.
+
+@9
+T1: c4/4~ c4/2 c4/8. c4/16 | a3 a3/2 c4 | c4/2. a3/8. f3/16 | f3/4.~ 3[ f3/8 d3/8_ f3/8_ ] e3/8_ e3
+T2: c4/8 a3/4._ a3 a3/8. a3/16 | f3 f3/2 f4 | f4/2. c4/8. a3/16 | bb3/2. d4/8 c4/8
+B1: d3/4~ d3/2 c3/8. c3/16 | c3 c3/2 a3 | a3/2. f3/8. e3/16 | d3/2 e3/2~_
+B2: f2/4~ f2/2 f2/8. f2/16 | f2 f2/2 f2 | f2/2. f2/8. f2/16 | g2/2 c3/2_
+L.T1: da vă a- | pa- să Pri- | viți că- tre | zări, În-
+L.T2: ne- guri vă a- | pa- să Pri- | viți că- tre | zări, În- tr-o
+L.B1: da vă a- | pa- să Pri- | viți că- tre | zări,
+L.B2: da vă a- | pa- să Pri- | viți că- tre | zări,
+
+@13
+T1: a3/8 r/8 c4 c#4 c#4/8. c#4/16 | d4/2 d4 d4/8. d4/16 | c4/4. r/16 a3/16 bb3 bb3/8 bb3/8 | bb3/16 a3/8.~_ a3/2. ||
+T2: c4/16 a3/8. a3 a3 a3/8. g3/16 | f3/2 bb3 c4/8. bb3/16 | a3/4. r/16 f3/16 g3 g3/8 g3/8 | f3/1
+B1: e3/8 r/8 f3 e3 e3/8. e3/16 | a3/2 f3 f3/8. f3/16 | f3/4. r/16 f3/16 e3 e3/8 e3/8 | f3/1
+B2: f2/8 r/8 f2 a2 a2/8. a2/16 | d3/2 bb2 bb2/8. bb2/16 | c3/4. r/16 c3/16 c3 c3/8 c3/8 | f2/1
+L.T1: cli- cli- pă, porți de | sla- vă s-or des- | chi- de-n mii de cân- | tări.
+L.T2: cli- pă, cli- pă, porți de | sla- vă s-or des- | chi- de-n mii de cân- | tări.
+L.B1: cli- pă, porți de | sla- vă s-or des- | chi- de-n mii de cân- | tări.
+L.B2: cli- cli- pă, porți de | sla- vă s-or des- | chi- de-n mii de cân- | tări.
+
+@17
+T1: c4/2~ c4/8 r/16 a3/16 c4/8. c4/16 | a3/2~ a3/8 c4/8 f4/8. f4/16 | f4/8 f4/8~ f4/2 a3/8. f3/16 | f3/4.~ 3[ f3/8 d3/8_ f3/8_ ] e3/8_ e3
+T2: a3/2~ a3/8 r/16 f3/16 a3/8. a3/16 | f3/2~ f3/8 a3/8 c4/8. c4/16 | d4/8 c4/8~ c4/2 c4/8. a3/16 | bb3/2. bb3
+B1: d3/2~ d3/8 r/16 c3/16 d3/8. c3/16 | c3/2~ c3/8 f3/8 a3/8. a3/16 | a3/8 a3/8~ a3/2 f3/8. e3/16 | d3/2 e3/2
+B2: f2/2~ f2/8 r/16 f2/16 f2/8. f2/16 | f2/2~ f2/8 f2/8 f2/8. f2/16 | f2/8 f2/8~ f2/2 f2/8. f2/16 | g2/2 c3/2
+L.T1: Da, veți fi a- | cas, I- sus v-aș- | teap- tă-a- cas la | El- în
+L.T2: Da, veți fi a- | cas, I- sus v-aș- | teap- tă-a- cas la | El- în
+L.B1: Da, veți fi a- | cas, I- sus v-aș- | teap- tă-a- cas la | El- în
+L.B2: Da, veți fi a- | cas, I- sus v-aș- | teap- tă-a- cas la | El- în
+
+@21
+T1: c4/8 r/8 d4/8. c4/16 c#4 c#4 | d4/2 d4 d4/8. d4/16 | c4/4.~ c4/16 a3/16 bb3 bb3/8 bb3/8 | bb3/16 a3/8.~_ a3/2 r
+T2: a3/8 r/8 a3/8. a3/16 a3 g3 | f3/2 bb3 c4/8. bb3/16 | a3/4.~ a3/16 f3/16 g3 g3/8 g3/8 | f3/16~ f3/8.~ f3/2 3[ c4/8 d4/8_ c4/8 ]
+B1: f3/8 r/8 f3/8. f3/16 e3 e3 | a3/2 f3 f3/8. f3/16 | f3/4.~ f3/16 f3/16 e3 e3/8 e3/8 | d3/16 c3/8.~_ c3/2 r
+B2: f2/8 r/8 f2/8. f2/16 a2 a2 | d3/2 bb2 bb2/8. bb2/16 | c3/4.~ c3/16 c3/16 c3 c3/8 c3/8 | f2/16~ f2/8.~ f2/2 r
+L.T1: cer, To- tul es- te | ga- ta răs- plă- | tind a- tâ- tea du- | reri.
+L.T2: cer, To- tul es- te | ga- ta răs- plă- | tind a- tâ- tea du- | reri. Stră- lu-
+L.B1: cer, To- tul es- te | ga- ta răs- plă- | tind a- tâ- tea du- | reri.
+L.B2: cer, To- tul es- te | ga- ta răs- plă- | tind a- tâ- tea du- | reri.
+
+@25
+T1: c4/2 c4_ c4/8. c4/16 | a3 a3/2 c4 | c4/2. a3/8. f3/16 | f3/4.~ 3[ f3/8 d3/8_ f3/8_ ] e3/8_ e3
+T2: c4 a3/2 a3/8. a3/16 | f3 f3/2 f4 | f4/2. c4/8. a3/16 | bb3/2. d4/8. c4/16
+B1: d3/2 d3_ c3/8. e3/16 | c3 c3/2 a3 | a3/2. f3/8. c3/16 | d3/2 e3/2_
+B2: f2/2 f2_ f2/8. f2/16 | f2 f2/2 f2 | f2/2. f2/8. f2/16 | g2/2 c3/2_
+L.T1: ci- car- tea | vie- ții, e- | ter- ne lu- | mini, Prin-
+L.T2: ci- va car- tea | vie- ții, e- | ter- ne lu- | mini, Prin- tre
+L.B1: ci- car- tea | vie- ții, e- | ter- ne lu- | mini,
+L.B2: ci- car- tea | vie- ții, e- | ter- ne lu- | mini,
+
+@29
+T1: a3/8 r/8 c4 c#4 c#4/8. c#4/16 | d4/2 d4 d4/8. d4/16 | c4/4. r/16 a3/16 bb3 bb3/8 bb3/8 | bb3/16 a3/8.~_ a3/2 r
+T2: c4/16 a3/8. a3 a3 a3/8. g3/16 | f3/2 bb3 c4/8. bb3/16 | a3/4. r/16 f3/16 g3 g3/8 g3/8 | f3/16~ f3/8.~ f3/2 3[ c4/8 d4/8_ c4/8 ]
+B1: c3/8 r/8 f3 e3 e3/8. e3/16 | a3/2 f3 f3/8. f3/16 | f3/4. r/16 f3/16 e3 e3/8 e3/8 | d3/16 c3/8.~_ c3/2 r
+B2: f2/8 r/8 f2 a2 a2/8. a2/16 | d3/2 bb2 bb2/8. bb2/16 | c3/4. r/16 c3/16 c3 c3/8 c3/8 | f2/16~ f2/8.~ f2/2 r
+L.T1: ste- ste- le măr- tu- | ri- e des- pre | voi a- leși pe- re- | grini.
+L.T2: ste- le, ste- le măr- tu- | ri- e des- pre | voi a- leși pe- re- | grini. Stră- lu-
+L.B1: ste- ste- le măr- tu- | ri- e des- pre | voi a- leși pe- re- | grini.
+L.B2: ste- ste- le măr- tu- | ri- e des- pre | voi a- leși pe- re- | grini.
+
+@33
+T1: c4/2 c4_ c4/8. c4/16 | a3 a3/2 c4 | c4/2. a3/8. f3/16 | f3/4.~ 3[ f3/8 d3/8_ f3/8_ ] e3/8_ e3
+T2: c4 a3/2 a3/8. a3/16 | f3 f3/2 f4 | f4/2. c4/8. a3/16 | bb3/2. d4/8. c4/16
+B1: d3/2 d3_ c3/8. c3/16 | c3 c3/2 a3 | a3/2. f3/8. c3/16 | d3/2 e3/2_
+B2: f2/2 f2_ f2/8. f2/16 | f2 f2/2 f2 | f2/2. f2/8. f2/16 | g2/2 c3/2_
+L.T1: ci- pes- te | noap- te, un | cer de lu- | mini, Nu-
+L.T2: ci- va pes- te | noap- te, un | cer de lu- | mini, Nu- me
+L.B1: ci- pes- te | noap- te, un | cer de lu- | mini,
+L.B2: ci- pes- te | noap- te, un | cer de lu- | mini,
+
+@37
+T1: a3/8 r/8 c4 c#4 c#4/8. c#4/16 | d4/2 d4 d4/8. d4/16 | c4/4. r/16 a3/16 bb3 bb3/8 bb3/8 | bb3/16 a3/8.~_ a3/2
+T2: c4/16 a3/8. a3 a3 a3/8. g3/16 | f3/2 bb3 c4/8. bb3/16 | a3/4. r/16 f3/16 g3 g3/8 g3/8 | f3/16~ f3/8.~ f3/2
+B1: c3/8 r/8 f3 e3 e3/8. e3/16 | a3/2 f3 f3/8. f3/16 | f3/4. r/16 f3/16 e3 e3/8 e3/8 | d3/16 c3/8.~_ c3/2
+B2: f2/8 r/8 f2 a2 a2/8. a2/16 | d3/2 bb2 bb2/8. bb2/16 | c3/4. r/16 c3/16 c3 c3/8 c3/8 | f2/16~ f2/8.~ f2/2
+L.T1: sfin- sfin- te hai- ne | al- be vă aș- | teap- tă dragi pe- re- | grini.
+L.T2: sfin- te, sfin- te hai- ne | al- be vă aș- | teap- tă dragi pe- re- | grini.
+L.B1: sfin- sfin- te hai- ne | al- be vă aș- | teap- tă dragi pe- re- | grini.
+L.B2: sfin- sfin- te hai- ne | al- be vă aș- | teap- tă dragi pe- re- | grini.
