@@ -1,0 +1,15 @@
+title: ¡Aleluya, Cristo viene!
+composer:
+lyricist:
+arranger:
+key: E
+time: 3/4
+tempo: 100
+source: PDF original (escaneo, 1 pág., 2 pentagramas S+A / T+B leídos como Sol 8vb + Fa; pie "R.H. EMAUS"); búsqueda web: pendiente; tempo 100 por defecto (el PDF no lo indica)
+
+@0
+T1: \mf e3/8 f#3/8 | g#3/2 b2 | c#3/2 a3 | g#3. f##3/8_ g#3/8_ f#3/8_ | e3/2_ e3/8 g#3/8 | f#3/2 d#3 | b2/2 a3 | g#3. f##3/8_ g#3/8_ f#3/8_ | e3/2_ e3/8 f#3/8 | g#3/2 b2
+T2: e3/8 f#3/8 | g#3/2 b2 | c#3/2 a3 | g#3. f##3/8_ g#3/8_ f#3/8_ | e3/2_ e3/8 g#3/8 | f#3/2 d#3 | b2/2 a3 | g#3. f##3/8_ g#3/8_ f#3/8_ | e3/2_ cn3/8 cn3/8 | b2/2 b2
+B1: r | r/2. | r/2. | r/2. | r/2. | r/2. | r/2. | r/2. | r/2. | r/2.
+B2: =B1
+L.TT: Cris- to | es mi | sal- va- | dor | Cris- to | es mi | sal- va- | dor | Cris- to | es mi

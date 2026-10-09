@@ -1,0 +1,9 @@
+# INCOMPLETO - NO EXPORTAR. Sin notas verificadas todavia (ver informe).
+title: Good News, Chariot's A-comin'
+composer:
+lyricist:
+arranger: Arr. by Wayne Hooper
+key: G
+time: 4/4
+tempo: 100
+source: PDF original (3 pags., foto/escaneo de baja calidad, 2 pentagramas TT/BB, anacrusa, "SPIRITUAL - Sing with steady rhythm and enthusiasm"). Busqueda web: sin coincidencia de este arreglo; tempo 100 por defecto. NOTAS SIN TRANSCRIBIR.

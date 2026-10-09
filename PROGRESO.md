@@ -56,4 +56,6 @@ Formato: `✅ Carpeta/Canción | tonalidad | compás | nº compases | advertenci
 ✅ Rumano/Bate clopot | Re M | 4/4 | 31 | título impreso 'Bate clopot în miez de noapte', sin autor; anacrusa + 30 (último 2 tiempos con calderón); 2 estrofas + Refren; tempo no impreso, ♩=100; c.23 graves mi# (lectura más dudosa); c.16/24 blancas por suma de compás
 ✅ Rumano/Pe Dumnezeu Sa-l laudati | Re M (final en Sol M) | 4/4 | 33 | sin autor; anacrusa + 32 con |: añadido en la anacrusa, casillas 1ª (c.22-26) y 2ª (c.27-32); compases incompletos c.5/6/21/22/26/27/32 tal como están impresos; tempo no impreso, ♩=100; DSL anterior corregido (tonalidad y 4 notas)
 
+⏸ PARADA 2026-10-09 por límite de uso: quedan 14 pendientes (Español: Aleluya Cristo viene, Más allá de sol, Sa nu te temi (letra Español); Inglés: Good News, Its me oh Lord; Navidad: Pequeño pueblo de Belen Gaither; Rumano: In curand acas, Printre Spini, Rasuna cintare, Sa nu te temi, Un glas, Un glas upgrade, Un sol ceresc). DSL parciales sin verificar en `_herramientas/fuentes_wip/`.
+
 ## QA por tanda
