@@ -40,6 +40,7 @@ Formato: `✅ Carpeta/Canción | tonalidad | compás | nº compases | advertenci
 ✅ Rumano/O, Doamne sfant | Re♭ M | 4/4 | 57 | PDF vectorial; 2 estrofas escritas con 'Refren:' (c.13, c.40); c.50 partido por barra intermedia en el original (unido); tempo no impreso, ♩=100; sin autor (weer.ro 2014)
 ✅ Rumano/Printre lacrimi | Sol M | 6/8 | 16 | himnario nº 676 (Psalm 130,5), 3 estrofas + Refren; tempo no impreso, ♩=80; escaneo deformado (verificación por guías locales; orquestador verificó sistema 1 nota a nota); sin autor
 ✅ Rumano/Pe crucea din dealul iubirii | Fa M | 6/8 | 17 | S. Dehelean / arr. T. Caciora (weer.ro 2016), 3 estrofas; anacrusa + compases 5/8 de fin de sistema unidos con la anacrusa siguiente (20 impresos → 17); tempo no impreso, ♩=100; letra validada con PDF vectorial de weer.ro
+✅ Rumano/Noaptea încetișor se lasa | Fa M | 4/4 | 16 | Cor bărbătesc, 3 estrofas; escaneo borroso: 3 notas deducidas por armonía (c.2 T1, c.6/14 T1, c.9 B1); tempo no impreso, ♩=100; aceptada por informe del agente sin revisión visual del orquestador
 
 ## Tanda 5 — Rumano 20-28
 ✅ Rumano/TU-MI-EȘTI-ISUS | Si♭ M | 4/4 | 16 | PDF vectorial (ADVERUM, Culmi de Viață nr. 15), 3 estrofas; tempo no impreso, ♩=100; c.9 bajos 2º tiempo unísono mi♭3 (NOTA DEDUCIDA); letra con 'ã'/'ş' tal como está impresa
