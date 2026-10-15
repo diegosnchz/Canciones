@@ -1,0 +1,44 @@
+title: Un glas
+composer: Walter
+lyricist:
+arranger:
+key: Eb
+time: 3/4
+tempo: 100
+source: PDF original (manuscrito escaneado con CamScanner, muy degradado; 1 pag., 4 sistemas de 2 pentagramas: Sol 8vb = T1/T2 y Fa = Bar/Bajo; 3 estrofas simultaneas; armadura de 3 bemoles, sin indicacion de compas en el PDF: se lee 3/4 por la anacrusa de negra y compases de blanca+negra; sin tempo impreso: 100). Cabecera casi ilegible: "UN GLAS", "WALTER ..." (apellido ilegible, fecha tipo 1979), "Versuri: ..." ilegible. Busqueda web (titulo y primer verso): no encontrado. Para aclarar notas dudosas se ha usado tambien la version limpia "Un glas upgrade.pdf" (mismo manuscrito, misma musica). Letra tal como esta impresa (mayusculas del original pasadas a minuscula; "plin" sin circunflejo en el sistema 4 y "plîn/dînc/în" con circunflejo en el 1, "săn-ge", "măn-tu-i-tor" con breve). "su_a." del c.1 = dos sílabas bajo una sola nota (en el PDF "PLÎN-SU A." y luego "DÎNC"; el punto tras la A esta impreso). Compases 5, 13 y 17: tres negras con ligadura de expresion entre la 1a y la 2a, la silaba va en la 1a y la 3a. c.18 T2 tiene tres negras (mi b, re, do) frente a blanca+negra de T1. c.19-20: bajo en divisi (si b2+mi b2) y ultimo compas con calderon; en el PDF las notas finales llevan plica (blancas) y las del bajo son redondas: se escriben todas como blanca con puntillo para completar el 3/4. c.19: T1 mi b4 con puntillo ligada al mi b4 final.
+
+@0
+T1: bb3 | bb3/2 bb3 | c4/2 c4 | eb4/2 eb4 | d4/2 ab3
+T2: g3 | g3/2 g3 | g3/2 g3 | ab3/2 ab3 | ab3/2 ab3
+B1: eb3 | eb3/2 eb3 | eb3/2 eb3 | g3/2 f3 | f3/2 f3
+B2: eb3 | eb3/2 eb3 | c3/2 eb3 | c3/2 c3 | c3/2 d3
+L: La | plîn- su_a. | dînc în- | du- re- | rat al
+L2: El | a mu- | rit, el | a'n- vi- | at în
+L3: Cînd | cea- sul | ba- te | a tîr- | ziu spre
+
+@5
+T1: ( bb3 eb4_ ) g4 | eb4/2 ab4 | g4/2 f4 | eb4/2 bb3 | bb3/2 bb3
+T2: ( g3 bb3_ ) eb4 | eb4/2 eb4 | d4/2 d4 | bb3/2 ab3 | g3/2 g3
+B1: ( d3 g3_ ) bb3 | c4/2 c4 | bb3/2 ab3 | g3/2 f3 | eb3/2 eb3
+B2: eb3/2 eb3 | ab3/2 f3 | bb2/2 bb2 | eb3/2 d3 | eb3/2 eb3
+L: Lu- mii | noas- tre | de pă- | cat con- | ti- nu
+L2: Lo- cul | meu și'al | tău s'a | dat prin | săn- ge
+L3: Lu- mea'n- | trea- gă | vreau să | fiu! Pe'a | vre- mii
+
+@10
+T1: c4/2 c4 | eb4/2 eb4 | d4/2 bb3 | ( bb3 eb4_ ) g4 | eb4/2 ab4
+T2: g3/2 g3 | ab3/2 ab3 | ab3/2 ab3 | ( g3 bb3_ ) eb4 | c4/2 eb4
+B1: eb3/2 eb3 | f3/2 f3 | f3/2 f3 | ( d3 g3_ ) bb3 | c4/2 c4
+B2: c3/2 c3 | cb3/2 cb3 | bb2/2 d3 | eb3/2 eb3 | ab3/2 f3
+L: Eu mă | simt da- | tor să | fiu răs- | pun- sul
+L2: Le'i is- | pă- și- | tor o- | fe- ră'al | dra- gos-
+L3: Pia- tră | de ho- | tar un | glas de | foc, un
+
+@15
+T1: g4/2 eb4 | eb4/2 db4 | ( eb4 ab4_ ) ab4 | g4/2 f4 | eb4/2.~ | eb4/2.^
+T2: d4/2 d4 | c4/2 db4 | ( c4 eb4_ ) eb4 | eb4 d4_ c4 | ( c4 bb3_ ab3_ | bb3/2._^ )
+B1: bb3/2 g3 | g3/2 g3 | ( ab3 c4_ ) cb4 | bb3/2 ab3 | ( ab3 g3_ f3_ | g3/2._^ )
+B2: bb2/2 bn2 | c3/2 bb2 | ab2/2 f2 | bb2/2 ab2 | bb2+eb2/2. | bb2+eb2/2._^
+L: Plin de | dor: a- | vem măn- | tu- i- | tor
+L2: Tei iz- | vor ca | bun mi- | lo- ci- | tor
+L3: Glas de | har, i- | su- se, | vi- no | iar!
