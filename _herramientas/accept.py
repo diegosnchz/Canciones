@@ -56,7 +56,7 @@ def accept(folder, song, tanda, key, time, measures, warn):
     run("git", "add", "PROGRESO.md", "_herramientas", f"{folder}/{song}")
     if folder == "Inglés":
         fix_ingles_paths()
-    run("git", "commit", "-q", "-m", f"Tanda {tanda}: {song}\n\nTranscripción TTBB: MusicXML, MSCZ, PDF, 4 MIDI, 4 MP3.\n\nCo-Authored-By: Claude Fable 5.1 <noreply@anthropic.com>")
+    run("git", "commit", "-q", "-m", f"Tanda {tanda}: {song}\n\nTranscripción TTBB: MusicXML, MSCZ, PDF, 4 MIDI, 4 MP3.\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>")
     out = run("git", "push", "-q", "fork", "transcripcion-ttbb", check=False)
     print(run("git", "log", "--oneline", "-1"))
     print("ACEPTADA", folder, song)

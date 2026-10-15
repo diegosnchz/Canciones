@@ -1,0 +1,54 @@
+title: Un glas
+composer: Walter
+lyricist:
+arranger:
+key: Eb
+time: 3/4
+tempo: 100
+source: PDF original "Un glas upgrade.pdf" (1 pág., escaneo de partitura manuscrita a mano con CamScanner, 2 pentagramas Sol/Fa por sistema, 4 sistemas, anacrusa de negra + 20 compases; 3 estrofas simultáneas; sólo consta "WALTER" en la cabecera derecha, resto de cabecera ilegible; himnario SATB leído como T1=soprano 8vb, T2=alto 8vb, Bar.=tenor, Bajo=bajo); búsqueda web (2 consultas: incipit "La plînsul adînc îndurerat..." y "Un glas de foc, un glas de har, Isuse vino iar"): no encontrada, sin datos de compositor/año/tempo, tempo no impreso se usa 100; letra manuscrita en mayúsculas transcrita en mayúscula inicial/minúsculas, elisiones impresas "su a.", "ȘI'AL", "S'A", "A'N", "LE'I", "RĂ'AL", "PE'A", "MEA'N" (las con apóstrofo se dejan como están, "su a." se escribe su_a. porque lleva una sola nota); estrofa 1 en c.1-2 "PLÎN-SU A." = una nota para "su_a."; c.5/13/17 beat 1-2 ligadura de expresión con melisma ("lu-", "lo-", "lu-", "fiu", "glas", "vem", "bun", "su-") y c.18 beat 1-2 melisma en T2; c.19 y c.20 notas largas con ligadura de unión T1 y calderón final (c.20 sin puntillo impreso: se completa con puntillo a 3/4); c.19-20 bajos divisi (mi2+si♭2 en una misma plica, escritos como acorde en Bajo); sin repeticiones ni dinámicas
+
+# NOTA DEDUCIDA: c.5 y c.13 beat 1-2 bajos: cabeza hueca de Eb3 con plica abajo = blanca (Bajo sostiene mi♭3 b1-2), cabeza D3 con plica arriba = negra (Barítono)
+# NOTA DEDUCIDA: c.5 beat 1 Barítono D3 / Bajo Eb3: las cabezas están en segunda (impresas con plica arriba la inferior y plica abajo la superior); se asignan Bar.=D3 (plica arriba) y Bajo=Eb3 (plica abajo); misma disposición en c.13 y c.17
+# NOTA DEDUCIDA: c.11 Bajo: becuadro/bemol impreso delante de la nota inferior (Do3 con bemol) y sin becuadro en la 3ª parte: se lee Do bemol 3 en las dos notas del compás (acorde Fa-La♭-Do♭-Mi♭), por la regla de accidente en el compás
+# NOTA DEDUCIDA: c.16 T2 beat 3 bemol impreso delante de la cabeza inferior (D4) = Re bemol 4 (acorde Mi♭7 con Sol-Si♭ en Bar./Bajo)
+# NOTA DEDUCIDA: c.17 Bar. beat 3 bemol impreso delante del Do4 con línea adicional = Do bemol 4
+# NOTA DEDUCIDA: c.4 final de sistema: una sola cabeza para T1 y T2 (La♭3, sin plica visible)
+# NOTA DEDUCIDA: c.12 beat 3 T1 Si♭3 / T2 La♭3 (cabezas desplazadas en 2ª, plicas separadas)
+# NOTA DEDUCIDA: c.18 T2 beat 2 Re4 (de paso entre Mi♭4 y Do4)
+# NOTA DEDUCIDA: c.19 T2 Do4 Si♭3 La♭3 (sextas paralelas con Bar. La♭3 Sol3 Fa3)
+# NOTA DEDUCIDA: c.19-20 el bajo lleva dos cabezas huecas (Eb2 con línea adicional y Bb2) con plica abajo = divisi; sólo caben 4 voces: Bajo = acorde eb2+bb2 (se conservan las dos notas)
+@0
+T1: bb3 | bb3/2 bb3 | c4/2 c4 | eb4/2 eb4 | d4/2 ab3
+T2: g3 | g3/2 g3 | g3/2 g3 | ab3/2 ab3 | ab3/2 ab3
+B1: eb3 | eb3/2 eb3 | eb3/2 eb3 | g3/2 f3 | f3/2 f3
+B2: eb3 | eb3/2 eb3 | c3/2 eb3 | c3/2 c3 | c3/2 d3
+L: La | plîn- su_a. | dînc în- | du- re- | rat al
+L2: El | a mu- | rit, el | a'n- vi- | at în
+L3: Cînd | cea- sul | ba- te | a tîr- | ziu spre
+
+@5
+T1: bb3 eb4_ g4 | eb4/2 ab4 | g4/2 f4 | eb4/2 bb3 | bb3/2 bb3
+T2: g3 bb3_ eb4 | eb4/2 eb4 | d4/2 d4 | bb3/2 ab3 | g3/2 g3
+B1: d3 g3_ bb3 | c4/2 c4 | bb3/2 ab3 | g3/2 f3 | eb3/2 eb3
+B2: eb3/2 eb3 | ab3/2 f3 | bb2/2 bb2 | eb3/2 d3 | eb3/2 eb3
+L: Lu- mii | noas- tre | de pă- | cat con- | ti- nu
+L2: Lo- cul | meu și'al | tău s'a | dat prin | săn- ge
+L3: Lu- mea'n- | trea- gă | vreau să | fiu! pe'a | vre- mii
+
+@10
+T1: c4/2 c4 | eb4/2 eb4 | d4/2 bb3 | bb3 eb4_ g4 | eb4/2 ab4
+T2: g3/2 g3 | ab3/2 ab3 | ab3/2 ab3 | g3 bb3_ eb4 | c4/2 eb4
+B1: eb3/2 eb3 | f3/2 f3 | f3/2 f3 | d3 g3_ bb3 | c4/2 c4
+B2: c3/2 c3 | cb3/2 cb3 | bb2/2 d3 | eb3/2 eb3 | ab3/2 f3
+L: Eu mă | simt da- | tor să | fiu răs- | pun- sul
+L2: Le'i is- | pă- și- | tor o- | fe- ră'al | dra- gos-
+L3: Pia- tră | de ho- | tar un | glas de | foc, un
+
+@15
+T1: g4/2 eb4 | eb4/2 eb4 | eb4 ab4_ ab4 | g4/2 f4 | eb4/2.~ | eb4/2.^
+T2: d4/2 d4 | c4/2 db4 | c4 eb4_ eb4 | eb4 d4_ c4 | c4 bb3_ ab3_ | bb3/2.^_
+B1: bb3/2 g3 | g3/2 g3 | ab3 c4_ cb4 | bb3/2 ab3 | ab3 g3_ f3_ | g3/2.^_
+B2: bb2/2 bn2 | c3/2 bb2 | ab2/2 f2 | bb2/2 ab2 | eb2+bb2/2. | eb2+bb2/2.^_
+L: Plin de | dor: a- | vem măn- | tu- i- | tor
+L2: Tei iz- | vor ca | bun mi- | lo- ci- | tor
+L3: Glas de | har, I- | su- se, | vi- no | iar!

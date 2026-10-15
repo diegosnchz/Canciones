@@ -58,4 +58,7 @@ Formato: `✅ Carpeta/Canción | tonalidad | compás | nº compases | advertenci
 
 ⏸ PARADA 2026-10-09 por límite de uso: quedan 14 pendientes (Español: Aleluya Cristo viene, Más allá de sol, Sa nu te temi (letra Español); Inglés: Good News, Its me oh Lord; Navidad: Pequeño pueblo de Belen Gaither; Rumano: In curand acas, Printre Spini, Rasuna cintare, Sa nu te temi, Un glas, Un glas upgrade, Un sol ceresc). DSL parciales sin verificar en `_herramientas/fuentes_wip/`.
 
+## Tanda 7 — últimas 13 (reanudación 2026-10-16)
+✅ Rumano/Un glas upgrade | Mi♭ M | 3/4 | 21 | manuscrito escaneado (cabecera: sólo 'WALTER' legible); 3 estrofas; anacrusa + 20; tempo no impreso, ♩=100; letra manuscrita en mayúsculas pasada a minúsculas con inicial; c.19-20 Bajo divisi mi♭2+si♭2 (5 sonidos en el original); c.20 blanca con puntillo + calderón (sin puntillo en el original); c.11 Bajo do♭3, c.17 Bar. do♭4, c.16 T2 re♭4 (bemoles impresos)
+
 ## QA por tanda
