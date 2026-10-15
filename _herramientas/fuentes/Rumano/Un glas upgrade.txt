@@ -45,7 +45,7 @@ L2: Le'i is- | pă- și- | tor o- | fe- ră'al | dra- gos-
 L3: Pia- tră | de ho- | tar un | glas de | foc, un
 
 @15
-T1: g4/2 eb4 | eb4/2 eb4 | eb4 ab4_ ab4 | g4/2 f4 | eb4/2.~ | eb4/2.^
+T1: g4/2 eb4 | eb4/2 db4 | eb4 ab4_ ab4 | g4/2 f4 | eb4/2.~ | eb4/2.^
 T2: d4/2 d4 | c4/2 db4 | c4 eb4_ eb4 | eb4 d4_ c4 | c4 bb3_ ab3_ | bb3/2.^_
 B1: bb3/2 g3 | g3/2 g3 | ab3 c4_ cb4 | bb3/2 ab3 | ab3 g3_ f3_ | g3/2.^_
 B2: bb2/2 bn2 | c3/2 bb2 | ab2/2 f2 | bb2/2 ab2 | eb2+bb2/2. | eb2+bb2/2.^_
